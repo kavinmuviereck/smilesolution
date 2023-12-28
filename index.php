@@ -3,25 +3,28 @@
 <html lang="en">
 
 <head>
-	<title>The Best Cardiac Electrophysiologist in Chennai - DrDCR</title>
-	<meta name="description" content="Experience the expertise of DrDCR, the best cardiac electrophysiologist in Chennai. Discover top-notch cardiac care and book an appointment today!">
-	<meta name="keywords" content="Best Cardiac Electrophysiologist in Chennai, Best Heart Rhythm Specialist in Chennai, Best Cardiac Arrhythmia Treatment Chennai, Top Cardiac Ablation Therapy Chennai, Best Pacemaker Implantation Chennai, Top Cardiac Defibrillator Chennai, Best Cardiac Resynchronization Therapy Chennai.">
-	
-	<!-- OGTC -->
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="The Best Cardiac Electrophysiologist in Chennai - DrDCR">
-	<meta property="og:description" content="Experience the expertise of DrDCR, the best cardiac electrophysiologist in Chennai. Discover top-notch cardiac care and book an appointment today!">
-	<meta property="og:url" content="https://www.drdcr.com/">
-	<meta property="og:image" content="https://www.drdcr.com/new-images/doctor5.png">
+	<title>Best Dental Clinic in Chrompet: Get Quality Care Now!</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="description" content="We are the best dental clinic in Chrompet, offers advanced treatment for all dental problems. Our experienced dentists provide quality services to the patients.">
+	<meta name="keywords" content="Dental clinic in Chrompet, Dental Clinic in Chromepet, Dental Care in Chrompet, Dental Hospital in Chrompet, Dentist in Chrompet, Dentistry in Chrompet, Dental Services in Chrompet">
+	<meta name="author" content="Muviereck">
+	<meta property="og:title" content="Experience the Best Dental Care at Chrompet's Top Clinic!">
+	<meta property="og:description" content="Best Dental Clinic in Chrompet - Quality care, modern tech, friendly staff. Get your smile back!">
+	<meta property="og:url" content="https://smilesolutions.muviereck.com">
+	<meta property="og:site_name" content="Smile Solutions Family Dentistry">
+	<meta property="og:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
-	<meta property="og:site_name" content="DrDCR">
+	<meta property="og:locale" content="en_IN">
+	<meta property="og:type" content="website">
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="The Best Cardiac Electrophysiologist in Chennai - DrDCR">
-	<meta property="twitter:description" content="Experience the expertise of DrDCR, the best cardiac electrophysiologist in Chennai. Discover top-notch cardiac care and book an appointment today!">
-	<meta property="twitter:image:src" content="https://www.drdcr.com/new-images/doctor5.png">
-	<meta property="twitter:image:width" content="1200">
-	<meta property="twitter:image:height" content="630">
+	<meta name="twitter:title" content="Experience the Best Dental Care at Chrompet's Top Clinic">
+	<meta name="twitter:description" content="Best Dental Clinic in Chrompet - Quality care, modern tech, friendly staff. Get your smile back!">
+	<meta name="twitter:site" content="@Smilesolutions">
+	<meta name="twitter:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
+	<meta name="twitter:image:alt" content="Smile Solutions - Best Dental Clinic in Chrompet">
+	<meta name="twitter:creator" content="@smilesolutions">
 
 	<link rel="canonical" href="https://www.drdcr.com/">
 	<?php include "header.php"; ?>
@@ -29,210 +32,244 @@
 
 
 <body>
-<?php include('menu.php'); ?>
-<div class="page-content bg-white" style="margin-top: 80px; background-image:url(images/main-banner/bg1.jpg);">
+	<?php include('menu.php'); ?>
+	<div class="page-content bg-white" style="margin-top: 80px; 
+	background-image:url(images/main-banner/bg1.jpg);
+	/* background-color:#f2fff7 !important; */
+	">
 
-	<div id="demo" class="carousel slide" data-ride="carousel">
+		<div id="demo" class="carousel slide" data-ride="carousel">
 
-		<!-- Indicators -->
-		<div class="d-none d-md-block">
-		<ul class="carousel-indicators" style="z-index: 0;">
-			<li data-target="#demo" data-slide-to="0" class="active"></li>
-			<li data-target="#demo" data-slide-to="1"></li>
-			<li data-target="#demo" data-slide-to="2"></li>
-		</ul>
+			<!-- Indicators -->
+			<div class="d-none d-md-block">
+				<ul class="carousel-indicators" style="z-index: 0;">
+					<li data-target="#demo" data-slide-to="0" class="active"></li>
+					<li data-target="#demo" data-slide-to="1"></li>
+					<li data-target="#demo" data-slide-to="2"></li>
+				</ul>
+			</div>
+
+			<!-- The slideshow -->
+			<div class="carousel-inner">
+				<div class="carousel-item active">
+					<div class="container inner-content">
+						<div class="row align-items-center">
+							<div class="col-lg-7 col-md-6 col-sm-7">
+								<!-- <h6 class="title-ext text-primary">We Provide All Health Care Solution</h6> -->
+								<h1 class="banner-content banner-content-index mb-3">Best Dental Clinic in Chrompet Chennai</h1>
+								<a href="about-us.php" class="btn common-btn btn-lg shadow">Read More</a>
+							</div>
+							<div class="col-lg-5 col-md-6 col-sm-5">
+								<div class="banner-img">
+									<img src="images/index/Srikanth.jpg" alt="DrDCR – Best Heart Rhythm Specialist in Chennai">
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- <img src="new-images/dban.jpg" alt="Los Angeles" style="width: 100%; height: 500px;"> -->
+				</div>
+				<div class="carousel-item">
+					<div class="container inner-content">
+						<div class="row align-items-center">
+							<div class="col-lg-7 col-md-6 col-sm-7">
+								<!-- <h6 class="title-ext text-primary">We Provide All Health Care Solution</h6> -->
+								<h2 style="font-size: 40px;" class="banner-content mb-3">Smile Makeover in Chromepet</h2>
+								<a href="about-us.php" class="btn common-btn btn-lg shadow">Read More</a>
+							</div>
+							<div class="col-lg-5 col-md-6 col-sm-5">
+								<div class="banner-img">
+									<img src="images/index/poornima.jpg" alt="DrDCR – Best Cardiac Electrophysiologist in Chennai">
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- <img src="new-images/dban.jpg" alt="Chicago" style="width: 100%; height: 500px;"> -->
+				</div>
+			</div>
+
+			<!-- Left and right controls -->
+			<a class="carousel-control-prev" href="#demo" data-slide="prev">
+				<i class="fa fa-chevron-left" aria-hidden="true" style="color: #154D38;"></i>
+				<!-- <span class="carousel-control-prev-icon"></span> -->
+			</a>
+
+			<a class="carousel-control-next" href="#demo" data-slide="next">
+				<!-- <span class="carousel-control-next-icon"></span> -->
+				<i class="fa fa-chevron-right" aria-hidden="true" style="color: #154D38;"></i>
+			</a>
 		</div>
 
-		<!-- The slideshow -->
-		<div class="carousel-inner">
-			<div class="carousel-item active">
-				<div class="container inner-content">
-					<div class="row align-items-center">
-						<div class="col-lg-7 col-md-6 col-sm-7">
-							<!-- <h6 class="title-ext text-primary">We Provide All Health Care Solution</h6> -->
-							<h1 class="banner-content banner-content-index mb-3">Experienced & Trusted Cardiac Electrophysiologist</h1>
-							<a href="about-us.php" class="btn common-btn btn-lg shadow">Read More</a>
+	</div>
+
+
+
+	<div class="container">
+		<div class="row ">
+			<div class="col-md-12">
+				<div class="thsn-team-details-wrap">
+					<div class="row main-row-padding">
+						<div class="col-lg-5">
+							<div class="">
+								<img width="770" height="770" src="images/index/smile-hospital.jpg" class="attachment-thsn-img-770x770 size-thsn-img-770x770 wp-post-image" alt="Dr Deep Chand Raja" srcset="images/index/smile-hospital.jpg?resize=150%2C150&amp;ssl=1 150w, images/index/smile-hospital.jpg?resize=770%2C770&amp;ssl=1 770w, images/index/smile-hospital.jpg?resize=300%2C300&amp;ssl=1 300w, images/index/smile-hospital.jpg?zoom=2&amp;resize=770%2C770&amp;ssl=1 1540w" sizes="(max-width: 770px) 100vw, 770px">
+							</div>
 						</div>
-						<div class="col-lg-5 col-md-6 col-sm-5">
-							<div class="banner-img">
-								<img src="new-images/doctor4.png" alt="DrDCR – Best Heart Rhythm Specialist in Chennai">
+						<div class="col-lg-7 ">
+							<div class="">
+								<h3 class="mb-3" style="font-size: 26px;">Smile Solutions</h3>
+								<h6 class="">Smile Solutions Family Dentistry </h6>
+							</div>
+							<div class=" text-justify">
+								<p>Smile Solutions Family Dentistry, a renowned dental clinic in Chrompet Chennai, provides exceptional and comprehensive dental care.Our highly skilled and experienced dentists are committed to ensuring your comfort and satisfaction.</p>
+								<ul>
+									<li><a href="tel:9043632236" class="text-dark">Phone:  8637632673</a></li>
+									<li><a href="mailto:deepchandh@gmail.com" class="text-dark">Email: smilesolutions18@gmail.com</a></li>
+								</ul>
+								<a href="about-us.php" class="btn common-btn shadow">Read More</a>
 							</div>
 						</div>
 					</div>
 				</div>
-				<!-- <img src="new-images/dban.jpg" alt="Los Angeles" style="width: 100%; height: 500px;"> -->
-			</div>
-			<div class="carousel-item">
-				<div class="container inner-content">
-					<div class="row align-items-center">
-						<div class="col-lg-7 col-md-6 col-sm-7">
-							<!-- <h6 class="title-ext text-primary">We Provide All Health Care Solution</h6> -->
-							<h2 style="font-size: 40px;" class="banner-content mb-3">Minimally Invasive & Affordable Treatment</h2>
-							<a href="about-us.php" class="btn common-btn btn-lg shadow">Read More</a>
-						</div>
-						<div class="col-lg-5 col-md-6 col-sm-5">
-							<div class="banner-img">
-								<img src="new-images/doctor5.png" alt="DrDCR – Best Cardiac Electrophysiologist in Chennai">
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- <img src="new-images/dban.jpg" alt="Chicago" style="width: 100%; height: 500px;"> -->
-			</div>
-			<div class="carousel-item">
-				<div class="container inner-content">
-					<div class="row align-items-center">
-						<div class="col-lg-7 col-md-6 col-sm-7">
-							<!-- <h6 class="title-ext text-primary">We Provide All Health Care Solution</h6> -->
-							<h2 style="font-size: 40px;" class="banner-content mb-3">Exceptional Care for All Matters of the Heart</h2>
-							<a href="about-us.php" class="btn common-btn btn-lg shadow">Read More</a>
-						</div>
-						<div class="col-lg-5 col-md-6 col-sm-5">
-							<div class="banner-img">
-								<img src="new-images/doctor3.png" alt="DrDCR – Best Cardiac Electrophysiologist in Chennai">
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- <img src="new-images/dban.jpg" alt="New York" style="width: 100%; height: 500px;"> -->
-			</div>
+			</div><!-- .row -->
 		</div>
-
-		<!-- Left and right controls -->
-		<a class="carousel-control-prev" href="#demo" data-slide="prev">
-			<i class="fa fa-chevron-left" aria-hidden="true" style="color: #ee1d23;"></i>
-			<!-- <span class="carousel-control-prev-icon"></span> -->
-		</a>
-
-		<a class="carousel-control-next" href="#demo" data-slide="next">
-			<!-- <span class="carousel-control-next-icon"></span> -->
-			<i class="fa fa-chevron-right" aria-hidden="true" style="color: #ee1d23;"></i>
-		</a>
-	</div>
-
-</div>
-
-
-
-<div class="container">
-	<div class="row ">
-		<div class="col-md-12">
-			<div class="thsn-team-details-wrap">
-				<div class="row main-row-padding">
-					<div class="col-lg-5">
-						<div class="">
-							<img width="770" height="770" src="https://i0.wp.com/rajasuperspecialityclinic.com/wp-content/uploads/2020/01/DEEP-CHAND-RAJA-PROFILE-1.jpg?resize=770%2C770&amp;ssl=1" class="attachment-thsn-img-770x770 size-thsn-img-770x770 wp-post-image" alt="Dr Deep Chand Raja" srcset="https://i0.wp.com/rajasuperspecialityclinic.com/wp-content/uploads/2020/01/DEEP-CHAND-RAJA-PROFILE-1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/rajasuperspecialityclinic.com/wp-content/uploads/2020/01/DEEP-CHAND-RAJA-PROFILE-1.jpg?resize=770%2C770&amp;ssl=1 770w, https://i0.wp.com/rajasuperspecialityclinic.com/wp-content/uploads/2020/01/DEEP-CHAND-RAJA-PROFILE-1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/rajasuperspecialityclinic.com/wp-content/uploads/2020/01/DEEP-CHAND-RAJA-PROFILE-1.jpg?zoom=2&amp;resize=770%2C770&amp;ssl=1 1540w" sizes="(max-width: 770px) 100vw, 770px">
-						</div>
-					</div>
-					<div class="col-lg-7 ">
-						<div class="">
-							<h3 class="mb-3" style="font-size: 26px;">Dr Deep Chandh Raja S</h3>
-							<h6 class="">Senior Consultant Cardiologist, Cardiac Electrophysiologist </h6>
-						</div>
-						<div class=" text-justify">
-							<p>Advancing on his passion for Cardiology, Dr. DCR specializes in a super-specialty of cardiology called Cardiac Electrophysiology- a niche specialization which involves the evaluation and treatment of complex heart rhythm abnormalities, also known as arrhythmias.</p>
-							<ul>
-								<li><a href="tel:9043632236" class="text-dark">Phone: 9043632236</a></li>
-								<li><a href="mailto:deepchandh@gmail.com" class="text-dark">Email: deepchandh@gmail.com</a></li>
-							</ul>
-
-							<a href="about-us.php" class="btn common-btn shadow">Read More</a>
-
-						</div>
-
-					</div>
-				</div>
-
-
-			</div>
-		</div><!-- .row -->
-	</div>
 
 
 		<!-- service -->
-<section class="section-area section-sp1 service-wraper service-wraper-index">
-	<div class="row align-items-center">
-			<div class="col-xl-7 col-lg-7 mb-30">
-				<div class="heading-bx">
-					<h6 class="title-ext text-secondary mt-5">Services</h6>
-					<h2 class="title for-service-text-size" style="color:#343a40 !important;">We cover extensive Cardiac Electrophysiology services</h2>
-					<p style="color:#343a40 !important; font-size: 16px;">we provide comprehensive personalized care for all heart rhythm problems. Dr. DCR is an expert in diagnosing and treating bradyarrhythmias and tachyarrhymias. He has extensive experience in device implantation like pacemakers, Defibrillators Implantation (ICD), Cardiac Resynchronization Therapy (CRT).</p>
+		<section class="section-area section-sp1 service-wraper service-wraper-index">
+			<div class="row align-items-center">
+				<div class="col-xl-7 col-lg-7 mb-30">
+					<div class="heading-bx">
+						<h6 class="title-ext text-secondary mt-5">Services</h6>
+						<h2 class="title for-service-text-size" style="color:#343a40 !important;">Our Services</h2>
+						<p style="color:#343a40 !important; font-size: 16px;">Smile Solutions Family Dentistry offers a complete range of dental care services and treatments. Whether you require a thorough dental cleaning or a more intricate cosmetic procedure for your teeth or gums, we have the ideal dental treatment tailored to your needs. Below is a summary of the services provided by our dependable and highly skilled dentist in Chrompet, Chennai.</p>
+					</div>
+					<a href="services.php" class="btn btn-secondary btn-lg shadow">Dentistry Services</a>
 				</div>
-				<a href="services.php" class="btn btn-secondary btn-lg shadow">Cardiac EP Services</a>
+
+				<div class="col-xl-5 col-lg-4 col-md-12   mb-15  text-center order-first order-lg-last">
+					<img src="images/index/smile-dental.jpg" alt="DrDCR – Best Cardiologist in Chennai" class="shadows-box">
+				</div>
 			</div>
 
-			<div class="col-xl-5 col-lg-4 col-md-12   mb-15  text-center order-first order-lg-last"> 
+<!-- <img class="pt-img1 animate-rotate" src="images/shap/line-circle-blue.png" alt="">
+	 <img class="pt-img3 animate-wave" src="images/shap/wave-blue.png" alt="">
+	 <img class="pt-img4 animate1" src="images/shap/square-rotate.png" alt=""> -->
+		</section>
 
-				<img src="images/about/2aboutus2.png" alt="DrDCR – Best Cardiologist in Chennai" class="shadows-box">
-			</div>
-	</div>
-
-	<!-- <img class="pt-img1 animate-rotate" src="images/shap/line-circle-blue.png" alt="">
-	<img class="pt-img3 animate-wave" src="images/shap/wave-blue.png" alt="">
-	<img class="pt-img4 animate1" src="images/shap/square-rotate.png" alt=""> -->
-</section>
-
-	<div class="container mt-5">
-		<h3>Skills of Doctor</h3>
-		<h6 class="mt-5">PROCEDURE EXPERT IN</h6>
-		<div class="row">
-			<div class="col-md-8 mb-30">
-				<div class="skillbar-box mb-30 ">
-					<h6 class="title mb-3">Pacing & Defibrillators</h6>
-
-					<div class="skillbar appear" data-percent="100%">
-						<p class="skillbar-bar"></p>
-						<span class="skill-bar-percent">100%</span>
+		<div class="container mt-5">
+			<h3>Services</h3>
+			<h6 class="mt-5">CHILDREN DENTISTRY IN CHROMPET</h6>
+			<div class="row">
+				<div class="col-md-8 mb-30">
+					<div class="skillbar-box mb-30 ">
+						<h6 class="title mb-3">Dentistry for your Child</h6>
+						<div class="skillbar appear" data-percent="100%">
+							<p class="skillbar-bar"></p>
+							<span class="skill-bar-percent">100%</span>
+						</div>
+						<p>Children's dentistry, also known as pediatric dentistry, refers to the specialized branch of dentistry that focuses on the oral health and dental care of infants, children, and adolescents.</p>
 					</div>
-					<p>Single and dual chamber pacemakers, Leadless pacemaker implants, Defibrillator implants, Cardiac resynchronization devices (CRT, CRTd), Subcutaneous ICDs</p>
+
+					<div class="skillbar-box mb-30">
+						<h6 class="title mb-3">Root Canal Treatment</h6>
+						<div class="skillbar appear" data-percent="100%">
+							<p class="skillbar-bar"></p>
+							<span class="skill-bar-percent">100%</span>
+						</div>
+						<p>Root canal treatment, also known as endodontic treatment, is a dental procedure that involves removing the infected or damaged pulp from inside a tooth and filling the resulting space with a special material.</p>
+					</div>
+
+					<div class="skillbar-box mb-0">
+						<h6 class="title mb-3">Orthodontics</h6>
+						<div class="skillbar appear" data-percent="100%">
+							<p class="skillbar-bar"></p>
+							<span class="skill-bar-percent">100%</span>
+						</div>
+						<p>Orthodontics is a specialized branch of dentistry that focuses on the diagnosis, prevention, and treatment of dental & facial irregularities. It primarily deals with correcting misaligned teeth, improper jaw positioning, and malocclusions.</p>
+					</div>
+
+					<div class="skillbar-box mb-0">
+						<h6 class="title mb-3">Implant Dentistry</h6>
+						<div class="skillbar appear" data-percent="100%">
+							<p class="skillbar-bar"></p>
+							<span class="skill-bar-percent">100%</span>
+						</div>
+						<p>Implant dentistry is a subspecialty that focuses on the placement and repair of dental implants. Dental implants are artificial tooth roots surgically implanted into the jawbone to provide a solid foundation for replacement teeth.</p>
+					</div>
+
+					<div class="skillbar-box mb-0">
+						<h6 class="title mb-3">Brushing Techniques</h6>
+						<div class="skillbar appear" data-percent="100%">
+							<p class="skillbar-bar"></p>
+							<span class="skill-bar-percent">100%</span>
+						</div>
+						<p>Brushing techniques refer to specific methods and approaches used while brushing teeth to effectively remove plaque, prevent tooth decay, and maintain good oral hygiene.</p>
+					</div>
+
+					<div class="skillbar-box mb-0">
+						<h6 class="title mb-3">Dental Bridges</h6>
+						<div class="skillbar appear" data-percent="100%">
+							<p class="skillbar-bar"></p>
+							<span class="skill-bar-percent">100%</span>
+						</div>
+						<p>Dental bridges are dental restorations that are used to replace lost teeth. They are named "bridges" because they bridge the gap left by lost teeth by connecting the normal teeth on either side of the gap.</p>
+					</div>
+
+					<div class="skillbar-box mb-0">
+						<h6 class="title mb-3">Dental Crowns</h6>
+						<div class="skillbar appear" data-percent="100%">
+							<p class="skillbar-bar"></p>
+							<span class="skill-bar-percent">100%</span>
+						</div>
+						<p>Dental crowns, also known as dental caps, are dental restorations that cover the whole visible area of a tooth. They are custom-made prosthetic devices to restore the shape, size, strength, and appearance of damaged or weakened teeth.</p>
+					</div>
+
+					
+					<div class="skillbar-box mb-0">
+						<h6 class="title mb-3">Preventive Dentistry</h6>
+						<div class="skillbar appear" data-percent="100%">
+							<p class="skillbar-bar"></p>
+							<span class="skill-bar-percent">100%</span>
+						</div>
+						<p>Preventive dentistry is maintaining good oral health and preventing dental issues before they begin or worsen. It entails a combination of at-home oral hygiene practices and professional dental care to maintain teeth and gums healthy.</p>
+					</div>
+
+					
+					<div class="skillbar-box mb-0">
+						<h6 class="title mb-3">Restorative Dentistry</h6>
+						<div class="skillbar appear" data-percent="100%">
+							<p class="skillbar-bar"></p>
+							<span class="skill-bar-percent">100%</span>
+						</div>
+						<p>Restorative dentistry is a branch of dentistry that focuses on diagnosing, preventing, and treating oral diseases, injuries, and other conditions that affect the function, appearance, and overall health of teeth, gums, and surrounding tissues.</p>
+					</div>
 
 				</div>
 
-				<div class="skillbar-box mb-30">
-					<h6 class="title mb-3">Ablations of Arrhythmias</h6>
-					<div class="skillbar appear" data-percent="100%">
-						<p class="skillbar-bar"></p>
-						<span class="skill-bar-percent">100%</span>
-					</div>
-					<p>Supraventricular tachycardia ablations, Atrial fibrillation ablations, Ventricular tachycardia ablations, Complex VT ablations like Epicardial ablations, Familiarity with both CARTOR and NavXR 3-D mapping systems, Endomyocardial biopsies</p>
+				<div class="col-md-4 mb-30" v-align: top;>
+					<h5>More Services</h5>
+					<ul class="list-check-squer mb-0">
+						<li>Dentures (Dentures are removable dental prostheses used to replace lost teeth and adjacent tissues. They are made to look like natural teeth and support the lips and cheeks, improving facial beauty and restoring dental function.)</li>
+						<li>Teeth Whitening (Teeth whitening is a cosmetic dental technique that lightens the colour of teeth while also removing stains or discolouration. It is a common treatment option for people who want a brighter, more appealing smile.)</li>
+						<li>Smile Makeover (A smile makeover is a comprehensive and customized dental treatment or series of treatments plan designed to enhance the appearance and functionality of a person's smile.)</li>
+						<li>Sedation Dentistry (Sedation dentistry is a practice that involves using medication to help patients relax during dental operations. It is often known as "sleep dentistry"; however, patients are normally awake during the treatment unless general anaesthesia is utilized.)</li>
+						<li>Oral Maxillofacial (Oral and maxillofacial surgery is a branch of dentistry that focuses on diagnosing and treating diseases involving the oral cavity (mouth) and the maxillofacial area (face, jaw, and associated structures).)</li>
+						<li>Dental Veneers (Dental veneers, also known as porcelain veneers or dental porcelain laminates, are thin, custom-made shells made of tooth-colored materials, such as porcelain or composite resin.)</li>
+					</ul>
 				</div>
-
-				<div class="skillbar-box mb-0">
-					<h6 class="title mb-3">Interventional Cardiology & Coronary interventions</h6>
-					<div class="skillbar appear" data-percent="100%">
-						<p class="skillbar-bar"></p>
-						<span class="skill-bar-percent">100%</span>
-					</div>
-					<p>Diagnostic radial & femoral coronary angiograms, Primary coronary angioplasty in acute MI, Routine coronary angioplasties</p>
-				</div>
-
-			</div>
-
-			<div class="col-md-4 mb-30" v-align: top;>
-				<h5>SPECIALITY IN SIMPLE TERMS</h5>
-				<ul class="list-check-squer mb-0">
-					<li>Heart Rhythm disorders (Arrhythmias, Atrial fibrillation, Ventricular tachycardias)</li>
-					<li>Pacemakers & Defibrillator implant & management</li>
-					<li>Heart failure management</li>
-					<li>Cardiac resynchronization device implants & management</li>
-					<li>Heart attack prevention and management</li>
-					<li>Coronary stent interventions & management</li>
-				</ul>
 			</div>
 		</div>
-	</div>
 
-	<div class="container">
-		<div class="row">
-			<div class="col-12">
-				<h2 style="font-size: 40px;" class="mt-5">Visiting Hospital with affiliations</h2>
-				<ul class="list-check-squer mb-0">
-					<li class="qualification-font">Raja Superspeciality Clinic- Senior Consultant Cardiologist</li>
-					<li class="qualification-font">Kauvery hospital- Clinical Lead of Cardiac Electrophysiology & Consultant Cardiologist</li>
-				</ul>
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<h2 style="font-size: 40px;" class="mt-5">Visiting Hospital with affiliations</h2>
+					<ul class="list-check-squer mb-0">
+						<li class="qualification-font"> Dr. M. Srikanth is a Dentist, Prosthodontist, and Cosmetic/Aesthetic Dentist in Chrompet,Chennai and has an experience of 23 years in these fields.</li>
+						<li class="qualification-font">Dr. Poornima Srikanth is a Cosmetic/Aesthetic Dentist,Dental Surgeon and Oral Pathologist in Chrompet, Chennai and has an experience of 18 years in these fields.</li>
+					</ul>
+				</div>
 			</div>
 		</div>
-	</div>
 
 
 
@@ -260,8 +297,8 @@
 
 
 
-	<!-- About us -->
-	<!-- <section class="section-sp1 about-area">
+		<!-- About us -->
+		<!-- <section class="section-sp1 about-area">
 		<div class="container">
 			<div class="row align-items-center">
 				<div class="col-lg-6 mb-30">
@@ -349,8 +386,8 @@
 
 	</section> -->
 
-	<!-- Our Progress -->
-	<!-- <section class="section-area section-sp5 work-area" style="background-image: url(images/background/line-bg1.png); background-repeat: no-repeat; background-position: center; background-size: 100%;">
+		<!-- Our Progress -->
+		<!-- <section class="section-area section-sp5 work-area" style="background-image: url(images/background/line-bg1.png); background-repeat: no-repeat; background-position: center; background-size: 100%;">
 			<div class="container-sm">
 				<div class="heading-bx text-center">
 					<h6 class="title-ext text-secondary">Working Process</h6>
@@ -391,8 +428,8 @@
 			<img class="pt-img3 animate3" src="images/shap/circle-dots.png" alt="">
 		</section> -->
 
-	<!-- Appointment -->
-	<!-- <section class="section-area account-wraper1">
+		<!-- Appointment -->
+		<!-- <section class="section-area account-wraper1">
 			<div class="container-fluid">
 				<div class="appointment-inner section-sp2" style="background-image: url(images/appointment/line-bg.png); background-repeat: no-repeat; background-position: 20px 140px;">
 					<div class="container">
@@ -455,7 +492,7 @@
 
 
 
-	<!-- <div class="page-content bg-white"> -->
+		<!-- <div class="page-content bg-white"> -->
 
 
 		<!-- About us -->
@@ -527,9 +564,9 @@
 
 
 
-</div>
+	</div>
 
-<!-- <section>
+	<!-- <section>
 <div class="row mt-5 contact-strip mb-5">
 	<div class="container-fluid ">
 		<div class="col-12  p-0" style="height: 200px; ">
@@ -547,137 +584,138 @@
 </div>
 </section> -->
 
-<br><br><br><br><br>
+	<br><br><br><br><br>
 
-        <section class="">
-			<div class="container-fluid mt-5">
-				<div class="contact-wraper ">
-					<div class="row">						
-						<div class="col-lg-12 mb-30 px-lg-3 px-0">
-							<div class="contact-info ovpr-dark" style="background-image: url(images/about/pic-1.jpg);">
-								<div class="info-inner">
-									<h4 class="title mb-30">Contact Us For Any Informations</h4>									
-										<form class="form-wraper contact-form ajax-form" method="post">
-											<!-- <div class="ajax-message"></div> -->
-											<div class="row">
-												<div class="form-group col-md-4">
-													<input name="name" type="text" required class="form-control index-form" placeholder="Your Name*" pattern="^[a-zA-Z ]{2,50}$" style="background: white !important; color:#222222;">
-												</div>
-												<div class="form-group col-md-4">
-													<input name="email" type="email" required class="form-control index-form" placeholder="Email*"  pattern="^[a-zA-Z][a-zA-Z0-9]+@([-a-zA-Z0-9]+\.)[a-zA-Z]{2,5}$" style="background: white !important; color:#222222;">
-												</div>
+	<section class="">
+		<div class="container-fluid mt-5">
+			<div class="contact-wraper ">
+				<div class="row">
+					<div class="col-lg-12 mb-30 px-lg-3 px-0">
+						<div class="contact-info ovpr-dark" style="background-image: url(images/about/pic-1.jpg);">
+							<div class="info-inner">
+								<h4 class="title mb-30">Contact Us For Any Informations</h4>
+								<form class="form-wraper contact-form ajax-form" method="post">
+									<!-- <div class="ajax-message"></div> -->
+									<div class="row">
+										<div class="form-group col-md-4">
+											<input name="name" type="text" required class="form-control index-form" placeholder="Your Name*" pattern="^[a-zA-Z ]{2,50}$" style="background: white !important; color:#222222;">
+										</div>
+										<div class="form-group col-md-4">
+											<input name="email" type="email" required class="form-control index-form" placeholder="Email*" pattern="^[a-zA-Z][a-zA-Z0-9]+@([-a-zA-Z0-9]+\.)[a-zA-Z]{2,5}$" style="background: white !important; color:#222222;">
+										</div>
 
-												<!-- <div class="form-group col-md-4"></div> -->
+										<!-- <div class="form-group col-md-4"></div> -->
 
-												<div class="form-group col-md-4">
-												<input type="text" name="mobile" class="form-control index-form" placeholder="Phone Number*" pattern="^(\+91[\-\s]?)?[0]?(91)?[789]\d{9}$" required maxlength="10" style="background: white !important; color:#222222;">
-												<!-- <input name="mobile" type="text" required class="form-control" placeholder="Phone Numbers"> -->
-												</div>
-												<!-- <div class="form-group col-md-4">
+										<div class="form-group col-md-4">
+											<input type="text" name="mobile" class="form-control index-form" placeholder="Phone Number*" pattern="^(\+91[\-\s]?)?[0]?(91)?[789]\d{9}$" required maxlength="10" style="background: white !important; color:#222222;">
+											<!-- <input name="mobile" type="text" required class="form-control" placeholder="Phone Numbers"> -->
+										</div>
+										<!-- <div class="form-group col-md-4">
 													
 													<input name="subject" type="text" required class="form-control index-form" placeholder="Subject*" pattern="^[a-zA-Z][ a-zA-Z0-9]+$">
 
 												</div> -->
-												
-												<!-- <div class="form-group col-md-12">
+
+										<!-- <div class="form-group col-md-12">
 													<div class="input-group">
 														<div class="g-recaptcha" data-sitekey="6Lf2gYwUAAAAAJLxwnZTvpJqbYFWqVyzE-8BWhVe" data-callback="verifyRecaptchaCallback" data-expired-callback="expiredRecaptchaCallback"></div>
 														<input class="form-control d-none" style="display:none;" data-recaptcha="true" required data-error="Please complete the Captcha">
 													</div>
-												</div> --> 
-												
-												
-											</div>
-												<div class="text-center my-5">												
-													<button name="contacts_send" type="submit" value="Submit" class="btn w-75 btn-secondary btn-lg">Submit</button>
-												</div>
-										</form>							
-								</div>
+												</div> -->
+
+
+									</div>
+									<div class="text-center my-5">
+										<button name="contacts_send" type="submit" value="Submit" class="btn w-75 btn-secondary btn-lg">Submit</button>
+									</div>
+								</form>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-        </section>
-		
+		</div>
+	</section>
+
 	<script type="application/ld+json">
 		{
-		"@context": "https://schema.org/",
-		"@type": "WebSite",
-		"name": "DrDCR",
-		"url": "https://www.drdcr.com/",
-		"potentialAction": {
-			"@type": "SearchAction",
-			"target": "https://www.drdcr.com/{search_term_string}",
-			"query-input": "required name=search_term_string"
-		}
+			"@context": "https://schema.org/",
+			"@type": "WebSite",
+			"name": "DrDCR",
+			"url": "https://www.drdcr.com/",
+			"potentialAction": {
+				"@type": "SearchAction",
+				"target": "https://www.drdcr.com/{search_term_string}",
+				"query-input": "required name=search_term_string"
+			}
 		}
 	</script>
 
-<?php include "footer.php"; ?>
-  <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [{
-    "@type": "Question",
-    "name": "What is the difference between a cardiologist and a cardiac electrophysiologist?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "A cardiologist specializes in heart health and treats a variety of cardiovascular problems. A cardiac electrophysiologist is a cardiologist who specializes in heart rhythm disorders and their therapies, such as ablation and device implantation."
-    }
-  },{
-    "@type": "Question",
-    "name": "What is a cardiac electrophysiologist?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "A cardiac electrophysiologist is a specialized cardiologist who detects and treats heart rhythm disorders, such as arrhythmias, with techniques such as ablation and device implantation."
-    }
-  },{
-    "@type": "Question",
-    "name": "Who is the best electrophysiologist in Chennai?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Dr DCR (Deep Chandh Raja) is the Best Electrophysiologist in Chennai"
-    }
-  },{
-    "@type": "Question",
-    "name": "Who needs electrophysiology?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Individuals experiencing abnormal heartbeats, palpitations, or fainting may require electrophysiology (EP). It is crucial in diagnosing and treating conditions such as atrial fibrillation, tachycardia, and ventricular arrhythmias. EP procedures, including ablation or device implantation, can help address these rhythm problems efficiently. Consult a cardiologist for evaluation."
-    }
-  },{
-    "@type": "Question",
-    "name": "What is the recovery time for an electrophysiology study?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The recovery period following an electrophysiology (EP) study is usually brief. Most patients can return to normal activities within a day or two. Some precautions may be required for a few days, depending on the specific procedure and individual health. Your healthcare provider will advise you."
-    }
-  },{
-    "@type": "Question",
-    "name": "Is electrophysiology painful?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Local anesthetic and sedation reduce pain during an electrophysiology (EP) operation. Some patients may experience mild pressure or momentary discomfort when catheters are implanted, although pain is generally managed. Minor discomfort or bruising at the insertion site is usual after the surgery."
-    }
-  },{
-    "@type": "Question",
-    "name": "What is the duration of electrophysiology?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The length of an electrophysiology (EP) procedure varies, but it usually takes 2-4 hours. Complex cases may require more time. The recovery time in the hospital could range from a few hours to overnight. Your cardiologist can provide a more accurate estimate based on your condition and the complexity of the surgery."
-    }
-  },{
-    "@type": "Question",
-    "name": "What is the success rate of the electrophysiology study?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The success rate of electrophysiology (EP) research varies according to the condition and procedure. Arrhythmia diagnosis and therapy success rates are reasonable, frequently reaching 90%. Individual factors, on the other hand, can influence outcomes. For more specific information, speak with your medical professional."
-    }
-  }]
-}
-</script>
+	<?php include "footer.php"; ?>
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "FAQPage",
+			"mainEntity": [{
+				"@type": "Question",
+				"name": "What is the difference between a cardiologist and a cardiac electrophysiologist?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "A cardiologist specializes in heart health and treats a variety of cardiovascular problems. A cardiac electrophysiologist is a cardiologist who specializes in heart rhythm disorders and their therapies, such as ablation and device implantation."
+				}
+			}, {
+				"@type": "Question",
+				"name": "What is a cardiac electrophysiologist?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "A cardiac electrophysiologist is a specialized cardiologist who detects and treats heart rhythm disorders, such as arrhythmias, with techniques such as ablation and device implantation."
+				}
+			}, {
+				"@type": "Question",
+				"name": "Who is the best electrophysiologist in Chennai?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "Dr DCR (Deep Chandh Raja) is the Best Electrophysiologist in Chennai"
+				}
+			}, {
+				"@type": "Question",
+				"name": "Who needs electrophysiology?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "Individuals experiencing abnormal heartbeats, palpitations, or fainting may require electrophysiology (EP). It is crucial in diagnosing and treating conditions such as atrial fibrillation, tachycardia, and ventricular arrhythmias. EP procedures, including ablation or device implantation, can help address these rhythm problems efficiently. Consult a cardiologist for evaluation."
+				}
+			}, {
+				"@type": "Question",
+				"name": "What is the recovery time for an electrophysiology study?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "The recovery period following an electrophysiology (EP) study is usually brief. Most patients can return to normal activities within a day or two. Some precautions may be required for a few days, depending on the specific procedure and individual health. Your healthcare provider will advise you."
+				}
+			}, {
+				"@type": "Question",
+				"name": "Is electrophysiology painful?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "Local anesthetic and sedation reduce pain during an electrophysiology (EP) operation. Some patients may experience mild pressure or momentary discomfort when catheters are implanted, although pain is generally managed. Minor discomfort or bruising at the insertion site is usual after the surgery."
+				}
+			}, {
+				"@type": "Question",
+				"name": "What is the duration of electrophysiology?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "The length of an electrophysiology (EP) procedure varies, but it usually takes 2-4 hours. Complex cases may require more time. The recovery time in the hospital could range from a few hours to overnight. Your cardiologist can provide a more accurate estimate based on your condition and the complexity of the surgery."
+				}
+			}, {
+				"@type": "Question",
+				"name": "What is the success rate of the electrophysiology study?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "The success rate of electrophysiology (EP) research varies according to the condition and procedure. Arrhythmia diagnosis and therapy success rates are reasonable, frequently reaching 90%. Individual factors, on the other hand, can influence outcomes. For more specific information, speak with your medical professional."
+				}
+			}]
+		}
+	</script>
 
 </body>
+
 </html>

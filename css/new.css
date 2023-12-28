@@ -35,28 +35,28 @@
 
 .title
 {
-    color: #ee1d23;
+    color: #154D38;
 }
 
 .common-btn 
 {
-    background-color: #d53d3d;
+    background-color: #154D38;
     color: #fff; 
 }
 
 .common-btn:hover 
 {
-  background-color: #d00006;
+  background-color: #154D38;
   color: #fff;
-  border: 2px solid #d53d3d;
-  box-shadow: 0px 5px 20px 0px rgba(241, 119, 50, 0.3) !important; 
+  border: 2px solid #154D38;
+  box-shadow: 0px 5px 20px 0px #154D38!important; 
 }
 
 .carousel-indicators li
 {
     width: 12px !important;
     height: 12px !important;
-    background-color: #ee1d23 !important;
+    background-color: #154D38 !important;
     border-radius: 50%;
 }
 
@@ -80,7 +80,7 @@
         margin-right: 0 !important;
         width: 265px !important;
         right: auto !important;
-        background-color: #1f2278 !important;
+        background-color: #05933f !important;
         z-index: -1 !important;
       }
 

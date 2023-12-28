@@ -3,25 +3,28 @@
 <html lang="en">
 
 <head>
-	<title>Best Cardiologist in Chennai - DrDCR: Experience Excellence</title>
-	<meta name="description" content="Experience top-tier heart care with DrDCR, the best cardiologist in Chennai. Take action for a healthier future. Book your appointment now!">
-	<meta name="keywords" content="Cardiologist in Chennai, Best Cardiologist in Chennai, Expert Cardiologist in Chennai, Experienced Cardiologist in Chennai, Professional Cardiologist in Chennai, Cardiology Specialist in Chennai, Top Cardiologist Chennai, Cardiologist near me, Heart Specialist Chennai, Best Heart Doctor in Chennai">
-	
-	<!-- OGTC -->
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="Best Cardiologist in Chennai - DrDCR: Experience Excellence">
-	<meta property="og:description" content="Experience top-tier heart care with DrDCR, the best cardiologist in Chennai. Take action for a healthier future. Book your appointment now!">
-	<meta property="og:url" content="https://www.drdcr.com/about-us.php">
-	<meta property="og:image" content="https://www.drdcr.com/images/about/2aboutus2.png">
+	<title>Best Dental Hospital in Chrompet | World-Class Care for You</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<meta name="description" content="We are the best dental hospital in Chrompet providing best dental care services. We are committed to help you achieve and maintain a healthy, beautiful smile.">
+	<meta name="keywords" content="Dental Hospital in Chrompet, Dental clinic in Chrompet, Dental Clinic in Chromepet,Dental Care in Chrompet, Dentist in Chrompet, Dentistry in Chrompet, Dental Services in Chrompet">
+	<meta name="author" content="Muviereck">
+	<meta property="og:title" content="Best Dentist in Chrompet: Get Quality Care & Affordable Rates!">
+	<meta property="og:description" content="Compassionate dentist providing quality care for all dental needs">
+	<meta property="og:url" content="https://smilesolutions.muviereck.com/about-us">
+	<meta property="og:site_name" content="Smile Solutions Family Dentistry">
+	<meta property="og:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
-	<meta property="og:site_name" content="DrDCR">
+	<meta property="og:locale" content="en_IN">
+	<meta property="og:type" content="website">
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Best Cardiologist in Chennai - DrDCR: Experience Excellence">
-	<meta property="twitter:description" content="Experience top-tier heart care with DrDCR, the best cardiologist in Chennai. Take action for a healthier future. Book your appointment now!">
-	<meta property="twitter:image:src" content="https://www.drdcr.com/images/about/2aboutus2.png">
-	<meta property="twitter:image:width" content="1200">
-	<meta property="twitter:image:height" content="630">
+	<meta name="twitter:title" content="Best Dentist in Chrompet: Get Quality Care & Affordable Rates!">
+	<meta name="twitter:description" content="Compassionate dentist providing quality care for all dental needs">
+	<meta name="twitter:site" content="@Smilesolutions">
+	<meta name="twitter:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
+	<meta name="twitter:image:alt" content="Smile Solutions - Best Dental Clinic in Chrompet">
+	<meta name="twitter:creator" content="@smilesolutions">
 
 	<link rel="canonical" href="https://www.drdcr.com/about-us.php">
 	<?php include "header.php"; ?>
@@ -79,10 +82,11 @@
 	}
 </style>
 </head>
+
 <body>
-<?php include('menu.php'); ?>
+	<?php include('menu.php'); ?>
 	<div class="page-content bg-white">
-	
+
 		<!-- Inner Banner -->
 		<div class="banner-wraper">
 			<div class="page-banner" style="background-image:url(images/banner/img1.jpg);">
@@ -92,7 +96,10 @@
 						<!-- Breadcrumb row -->
 						<nav aria-label="breadcrumb" class="breadcrumb-row">
 							<ul class="breadcrumb">
-								<li class="breadcrumb-item"><a href="index.php"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg> Home</a></li>
+								<li class="breadcrumb-item"><a href="index.php"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home">
+											<path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+											<polyline points="9 22 9 12 15 12 15 22"></polyline>
+										</svg> Home</a></li>
 								<li class="breadcrumb-item active" aria-current="page">About Us</li>
 							</ul>
 						</nav>
@@ -105,23 +112,23 @@
 			<!-- Breadcrumb row END -->
 		</div>
 		<!-- Inner Banner end -->
-			
+
 		<!-- About us -->
 		<section class="section-sp1 about-area">
 			<div class="container speciality-container">
 				<div class="row align-items-center">
 					<div class="col-lg-6 mb-30">
 						<div class="about-thumb-area">
-						<!-- <img src="new-images/aboutus.png" alt="" style="box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;"> -->
-						<img src="images/about/2aboutus2.png" alt="Dr DCR - Top Cardiologist Chennai" class="shadows-box">
+							<!-- <img src="new-images/aboutus.png" alt="" style="box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;"> -->
+							<img src="images/about/2aboutus2.png" alt="Dr DCR - Top Cardiologist Chennai" class="shadows-box">
 
 						</div>
 					</div>
 					<div class="col-lg-6 mb-30">
 						<div class="heading-bx">
-							<h6 class="title-ext text-secondary">About DR DCR</h6>
+							<h6 class="title-ext text-secondary">About Smile Solution</h6>
 							<h2 class="title">Meticulous, Attentive & Patient Focused Care</h2>
-							<p class="text-justify"><b>Dr. Deep Chandh Raja (DCR)</b> has 15+ years of experience in the field of Cardiology and has specialized in Cardiology from a distinguished institute in India. Having worked in some of the most reputed Cardiac Institutes and Hospitals in India and Australia, he ranks amongst the Best Cardiologist in Chennai.</p>
+							<p class="text-justify"><b>Welcome to Smile Solutions Family Dentistry, your go-to destination for top-notch dental care. Our clinic in Chrompet, Chennai, offers a wide range of dental services, from basic diagnosis to full mouth rehabilitation and dental implants. We take pride in our expert and dedicated team of dentists who work together to deliver high-quality treatment with a friendly approach. Whether you're from India or visiting from abroad, we are committed to providing personalized and exceptional dental care. Step into our clinic and experience a comfortable and serene environment with the latest technology. Your smile is our priority</p>
 						</div>
 						<!-- <div class="row">
 							<div class="col-lg-6 col-sm-6 mb-30 mb-sm-20">
@@ -195,7 +202,7 @@
 				</div>
 
 				<div class="row align-items-center">
-					
+
 					<div class="col-lg-7 ">
 						<div class="heading-bx">
 							<p class="text-justify">Advancing on his passion for Cardiology, Dr. DCR specializes in a super-specialty of cardiology called Cardiac Electrophysiology- a niche specialization which involves the evaluation and treatment of complex heart rhythm abnormalities, also known as arrhythmias. With a decade of experience and clinical expertise in Cardiac Electrophysiology, he has earned the reputation of the go-to Cardiac Electrophysiologist in Chennai and is assuredly one of the Best Cardiac Electrophysiologist in India. He is immensely proficient to treat the full range of cardiac arrhythmia conditions, including implantation of pacemakers, defibrillators (ICD), and cardiac resynchronization therapy (CRT) devices to treat congestive heart failure and prevention of sudden cardiac death.</p>
@@ -227,7 +234,7 @@
 				</div>
 
 				<div class="row align-items-center">
-					
+
 					<div class="col-lg-7 mb-30">
 						<div class="heading-bx">
 							<p class="text-justify">Trained extensively in the field of heart rhythm problems in India and Australia, he has several accolades to his credit for his prominent achievements. A popular cardiology specialist, he has also shared his expertise by participating in multiple international and national clinical trials, and has published nearly 45 research papers in highly respected journals. He is an invited faculty in various National and International Cardiology conferences. He also is a visiting teaching faculty and a proctor for various centers in India for Electrophysiology ablation procedures like AF ablation and VT ablation, and complex device implants like ICD and CRT.</p>
@@ -262,8 +269,8 @@
 
 					<div class="col-lg-12 mb-30">
 						<div class="heading-bx">
-							<p class="text-justify">From advanced diagnosis and treatment to rehabilitation and prevention in the field of Cardiology and Cardiac Electrophysiology, Dr. DCR - a popular electrophysiologist cardiologist offers a full range of cardiology services, including advice on the latest in minimally invasive surgery, leading-edge valve repair, bypass surgeries and more. He is closely associated with all the leading cardio vascular surgeon in the city, who are capable of performing minimally invasive surgeries, valve replacements, coronary endarterectomies, off-pump coronary bypass surgeries, total arterial graft bypass surgeries, lung transplant, and heart transplant surgeries.</p>			
-							<p class="text-justify">Book an appointment with the best cardiologist doctor in Chennai to avail his life saving heart treatments and keep your heart beating right. Because a Heart that Beats Right, Stays Right.</p>			
+							<p class="text-justify">From advanced diagnosis and treatment to rehabilitation and prevention in the field of Cardiology and Cardiac Electrophysiology, Dr. DCR - a popular electrophysiologist cardiologist offers a full range of cardiology services, including advice on the latest in minimally invasive surgery, leading-edge valve repair, bypass surgeries and more. He is closely associated with all the leading cardio vascular surgeon in the city, who are capable of performing minimally invasive surgeries, valve replacements, coronary endarterectomies, off-pump coronary bypass surgeries, total arterial graft bypass surgeries, lung transplant, and heart transplant surgeries.</p>
+							<p class="text-justify">Book an appointment with the best cardiologist doctor in Chennai to avail his life saving heart treatments and keep your heart beating right. Because a Heart that Beats Right, Stays Right.</p>
 						</div>
 					</div>
 
@@ -276,7 +283,7 @@
 			<img class="pt-img4 animate-wave" src="images/shap/square-dots-orange.png" alt="">
 			<img class="pt-img5 animate2" src="images/shap/square-blue.png" alt=""> -->
 		</section>
-		
+
 		<!-- About us -->
 		<!-- <section class="section-sp1 service-wraper2">
 			<div class="container">
@@ -312,7 +319,7 @@
 				</div>
 			</div>
 		</section> -->
-		
+
 		<!-- Team -->
 		<!-- <section class="section-area section-sp3 team-wraper">
 			<div class="container">
@@ -383,7 +390,7 @@
 			<img class="pt-img4 animate-wave" src="images/shap/wave-blue.png" alt="">
 			<img class="pt-img5 animate-wave" src="images/shap/circle-dots.png" alt="">
 		</section> -->
-		
+
 		<!-- Testimonial -->
 		<!-- <section class="section-area section-sp3 testimonial-wraper">
 			<div class="container">
@@ -505,7 +512,7 @@
 			<img class="pt-img3 animate3" src="images/shap/circle-dots.png" alt="">
 			<img class="pt-img4 animate4" src="images/shap/circle-orange-2.png" alt="">
 		</section> -->
-		
+
 		<!-- Blog -->
 		<!-- <section class="section-area section-sp1 blog-area" style="background-image: url(images/background/line-bg2.png); background-position: center; background-size: cover;">
 			<div class="container">
@@ -598,7 +605,7 @@
 			<img class="pt-img3 animate-rotate" src="images/shap/line-circle-blue.png" alt="">
 			<img class="pt-img4 animate-wave" src="images/shap/wave-blue.png" alt="">
 		</section> -->
-		
+
 	</div>
 
 	<div class="container">
@@ -626,130 +633,130 @@
 
 
 
-		<div class="container">
+	<div class="container">
 		<!-- <div class="row"> -->
-			<h2 class="text-center mt-5 mb-5">Experiences</h2>
+		<h2 class="text-center mt-5 mb-5">Experiences</h2>
 
-				<div class="tab d-flex justify-content-between">
-					<div class="row w-100">
+		<div class="tab d-flex justify-content-between">
+			<div class="row w-100">
 
-						<div class="col-lg-4 col-12 p-0">
-							<button class="tablinks active py-5" onclick="openCity(event, 'Patient-Experience')"><img src="new-images/patient_experience.png" alt="Patient Experience">Patient Experience (15+years)</button>
-						</div>
-
-						<div class="col-lg-4 col-12 p-0">
-							<button class="tablinks  py-5" onclick="openCity(event, 'Research-Experience')"><img src="new-images/research_experience.png" alt="Research Experience">Research Experience</button>
-						</div>
-
-						<div class="col-lg-4 col-12 p-0">
-							
-							<button class="tablinks py-5 " onclick="openCity(event, 'Teaching-Experience')"><img src="new-images/teaching_experience.png" alt="Teaching Experience">Teaching Experience</button>
-						</div>
-					</div>
-					
+				<div class="col-lg-4 col-12 p-0">
+					<button class="tablinks active py-5" onclick="openCity(event, 'Patient-Experience')"><img src="new-images/patient_experience.png" alt="Patient Experience">Patient Experience (15+years)</button>
 				</div>
 
-				<div id="Research-Experience" class="tabcontent">
-					<h5 class="mt-5 mb-5">
-						Dr Deep Chandh Raja has participated in multiple international & national clinical trials.
-					</h5>
-
-
-					<ul class="list-check-squer mb-0">
-						<li class="qualification-font"> Novel risk stratification tools in Non-Ischemic Cardiomyopathy</li>
-						<li class="qualification-font">Co-investigator: BIOMASTER. BIOMONITOR III, 2020 – till date – A multi-centre, international, open label study. The aim of the study is to test the safety and efficacy of the FIT OneStep which will be used as an insertion tool to implant the BIOMONITOR III.</li>
-						<li class="qualification-font">Co-investigator: OCEAN, Optimal antiCoagulation for Enhanced risk pAtients Post-catheter ablatioN for atrial fibrillation, 2019 – till date – OCEAN is a prospective, open label, randomised controlled study aimed to investigate the superiority of long-term oral anticoagulation over antiplatelet therapy in preventing stroke in AF patients after their catheter ablation. The study is sponsored by Ottawa Heart Institute Research Corporation based in Ottawa, Canada.</li>
-						<li class="qualification-font">Co-investigator: CAPLA, Catheter Ablation for Persistent atriaL fibrillAtion, 2019 – till date. CAPLA is an investigator-led, multicenter, randomised study. It assesses the effect of posterior left atrial wall isolation (PWI) with PVI (Pulmonary vein isolation) method in comparison to PVI method alone in atrial fibrillation ablation recurrence rate.</li>
-						<li class="qualification-font">Co-investigator: SOLVE CRT, Stimulation Of the Left Ventricular Endocardium for Cardiac Resynchronisation Therapy, 2019 – till date – Solve-CRT is a multi-centre, randomized and double-blind trial. The patients have cardiac indications of either in Class I, Class IIa and Class IIb, in which their CRT have either failed to respond or have been unable to receive conventional CRT. The aim of the study is to test a new method to place the CRT. The study is funded by EBR Systems from United States of America.</li>
-						<li class="qualification-font">Coinvestigator studies at the MMM: Pilot study iFR vs FFR, MASTER-DAPT trial</li>
-					</ul>
-
-
+				<div class="col-lg-4 col-12 p-0">
+					<button class="tablinks  py-5" onclick="openCity(event, 'Research-Experience')"><img src="new-images/research_experience.png" alt="Research Experience">Research Experience</button>
 				</div>
 
-				<div id="Patient-Experience" class="tabcontent">
-					<h5 class="mt-5 mb-5 text-center">
-						15+ years of patient experience <br> Clinical lead Cardio Electrophysiologist, Chennai
-					</h5>
+				<div class="col-lg-4 col-12 p-0">
 
-
-					<ul class="list-check-squer mb-0">
-						<li class="qualification-font">May 2022- present: Director of Cardiology, Senior Consultant Cardiologist & Cardiac Electrophysiologist (Raja Superspeciality Clinic)</li>
-						<li class="qualification-font">2019-2022: Advanced Cardiac Electrophysiology Fellow (Canberra Hospitals & Australian National University)</li>
-						<li class="qualification-font">2016- 2019: Associate Consultant Cardiologist (The Madras Medical Mission, Chennai)</li>
-						<li class="qualification-font">2013- 2016: Senior Resident in Cardiology (Sanjay Gandhi Postgraduate Institute, Lucknow)</li>
-						<li class="qualification-font">2009-2013: Junior Resident in Internal Medicine (King George Medical College, Lucknow)</li>
-
-					</ul>
+					<button class="tablinks py-5 " onclick="openCity(event, 'Teaching-Experience')"><img src="new-images/teaching_experience.png" alt="Teaching Experience">Teaching Experience</button>
 				</div>
+			</div>
 
-				<div id="Teaching-Experience" class="tabcontent">
-					<h5 class="mt-5 mb-5 ">
-						Dr Deep Chandh Raja has taught medical students, cardiac scientists, and cardiac technologists. He has trained cardiology and cardiac electrophysiology trainee.
-					</h5>
+		</div>
+
+		<div id="Research-Experience" class="tabcontent">
+			<h5 class="mt-5 mb-5">
+				Dr Deep Chandh Raja has participated in multiple international & national clinical trials.
+			</h5>
 
 
-					<ul class="list-check-squer mb-0">
-						<li class="qualification-font">Tutor for undergraduate medical students (2009-2012)</li>
-						<li class="qualification-font">Tutor for postgraduate internal medicine students (2012-2016)</li>
-						<li class="qualification-font">Training of Cardiology Trainees at Madras Medical Mission, Chennai (2016-2019)</li>
-						<li class="qualification-font">Training of Cardiac scientists, Technicians at Canberra Hospitals, Australian National University (2019-2022)</li>
+			<ul class="list-check-squer mb-0">
+				<li class="qualification-font"> Novel risk stratification tools in Non-Ischemic Cardiomyopathy</li>
+				<li class="qualification-font">Co-investigator: BIOMASTER. BIOMONITOR III, 2020 – till date – A multi-centre, international, open label study. The aim of the study is to test the safety and efficacy of the FIT OneStep which will be used as an insertion tool to implant the BIOMONITOR III.</li>
+				<li class="qualification-font">Co-investigator: OCEAN, Optimal antiCoagulation for Enhanced risk pAtients Post-catheter ablatioN for atrial fibrillation, 2019 – till date – OCEAN is a prospective, open label, randomised controlled study aimed to investigate the superiority of long-term oral anticoagulation over antiplatelet therapy in preventing stroke in AF patients after their catheter ablation. The study is sponsored by Ottawa Heart Institute Research Corporation based in Ottawa, Canada.</li>
+				<li class="qualification-font">Co-investigator: CAPLA, Catheter Ablation for Persistent atriaL fibrillAtion, 2019 – till date. CAPLA is an investigator-led, multicenter, randomised study. It assesses the effect of posterior left atrial wall isolation (PWI) with PVI (Pulmonary vein isolation) method in comparison to PVI method alone in atrial fibrillation ablation recurrence rate.</li>
+				<li class="qualification-font">Co-investigator: SOLVE CRT, Stimulation Of the Left Ventricular Endocardium for Cardiac Resynchronisation Therapy, 2019 – till date – Solve-CRT is a multi-centre, randomized and double-blind trial. The patients have cardiac indications of either in Class I, Class IIa and Class IIb, in which their CRT have either failed to respond or have been unable to receive conventional CRT. The aim of the study is to test a new method to place the CRT. The study is funded by EBR Systems from United States of America.</li>
+				<li class="qualification-font">Coinvestigator studies at the MMM: Pilot study iFR vs FFR, MASTER-DAPT trial</li>
+			</ul>
 
-					</ul>
-				</div>
-			<!-- </div> -->
+
+		</div>
+
+		<div id="Patient-Experience" class="tabcontent">
+			<h5 class="mt-5 mb-5 text-center">
+				15+ years of patient experience <br> Clinical lead Cardio Electrophysiologist, Chennai
+			</h5>
+
+
+			<ul class="list-check-squer mb-0">
+				<li class="qualification-font">May 2022- present: Director of Cardiology, Senior Consultant Cardiologist & Cardiac Electrophysiologist (Raja Superspeciality Clinic)</li>
+				<li class="qualification-font">2019-2022: Advanced Cardiac Electrophysiology Fellow (Canberra Hospitals & Australian National University)</li>
+				<li class="qualification-font">2016- 2019: Associate Consultant Cardiologist (The Madras Medical Mission, Chennai)</li>
+				<li class="qualification-font">2013- 2016: Senior Resident in Cardiology (Sanjay Gandhi Postgraduate Institute, Lucknow)</li>
+				<li class="qualification-font">2009-2013: Junior Resident in Internal Medicine (King George Medical College, Lucknow)</li>
+
+			</ul>
+		</div>
+
+		<div id="Teaching-Experience" class="tabcontent">
+			<h5 class="mt-5 mb-5 ">
+				Dr Deep Chandh Raja has taught medical students, cardiac scientists, and cardiac technologists. He has trained cardiology and cardiac electrophysiology trainee.
+			</h5>
+
+
+			<ul class="list-check-squer mb-0">
+				<li class="qualification-font">Tutor for undergraduate medical students (2009-2012)</li>
+				<li class="qualification-font">Tutor for postgraduate internal medicine students (2012-2016)</li>
+				<li class="qualification-font">Training of Cardiology Trainees at Madras Medical Mission, Chennai (2016-2019)</li>
+				<li class="qualification-font">Training of Cardiac scientists, Technicians at Canberra Hospitals, Australian National University (2019-2022)</li>
+
+			</ul>
+		</div>
+		<!-- </div> -->
 		<!-- </div> -->
 	</div>
 
 
 
 
-<div class="container">
-	<h2 class="mt-5 mb-5">Achievements / Awards / Conferences & Publications</h2>
+	<div class="container">
+		<h2 class="mt-5 mb-5">Achievements / Awards / Conferences & Publications</h2>
 
 
 
 
 
-<div class="accordion" id="accordionPanelsStayOpenExample">
+		<div class="accordion" id="accordionPanelsStayOpenExample">
 
 
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="panelsStayOpen-headingThree">
-      <button class="accordion-button collapsed card-color text-white"  style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
-	  Academic and Professional Honors
-      </button>
-    </h2>
-    <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingThree">
-      <div class="accordion-body">
-		<ul class=" mb-0">
-			<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Best case for fellows</strong> at Transcatheter-Cardiovascular Therapeutics (TCT) 2017, Denver, USA</li>
-			<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>AV Gandhi award </strong>(2017) for excellence in Cardiology</li>
-			<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Best original article</strong> (Dr. JC Patel and BC Mehta award, 2017) by the Association of Physicians of India JAPI, India</li>
-			<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Best case</strong> at the annual Indian Heart Rhythm Society Conference (2017)</li>
-			<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Prize finalist</strong> (Heart Rhythm oral and poster) at CSANZ 2019, Adelaide</li>
-			<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Best Case series</strong> at Annual Electrophysiology Conference, IHRS 2017, Ahmedabad, India</li>
-			<li class="qualification-font"><span style="font-size: 25px;"><strong>• </strong></span>Won <strong>Best Paper presentation award</strong> at National CSICON in 2016</li>
-			<li class="qualification-font"><span style="font-size: 25px;"><strong>• </strong></span>Won <strong>Best Poster presentation</strong> award at National APICON in 2012</li>
-			<li class="qualification-font"><span style="font-size: 25px;"><strong>• </strong></span>Won <strong>Academic Award for First rank</strong> in University examinations in Physiology in MBBS</li>
-			<li class="qualification-font"><span style="font-size: 25px;"><strong>• </strong></span><strong>Distinctions</strong> in Anatomy, Physiology, Pharmacology in MBBS</li>
-		</ul>
-	    </div>
-    </div>
-  </div>
+			<div class="accordion-item">
+				<h2 class="accordion-header" id="panelsStayOpen-headingThree">
+					<button class="accordion-button collapsed card-color text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
+						Academic and Professional Honors
+					</button>
+				</h2>
+				<div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingThree">
+					<div class="accordion-body">
+						<ul class=" mb-0">
+							<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Best case for fellows</strong> at Transcatheter-Cardiovascular Therapeutics (TCT) 2017, Denver, USA</li>
+							<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>AV Gandhi award </strong>(2017) for excellence in Cardiology</li>
+							<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Best original article</strong> (Dr. JC Patel and BC Mehta award, 2017) by the Association of Physicians of India JAPI, India</li>
+							<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Best case</strong> at the annual Indian Heart Rhythm Society Conference (2017)</li>
+							<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Prize finalist</strong> (Heart Rhythm oral and poster) at CSANZ 2019, Adelaide</li>
+							<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Best Case series</strong> at Annual Electrophysiology Conference, IHRS 2017, Ahmedabad, India</li>
+							<li class="qualification-font"><span style="font-size: 25px;"><strong>• </strong></span>Won <strong>Best Paper presentation award</strong> at National CSICON in 2016</li>
+							<li class="qualification-font"><span style="font-size: 25px;"><strong>• </strong></span>Won <strong>Best Poster presentation</strong> award at National APICON in 2012</li>
+							<li class="qualification-font"><span style="font-size: 25px;"><strong>• </strong></span>Won <strong>Academic Award for First rank</strong> in University examinations in Physiology in MBBS</li>
+							<li class="qualification-font"><span style="font-size: 25px;"><strong>• </strong></span><strong>Distinctions</strong> in Anatomy, Physiology, Pharmacology in MBBS</li>
+						</ul>
+					</div>
+				</div>
+			</div>
 
-  <div class="accordion-item">
-	
-    <h2 class="accordion-header" id="panelsStayOpen-headingTwo">
-      <button class="accordion-button collapsed text-white"  style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
-	   Publications
+			<div class="accordion-item">
 
-      </button>
-    </h2>
-    <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
-      <div class="accordion-body">
-	
-		<!-- <ul>
+				<h2 class="accordion-header" id="panelsStayOpen-headingTwo">
+					<button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
+						Publications
+
+					</button>
+				</h2>
+				<div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
+					<div class="accordion-body">
+
+						<!-- <ul>
 			<li>
 				<strong><span style="font-size: 25px;">•</span> 42 publications- 9 original articles, 17 case reports (peer-reviewed), 5 review article & 11 chapters in textbooks; Google scholar H-index- 5; Citations- 59; Research gate index- 20.7</strong>
 			</li>
@@ -760,25 +767,27 @@
 				<strong><span style="font-size: 25px;">•</span> ORCID ID: https:// orcid.org /0000-0002-1104-5381</strong>
 			</li>
 		</ul> -->
-<?php
-$publi = $db->getrows("SELECT * FROM publication ORDER BY ID DESC")
-?>
-	<?php
-			 if (count($publi)>0){
-			foreach($publi as $pubication_info) { 
-                // $weblink = $pubication_info["weblink"];
-                ?>
+						<?php
+						$publi = $db->getrows("SELECT * FROM publication ORDER BY ID DESC")
+						?>
+						<?php
+						if (count($publi) > 0) {
+							foreach ($publi as $pubication_info) {
+								// $weblink = $pubication_info["weblink"];
+						?>
 
-				
 
-		
-		<h4  class="my-3"><?= ($pubication_info["service"]) ?></h4>
-		<ul class=" mb-0">
-		<li class="qualification-font my-3 break_the_word_element"><?= ($pubication_info["short_description"]) ?></li>
-		
-			<!-- <a href="<?//= $weblink ?>"><p><?//= $weblink ?></p></a> -->
-		
-		<!-- <li class="qualification-font my-3">2. <strong></strong> Deep Chandh Raja,Vijayakumar Subban, Ajit S. Mullasari, et al. Predictors of short-term outcomes in patients undergoing percutaneous coronary intervention in cardiogenic shock complicating STEMI—A tertiary care center experience. Indian Heart J (2018), https: //doi.org/10.1016/ j.ihj.2018.03.006</li>
+
+
+								<h4 class="my-3"><?= ($pubication_info["service"]) ?></h4>
+								<ul class=" mb-0">
+									<li class="qualification-font my-3 break_the_word_element"><?= ($pubication_info["short_description"]) ?></li>
+
+									<!-- <a href="<? //= $weblink 
+													?>"><p><? //= $weblink 
+																		?></p></a> -->
+
+									<!-- <li class="qualification-font my-3">2. <strong></strong> Deep Chandh Raja,Vijayakumar Subban, Ajit S. Mullasari, et al. Predictors of short-term outcomes in patients undergoing percutaneous coronary intervention in cardiogenic shock complicating STEMI—A tertiary care center experience. Indian Heart J (2018), https: //doi.org/10.1016/ j.ihj.2018.03.006</li>
 		<li class="qualification-font my-3">3. <strong>Deep Chandh Raja,</strong> Sanjay Mehrotra, Avinash Agrawal, et al. Cardiac Biomarkers and Myocardial Dysfunction in Septicemia. J Assoc Physicians India 2017;65(12):14-19.</li>
 		<li class="qualification-font my-3">4. <strong>Deep Chandh Raja,</strong> Vijayakumar Subban, Ajit S. Mullasari, et al. The impact of systems-of-care on pharmacoinvasive management with streptokinase: The subgroup analysis of the TN-STEMI programme. Indian Heart J (2017), http:// dx.doi.org/10.1016/ j.ihj.2017.07.006</li>
 		<li class="qualification-font my-3">5. <strong>Deep Chandh Raja,</strong> Aditya Kapoor, Archana Sinha, Shiridhar Kashyap, Roopali Khanna, Sudeep Kumar, Naveen Garg, Satyendra Tewari, Pravin Goel. Heart rate manipulation in dilated cardiomyopathy: Assessing the role of Ivabradine. Indian Heart J (2017), http:// dx.doi.org/10.1016/ j.ihj.2017.08.009</li>
@@ -786,19 +795,20 @@ $publi = $db->getrows("SELECT * FROM publication ORDER BY ID DESC")
 		<li class="qualification-font my-3">7. Himanshu D, Sawlani KK, <strong>Deep Chandh Raja,</strong> Verma SP, Nirdesh Jain, Chaudhary SC. Role of Aggressive Management on Outcome in Patients of Acute Aluminium Phosphide Poisoning: Toxicology International 2017; 24(1):28-33</li>
 		<li class="qualification-font my-3">8. Chieng David, Sugumar Hariharan, Ling Liang-Han, Segan Louise, Azzopardi Sonia, Prabhu Sandeep, Al-Kaisey Ahmed, Voskoboinik Aleksandr, Parameswaran Ramanathan, Morton Joseph B, Pathik Bhupesh, McLellan Alex J, Lee Geoffrey, Wong Michael, Finch Sue, Pathak Rajeev K,<strong>Raja Deep Chandh,</strong> Sanders Prashanthan, Sterns Laurence, Ginks Matthew, Reid Christopher M, Kalman Jonathan M, Kistler Peter, Catheter Ablation for Persistent Atrial Fibrillation: a Multicentre Randomised Trial of Pulmonary Vein Isolation (PVI) versus PVI with Posterior Left Atrial Wall Isolation (PWI) – the CAPLA Study, American Heart Journal, http:// dx.doi.org/ 10.1016/ j.ahj.2021.09.015</li>
 		<li class="qualification-font my-3">9. Abhilash SP, <strong>Raja DC,</strong> Stolcman S, Yi DS, Rahman M, Tan R, Mahajan A, Lau DH, Abhayaratna WP, Sanders P, Pathak RK. Computerized tomography image correlation of His bundle/deep septal pacing location and outcomes: an analysis from the Canberra HIs bundle/deep septal Pacing Study (CHIPS). J Interv Card Electrophysiol. 2022 Jan 27. doi:1007/s10840-022-01133-z. Epub ahead of print. PMID: 35084617.</li>		 -->
-		</ul>
+								</ul>
 
-		<?php 
-	 }} else{ ?>
-		<div class="text-center">
-			<h4>
-				No Publication To show
-			</h4>
-		</div>
-	 <?php }
-		?>
+							<?php
+							}
+						} else { ?>
+							<div class="text-center">
+								<h4>
+									No Publication To show
+								</h4>
+							</div>
+						<?php }
+						?>
 
-		<!-- <h4  class="mt-5 mb-3">Case reports</h4>
+						<!-- <h4  class="mt-5 mb-3">Case reports</h4>
 		<ul class=" mb-0">
 		<li class="qualification-font my-3">1. <strong>Raja DC,</strong> Mohanan Nair KK, Badhwar N, Pandurangi UM. Supraventricular tachycardia with shifting atrial activation patterns caused by extrastimuli: What is the mechanism? J Cardiovasc Electrophysiol. 2020 Sep;31(9):2516-2518. doi: 10.1111/jce.14669.</li>
 		<li class="qualification-font my-3">2. <strong>Raja DC,</strong> Subban V, Livingston N, Thenpally J, Mullasari AS. Optical Coherence Tomography and Intravascular Ultrasound in Diagnosis of Coronary Intramural Hematoma. Heart Views. 2019 Jan-Mar;20(1):32-33</li>
@@ -820,7 +830,7 @@ $publi = $db->getrows("SELECT * FROM publication ORDER BY ID DESC")
 		</ul> -->
 
 
-		<!-- <h4  class="mt-5 mb-3">Review articles</h4>
+						<!-- <h4  class="mt-5 mb-3">Review articles</h4>
 		<ul class=" mb-0">
 		<li class="qualification-font my-3">1. <strong>Deep Chandh Raja,</strong> Prashanthan Sanders, Rajeev Kumar Pathak. Utility of Intracardiac Echocardiography to Guide Transseptal Catheterization for Different Electrophysiology Procedures. Cardiac Electrophysiology Clinics, Volume 13, Issue 2, 293 – 301 https:// doi.org/10.1016/ j.ccep.2021.02.003</li>
 		<li class="qualification-font my-3">2. <strong>Deep Chandh Raja,</strong> Vickram Vignesh Rangaswamy, Sreevilasam Pushpangadhan Abhilash, Kieran King, Rajeev K Pathak. Electrophysiological Substrates in Papillary Muscle Arrhythmias – Implications for Catheter Ablation. European Journal of Arrhythmia & Electrophysiology. 2020;6(1):32–8 DOI: https: //doi.org/10.17925/ EJAE.2020.6.1.32</li>
@@ -829,7 +839,7 @@ $publi = $db->getrows("SELECT * FROM publication ORDER BY ID DESC")
 		<li class="qualification-font my-3">5. Craig J McCallum, <strong>Deep Chandh Raja,</strong> Rajeev K Pathak. Aust Prescr 2019;42:186–91. https:// doi.org/ 10.18773/ austprescr.2019.067</li>	
 		</ul> -->
 
-		<!-- <h4  class="mt-5 mb-3">Chapters in books</h4>
+						<!-- <h4  class="mt-5 mb-3">Chapters in books</h4>
 		<ul class=" mb-0">
 		<li class="qualification-font my-3">1. <strong>Deep Chandh Raja,</strong> Prashanthan Sanders, Rajeev Pathak; “Effect of Transmural Scar and Hypertrophy on Identifying Epicardial Substrate with Unipolar Endocardial Recording”- Percutaneous Epicardial Interventions: A Guide for Cardiac Electrophysiologists, Cardiotext (May, 2020 ebooks. cardiotextpublishing.com)</li>
 		<li class="qualification-font my-3">2. “STEMI in Elderly: Is it complex?” in STEMI- A Cardiology Update 2015</li>
@@ -844,244 +854,245 @@ $publi = $db->getrows("SELECT * FROM publication ORDER BY ID DESC")
 		<li class="qualification-font my-3">11. “Challenges in management of Heart failure” under “Scenario of heart failure in India” in Cardiology in Indian Perspective- a comprehensive text CSI 2017</li>	
 		</ul> -->
 
-	       </div>
-    </div>
-  </div>
+					</div>
+				</div>
+			</div>
 
-  <div class="accordion-item" >
-    <h2 class="accordion-header" id="panelsStayOpen-headingOne">
-      <button class="accordion-button text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-	  Proctorship Activities
-      </button>
-    </h2>
-    <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse " aria-labelledby="panelsStayOpen-headingOne">
-      <div class="accordion-body">
+			<div class="accordion-item">
+				<h2 class="accordion-header" id="panelsStayOpen-headingOne">
+					<button class="accordion-button text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+						Proctorship Activities
+					</button>
+				</h2>
+				<div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse " aria-labelledby="panelsStayOpen-headingOne">
+					<div class="accordion-body">
 
 
-	  <?php
-$intfaculty = $db->getrows("SELECT * FROM  invited_faculty ORDER BY ID DESC")
-?>
-	<?php
-			 if (count($intfaculty)>0){
-			foreach($intfaculty as $details) { 
-                
-                ?>
+						<?php
+						$intfaculty = $db->getrows("SELECT * FROM  invited_faculty ORDER BY ID DESC")
+						?>
+						<?php
+						if (count($intfaculty) > 0) {
+							foreach ($intfaculty as $details) {
 
-		<h2><?= ($details["service"]) ?></h2>
-	  <ul class=" mb-0">
-		<li class="qualification-font break_the_word_element"><?= ($details["short_description"]) ?></li>
-	 </ul>
+						?>
 
-	 <?php 
-	 }
-	 } else{ ?>
-		<div class="text-center">
-			<h4 style="color: #000000 !important;">
-				No Datas To show
-			</h4>
+								<h2><?= ($details["service"]) ?></h2>
+								<ul class=" mb-0">
+									<li class="qualification-font break_the_word_element"><?= ($details["short_description"]) ?></li>
+								</ul>
+
+							<?php
+							}
+						} else { ?>
+							<div class="text-center">
+								<h4 style="color: #000000 !important;">
+									No Datas To show
+								</h4>
+							</div>
+						<?php }
+						?>
+
+					</div>
+
+				</div>
+			</div>
+
+
+
+			<div class="accordion-item">
+				<h2 class="accordion-header" id="panelsStayOpen-headingFour">
+					<button class="accordion-button text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="true" aria-controls="panelsStayOpen-collapseFour">
+						Abstracts, Presentations, International & National Conferences
+					</button>
+				</h2>
+				<div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse " aria-labelledby="panelsStayOpen-headingFour">
+					<div class="accordion-body">
+
+
+						<?php
+						$conferences = $db->getrows("SELECT * FROM conferences ORDER BY ID DESC")
+						?>
+						<?php
+						if (count($conferences) > 0) {
+							foreach ($conferences as $conferences_data) {
+
+						?>
+
+								<h2><?= ($conferences_data["service"]) ?></h2>
+								<ul class=" mb-0">
+									<li class="qualification-font break_the_word_element"><?= ($conferences_data["short_description"]) ?></li>
+								</ul>
+
+							<?php
+							}
+						} else { ?>
+							<div class="text-center">
+								<h4 style="color: #000000 !important;">
+									No Datas To show
+								</h4>
+							</div>
+						<?php }
+						?>
+
+					</div>
+
+				</div>
+			</div>
 		</div>
-	 <?php }
-		?>
-
 	</div>
 
-    </div>
-  </div>
+
+	<section class="mt-5">
+		<div>
+			<h2 class="text-center">Gallery</h2>
+
+			<div class="container">
+				<div class="row">
+
+					<?php
+
+					$arrCategories = $db->getRows("select * from publication_gallery ");
+					if (count($arrCategories) > 0) {
+
+
+						foreach ($arrCategories as $value) { ?>
+							<div class="col-4">
+								<img src="<?= $base_url ?>/images/<?php echo $value['image']; ?>" class="img-responsive" alt="" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; " />
+								<p class="text-center mt-3 mr-xl-5"><b><?php echo $value['content']; ?></b></p>
+							</div>
+
+						<?php
+						}
+					} else { ?>
+
+						<div class="text-center">
+							<h2>No Images To show</h2>
+						</div>
+
+					<?php }
+					?>
+
+				</div>
+			</div>
 
 
 
-  <div class="accordion-item" >
-    <h2 class="accordion-header" id="panelsStayOpen-headingFour">
-      <button class="accordion-button text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="true" aria-controls="panelsStayOpen-collapseFour">
-	   Abstracts, Presentations, International & National Conferences
-      </button>
-    </h2>
-    <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse " aria-labelledby="panelsStayOpen-headingFour">
-      <div class="accordion-body">
-
-
-	  <?php
-$conferences = $db->getrows("SELECT * FROM conferences ORDER BY ID DESC")
-?>
-	<?php
-			 if (count($conferences)>0){
-			foreach($conferences as $conferences_data) { 
-                
-                ?>
-
-		<h2><?= ($conferences_data["service"]) ?></h2>
-	  <ul class=" mb-0">
-		<li class="qualification-font break_the_word_element"><?= ($conferences_data["short_description"]) ?></li>
-	 </ul>
-
-	 <?php 
-	 }
-	 } else{ ?>
-		<div class="text-center">
-			<h4 style="color: #000000 !important;">
-				No Datas To show
-			</h4>
 		</div>
-	 <?php }
-		?>
+	</section>
 
-	</div>
+	<section class="">
+		<div class="container-fluid">
+			<div class="contact-wraper mt-5">
+				<div class="row">
+					<div class="col-lg-12 mb-30 px-lg-3 px-0">
+						<div class="contact-info ovpr-dark" style="background-image: url(images/about/pic-1.jpg);">
+							<div class="info-inner">
+								<h4 class="title mb-30">Contact Us For Any Informations</h4>
+								<form class="form-wraper contact-form ajax-form" method="post">
+									<!-- <div class="ajax-message"></div> -->
+									<div class="row">
+										<div class="form-group col-md-4">
+											<input name="name" type="text" required class="form-control index-form" placeholder="Your Name*" pattern="^[a-zA-Z ]{2,50}$" style="background: white !important; color:#222222;">
+										</div>
+										<div class="form-group col-md-4">
+											<input name="email" type="email" required class="form-control index-form" placeholder="Email" pattern="^[a-zA-Z][a-zA-Z0-9]+@([-a-zA-Z0-9]+\.)[a-zA-Z]{2,5}$" style="background: white !important; color:#222222;">
+										</div>
 
-    </div>
-  </div>
-</div>
-</div>
+										<!-- <div class="form-group col-md-4"></div> -->
 
-
-<section class="mt-5">
-	<div>
-		<h2 class="text-center">Gallery</h2>
-
-<div class="container">
-	<div class="row">
-
-	<?php
-
-$arrCategories = $db->getRows("select * from publication_gallery ");
-if(count($arrCategories) > 0){
-
-
-foreach ($arrCategories as $value) { ?>
-	<div class="col-4" >
-	  <img src="<?= $base_url ?>/images/<?php echo $value['image']; ?>" class="img-responsive" alt="" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; " />
-	  <p class="text-center mt-3 mr-xl-5"><b><?php echo $value['content']; ?></b></p>
-	</div>
-	 
-	<?php
-} 
-}else{ ?>
-
-<div class="text-center">
-<h2>No Images To show</h2>
-</div>
-
- <?php }
-?>
-
-	</div>
-</div>
-
-
-
-	</div>
-</section>
-
-<section class="">
-			<div class="container-fluid">
-				<div class="contact-wraper mt-5">
-					<div class="row">						
-						<div class="col-lg-12 mb-30 px-lg-3 px-0">
-							<div class="contact-info ovpr-dark" style="background-image: url(images/about/pic-1.jpg);">
-								<div class="info-inner">
-									<h4 class="title mb-30">Contact Us For Any Informations</h4>									
-										<form class="form-wraper contact-form ajax-form" method="post">
-											<!-- <div class="ajax-message"></div> -->
-											<div class="row">
-												<div class="form-group col-md-4">
-													<input name="name" type="text" required class="form-control index-form" placeholder="Your Name*" pattern="^[a-zA-Z ]{2,50}$" style="background: white !important; color:#222222;">
-												</div>
-												<div class="form-group col-md-4">
-													<input name="email" type="email" required class="form-control index-form" placeholder="Email"  pattern="^[a-zA-Z][a-zA-Z0-9]+@([-a-zA-Z0-9]+\.)[a-zA-Z]{2,5}$" style="background: white !important; color:#222222;">
-												</div>
-
-												<!-- <div class="form-group col-md-4"></div> -->
-
-												<div class="form-group col-md-4">
-												<input type="text" name="mobile" class="form-control index-form" placeholder="Phone Number*" pattern="^(\+91[\-\s]?)?[0]?(91)?[789]\d{9}$" required maxlength="10" style="background: white !important; color:#222222;">
-												<!-- <input name="mobile" type="text" required class="form-control" placeholder="Phone Numbers"> -->
-												</div>
-												<!-- <div class="form-group col-md-4">
+										<div class="form-group col-md-4">
+											<input type="text" name="mobile" class="form-control index-form" placeholder="Phone Number*" pattern="^(\+91[\-\s]?)?[0]?(91)?[789]\d{9}$" required maxlength="10" style="background: white !important; color:#222222;">
+											<!-- <input name="mobile" type="text" required class="form-control" placeholder="Phone Numbers"> -->
+										</div>
+										<!-- <div class="form-group col-md-4">
 													
 													<input name="subject" type="text" required class="form-control index-form" placeholder="Subject*" pattern="^[a-zA-Z][ a-zA-Z0-9]+$">
 
 												</div> -->
-												
-												<!-- <div class="form-group col-md-12">
+
+										<!-- <div class="form-group col-md-12">
 													<div class="input-group">
 														<div class="g-recaptcha" data-sitekey="6Lf2gYwUAAAAAJLxwnZTvpJqbYFWqVyzE-8BWhVe" data-callback="verifyRecaptchaCallback" data-expired-callback="expiredRecaptchaCallback"></div>
 														<input class="form-control d-none" style="display:none;" data-recaptcha="true" required data-error="Please complete the Captcha">
 													</div>
-												</div> --> 
-												
-												
-											</div>
-												<div class="text-center my-5">												
-													<button name="contacts_send" type="submit" value="Submit" class="btn w-75 btn-secondary btn-lg">Submit</button>
-												</div>
-										</form>							
-								</div>
+												</div> -->
+
+
+									</div>
+									<div class="text-center my-5">
+										<button name="contacts_send" type="submit" value="Submit" class="btn w-75 btn-secondary btn-lg">Submit</button>
+									</div>
+								</form>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-        </section>
+		</div>
+	</section>
 
-<script>
-	function openCity(evt, cityName) {
-		var i, tabcontent, tablinks;
-		tabcontent = document.getElementsByClassName("tabcontent");
-		for (i = 0; i < tabcontent.length; i++) {
-			tabcontent[i].style.display = "none";
+	<script>
+		function openCity(evt, cityName) {
+			var i, tabcontent, tablinks;
+			tabcontent = document.getElementsByClassName("tabcontent");
+			for (i = 0; i < tabcontent.length; i++) {
+				tabcontent[i].style.display = "none";
+			}
+			tablinks = document.getElementsByClassName("tablinks");
+			for (i = 0; i < tablinks.length; i++) {
+				tablinks[i].className = tablinks[i].className.replace(" active", "");
+			}
+			document.getElementById(cityName).style.display = "block";
+			evt.currentTarget.className += " active";
 		}
-		tablinks = document.getElementsByClassName("tablinks");
-		for (i = 0; i < tablinks.length; i++) {
-			tablinks[i].className = tablinks[i].className.replace(" active", "");
+	</script>
+
+	<script>
+		$(document).ready(function() {
+			// Get all the <p> tags inside the specified <div>
+			var paragraphs = $('.break_the_word_element').find('p');
+			var paragraphsTwo = $('.break_the_word_element').find('em');
+
+			// Loop through each <p> tag and replace &nbsp; with an empty string
+			paragraphs.each(function() {
+				var paragraphContent = $(this).html();
+				if (paragraphContent.includes('&nbsp;')) {
+					paragraphContent = paragraphContent.replace(/&nbsp;/g, ' ');
+					$(this).html(paragraphContent);
+				}
+			});
+
+			paragraphsTwo.each(function() {
+				var paragraphContentTwo = $(this).html();
+				if (paragraphContentTwo.includes('&nbsp;')) {
+					paragraphContentTwo = paragraphContentTwo.replace(/&nbsp;/g, ' ');
+					$(this).html(paragraphContentTwo);
+				}
+			});
+		});
+	</script>
+
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org/",
+			"@type": "Person",
+			"name": "Dr. Deep Chandh Raja (DCR)",
+			"url": "https://www.drdcr.com/about-us.php",
+			"image": "https://www.drdcr.com/images/about/2aboutus2.png",
+			"sameAs": [
+				"https://www.facebook.com/profile.php?id=100089147133660&mibextid=ZbWKwL",
+				"https://twitter.com/Dr_DCR_EP",
+				"https://www.instagram.com/dr_dcr/"
+			],
+			"jobTitle": "Cardiac Electrophysiology",
+			"worksFor": {
+				"@type": "Organization",
+				"name": "Raja Super Speciality Clinic"
+			}
 		}
-		document.getElementById(cityName).style.display = "block";
-		evt.currentTarget.className += " active";
-	}
-</script>
-
-<script>
-    $(document).ready(function() {
-        // Get all the <p> tags inside the specified <div>
-        var paragraphs = $('.break_the_word_element').find('p');
-        var paragraphsTwo = $('.break_the_word_element').find('em');
-
-        // Loop through each <p> tag and replace &nbsp; with an empty string
-        paragraphs.each(function() {
-        var paragraphContent = $(this).html();
-        if (paragraphContent.includes('&nbsp;')) {
-            paragraphContent = paragraphContent.replace(/&nbsp;/g, ' ');
-            $(this).html(paragraphContent);
-        }
-        });
-
-		paragraphsTwo.each(function() {
-        var paragraphContentTwo = $(this).html();
-        if (paragraphContentTwo.includes('&nbsp;')) {
-            paragraphContentTwo = paragraphContentTwo.replace(/&nbsp;/g, ' ');
-            $(this).html(paragraphContentTwo);
-        }
-        });
-    });
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org/",
-  "@type": "Person",
-  "name": "Dr. Deep Chandh Raja (DCR)",
-  "url": "https://www.drdcr.com/about-us.php",
-  "image": "https://www.drdcr.com/images/about/2aboutus2.png",
-  "sameAs": [
-    "https://www.facebook.com/profile.php?id=100089147133660&mibextid=ZbWKwL",
-    "https://twitter.com/Dr_DCR_EP",
-    "https://www.instagram.com/dr_dcr/"
-  ],
-  "jobTitle": "Cardiac Electrophysiology",
-  "worksFor": {
-    "@type": "Organization",
-    "name": "Raja Super Speciality Clinic"
-  }  
-}
-</script>
-<?php include "footer.php" ; ?>	
+	</script>
+	<?php include "footer.php"; ?>
 </body>
+
 </html>
