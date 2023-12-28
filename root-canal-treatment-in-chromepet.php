@@ -8,31 +8,31 @@
 
 <head>
 
-	<title>Pacemaker Specialist in Chennai - DrDCR | Expert Care</title>
+	<title>Root Canal Treatment in Chrompet: Painless, Safe &amp; Affordable</title>
 
 	<meta name="description" content="Meet DrDCR: Your Go-To Pacemaker Specialist in Chennai. Ready to improve your heart's rhythm? Book your consultation now!">
 
 	<meta name="keywords" content="Pacemaker Specialist in Chennai, Pacemaker Treatment in Chennai, Best Pacemaker Surgeon in Chennai, Cardiologist Pacemaker Specialist in Chennai, Pacemaker Specialist near me, Pacemaker Specialist Cardiologist in Chennai, Pacemaker heart Specialist in Chennai, Pacemaker Implantation Specialist in Chennai">
 
-	
+
 
 	<!-- OGTC -->
 
-<meta property="og:type" content="website">
-<meta property="og:title" content="Meet DrDCR - Your Trusted Pacemaker Specialist in Chennai">
-<meta property="og:description" content="Trust DrDCR for Top Pacemaker Care in Chennai">
-<meta property="og:url" content="https://www.drdcr.com/pacemaker-implantation.php">
-<meta property="og:image" content="https://www.drdcr.com/new-images/PacemakerImplantationpage1.jpg">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
-<meta property="og:site_name" content="DrDCR">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pacemaker Specialist in Chennai - DrDCR">
-<meta property="twitter:description" content="Your Heart's Best Friend in Chennai - DrDCR, the Pacemaker Specialist. Click to schedule a consultation for a healthier life">
-<meta property="twitter:image:src" content="https://www.drdcr.com/new-images/PacemakerImplantationpage1.jpg">
-<meta property="twitter:image:width" content="1200">
-<meta property="twitter:image:height" content="630">
-<link rel="canonical" href="https://www.drdcr.com/pacemaker-implantation.php">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Meet DrDCR - Your Trusted Pacemaker Specialist in Chennai">
+	<meta property="og:description" content="Trust DrDCR for Top Pacemaker Care in Chennai">
+	<meta property="og:url" content="https://www.drdcr.com/pacemaker-implantation.php">
+	<meta property="og:image" content="https://www.drdcr.com/new-images/PacemakerImplantationpage1.jpg">
+	<meta property="og:image:width" content="1200">
+	<meta property="og:image:height" content="630">
+	<meta property="og:site_name" content="DrDCR">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Pacemaker Specialist in Chennai - DrDCR">
+	<meta property="twitter:description" content="Your Heart's Best Friend in Chennai - DrDCR, the Pacemaker Specialist. Click to schedule a consultation for a healthier life">
+	<meta property="twitter:image:src" content="https://www.drdcr.com/new-images/PacemakerImplantationpage1.jpg">
+	<meta property="twitter:image:width" content="1200">
+	<meta property="twitter:image:height" content="630">
+	<link rel="canonical" href="https://www.drdcr.com/pacemaker-implantation.php">
 
 
 
@@ -48,13 +48,13 @@
 
 <body>
 
-<?php include('menu.php'); ?>  
+	<?php include('menu.php'); ?>
 
-        
+
 
 	<div class="page-content bg-white">
 
-	
+
 
 		<!-- Inner Banner -->
 
@@ -66,7 +66,7 @@
 
 					<div class="page-banner-entry text-center">
 
-						<h1>Pacemaker Implantation</h1>
+						<h1>Root Canal Treatment In Chrompet</h1>
 
 						<!-- Breadcrumb row -->
 
@@ -74,9 +74,12 @@
 
 							<ul class="breadcrumb">
 
-								<li class="breadcrumb-item"><a href="index.php"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg> Home</a></li>
+								<li class="breadcrumb-item"><a href="index.php"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home">
+											<path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+											<polyline points="9 22 9 12 15 12 15 22"></polyline>
+										</svg> Home</a></li>
 
-								<li class="breadcrumb-item active" aria-current="page">Pacemaker Implantation</li>
+								<li class="breadcrumb-item active" aria-current="page">Root Canal</li>
 
 							</ul>
 
@@ -100,7 +103,7 @@
 
 		<!-- Inner Banner end -->
 
-			
+
 
 		<!-- About us -->
 
@@ -118,63 +121,41 @@
 
 						<div class="paroller">
 
-							<img src="new-images/PacemakerImplantationpage1.jpg" alt="Pacemaker Implantation" class="shadows-box">
+							<img src="images/services/what-is-root-canal-treatment.jpg" alt="Pacemaker Implantation" class="shadows-box">
 
 						</div>
 
 					</div>
 
-					
+
 
 					<div class="col-lg-7 mb-10">
 
 						<div class="heading-bx">
-
-							<h2 class="title">Implanting Hope, Restoring Heart Health</h2>
-
-							<p class="text-justify">Our heart has a natural, built-in pacemaker– the sinoatrial node, that works like an electrical system to control your heartbeat. When the heart's natural pacemaker ceases to function properly, a small, battery-operated device is surgically implanted to help regulate the heartbeat and rhythm.</p>
-
-							<p class="text-justify">Pacemakers come in a variety of options like single chamber pacemaker, dual chamber pacemaker, conduction system pacemaker, His bundle pacemaker, and leadless pacemaker. The battery of a pacemaker can last for 8-15 years depending on the complexity of the pacemaker.</p>
+							<h3 class="mb-3 pt-20" style="font-size: 26px;">What is Root Canal Treatment?</h3>
+							<p class="text-justify">Root canal treatment, also known as endodontic treatment, is a dental procedure used to repair and save a tooth that is badly decayed or infected. During a root canal procedure, the nerve and pulp are removed and the inside of the tooth is cleaned and sealed. This helps to prevent further infection and pain. Root canals are often a last resort when other treatments fail, but can help to save a tooth that would otherwise need to be extracted.</p>
 
 						</div>
 
 					</div>
-
-
 
 				</div>
 
 
-
 				<div class="row align-items-center">
 
-					
-
 					<div class="col-lg-7 mb-10">
-
 						<div class="heading-bx">
-
-							<p class="text-justify">Pacemakers can be used to treat a variety of heart conditions, including bradycardia (slow heart rate), heart block, and certain types of arrhythmias (irregular heart rhythms). They respond to changes in activity levels and automatically adjust the heart rate accordingly. Some pacemakers can even monitor the fluid status in the lungs and can detect episodes of apneas. </p>
-
-							<p class="text-justify">By keeping the heart beating at a regular pace, pacemakers can drastically reduce the risk of complications and improve quality of life. However, the diagnosis for the need for pacemaker implantation is typically made by a cardiologist based on a combination of medical history, physical examination, and diagnostic tests.</p>
-
+							<h3 class="mb-3 pt-20" style="font-size: 26px;">Why does one need to undergo Root Canal Treatment?</h3>
+							<p class="text-justify">Root canal treatment is necessary when the nerve of a tooth becomes infected or when the pulp inside the tooth becomes damaged due to decay or trauma. This treatment removes the damaged or infected pulp from the tooth and replaces it with a synthetic material to prevent further infection and damage. Root canal treatment helps to preserve the natural tooth and prevents the need for extraction.</p>
 						</div>
-
 					</div>
-
-
 
 					<div class="col-lg-5 mb-10 text-center text-lg-right order-first order-lg-last">
-
 						<div class="paroller">
-
-							<img src="new-images/PacemakerImplantationpage2.jpg" alt="Cardiac Pacemaker" class="shadows-box">
-
+							<img src="images/services/why-does-one-need-to-undergo-root-canal-treatment.jpg" alt="Heart Rhythm Disorder" class="shadows-box">
 						</div>
-
 					</div>
-
-
 
 				</div>
 
@@ -188,7 +169,7 @@
 
 						<div class="paroller">
 
-							<img src="new-images/PacemakerImplantationpage3.jpg" alt="Cardiac Pacing" class="shadows-box">
+							<img src="images/services/root-canal-consequences.jpg" alt="Cardiac Pacing" class="shadows-box">
 
 						</div>
 
@@ -199,8 +180,19 @@
 					<div class="col-lg-7 mb-10">
 
 						<div class="heading-bx">
-
-							<p class="text-justify">Dr. DCR– one of the best heart specialist in Chennai for pacemakers, has extensive experience in implanting pacemakers that relieve heart symptoms and restore health. He is skilled in placing pacemakers without the need of any contrast agent under mere fluoroscopic and ultrasound guidance. He also offers remote monitoring service for his patients with pacemakers. The type and settings of a pacemaker are personalized for everyone’s specific condition and needs. If you are suffering from slow heart beats or bradycardia, or have been suggested to get a pacemaker, schedule an appointment with Dr. Deep Chandh Raja (DCR)¬, for the most comprehensive and affordable care in pacemaker implant and management.</p>
+							<h3 class="mb-3 pt-20" style="font-size: 26px;">What are the Consequences of not getting a Root Canal Treatment?</h3>
+							<p class="text-justify">The consequences of not getting a root canal treatment can include:</p>
+							<ul class="list-check-squer mb-0">
+								<li class="qualification-font">Severe pain and infection in the affected tooth and surrounding teeth</li>
+								<li class="qualification-font">Swelling and tenderness in the gums</li>
+								<li class="qualification-font">An abscess or collection of pus at the root of the tooth</li>
+								<li class="qualification-font">Damage to the surrounding teeth</li>
+								<li class="qualification-font">Bone loss in the jaw</li>
+								<li class="qualification-font">Unpleasant taste and bad breath</li>
+								<li class="qualification-font">Decay of the teeth</li>
+								<li class="qualification-font">Damage to nearby nerves</li>
+								<li class="qualification-font">Spread of infection to other parts of the body.</li>
+							</ul>
 
 						</div>
 
@@ -229,6 +221,67 @@
 		</section>
 
 		
+		<div class="container">
+			<div class="accordion" id="accordionPanelsStayOpenExamplrootone">
+
+
+				<div class="accordion-item">
+					<h2 class="accordion-header" id="panelsStayOpen-headingrootone">
+						<button class="accordion-button collapsed card-color text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapserootone" aria-expanded="false" aria-controls="panelsStayOpen-collapserootone">
+						ComPediatric Dental Procedures
+						</button>
+					</h2>
+					<div id="panelsStayOpen-collapserootone" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingone">
+						<div class="accordion-body">
+							<ul class=" mb-0">
+								<li class="qualification-font"><span style="font-size: 25px;"><strong></span>The procedure for root canal treatment typically includes the following steps:</strong></li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>X-rays are taken to determine the extent of the damage and to identify the exact location of the infection.</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>The area is numbed with a local anesthetic.</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>An access hole is made in the tooth to gain access to the infected root canals.</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>The infected pulp and nerve tissue are removed from the root canals using tiny hand tools or a dental drill.</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>The root canals are cleaned and disinfected.</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>Medication may be placed in the canals to prevent infection.</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>The canals are filled with a rubber-like material to prevent further infection</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>The tooth is sealed with a temporary filling.</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>A crown or other restoration is placed over the tooth to protect it and restore it to its normal function.</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="accordion-item">
+
+					<h2 class="accordion-header" id="panelsStayOpen-headingroottwo">
+						<button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseroottwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseroottwo">
+						Post-Treatment Care for Root Canal Treatment
+
+						</button>
+					</h2>
+					<div id="panelsStayOpen-collapseroottwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
+						<div class="accordion-body">
+							<ul class=" mb-0">
+							    <li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>After root canal treatment, it is important to maintain good oral hygiene.This includes brushing twice daily and flossing at least once a day</li>
+							    <li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>To help protect the tooth, it is important to wear a night guard or bite guard to prevent grinding or clenching.</li>
+							    <li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>Avoid chewing on hard foods and objects such as ice or hard candy.</li>
+							    <li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>Avoid smoking and drinking alcohol, as this may slow down the healing process.</li>
+							    <li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>It is important to visit your dentist for regular checkups and cleanings.</li>
+							    <li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>If you experience any pain or discomfort after the procedure, contact your dentist immediately.</li>
+								
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+		<div class="row">
+			<div class="col-12">
+			    <h3 class="mb-3 pt-20" style="font-size: 26px;">Price of Root Canal Treatment in Chrompet, Chennai</h3>
+				<p>The cost of root canal treatment in Chrompet, Chennai can vary depending on the type of treatment needed.</p>
+			</div>
+		</div>
+	</div>
 
 		<!-- About us -->
 
@@ -300,7 +353,7 @@
 
 		</section> -->
 
-		
+
 
 		<!-- Team -->
 
@@ -442,7 +495,7 @@
 
 		</section> -->
 
-		
+
 
 		<!-- Testimonial -->
 
@@ -686,7 +739,7 @@
 
 		</section> -->
 
-		
+
 
 		<!-- Blog -->
 
@@ -872,7 +925,7 @@
 
 		</section> -->
 
-		
+
 
 	</div>
 
@@ -888,53 +941,56 @@
 
 		</div>
 
-		<?php $details= $db->getRows("SELECT * FROM cases_performed WHERE type='Pacemaker-Implantation' ORDER BY id DESC "); ?>
+		<?php $details = $db->getRows("SELECT * FROM cases_performed WHERE type='Pacemaker-Implantation' ORDER BY id DESC "); ?>
 
-	<div class="container">
+		<div class="container">
 
-	 <?php if (count($details)>0){
+			<?php if (count($details) > 0) {
 
-			     foreach($details as $client_data) {
+				foreach ($details as $client_data) {
 
-            $convertedImgPath = str_replace('../', '', $client_data['image']);
+					$convertedImgPath = str_replace('../', '', $client_data['image']);
 
-            ?>
+			?>
 
-		<div class="row p-5 mb-5" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
+					<div class="row p-5 mb-5" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
 
-			<div class="col-md-4">
+						<div class="col-md-4">
+
+							<div>
+
+								<img src="<?= $convertedImgPath ?>" style="width: 100%; height: 100%;" alt="" class="shadows-box">
+
+
+
+							</div>
+
+						</div>
+
+						<div class="col-md-8">
+
+							<h4><?= ($client_data["tittle"]) ?></h4>
+
+							<p><?= ($client_data["content"]) ?></p>
+
+						</div>
+
+					</div>
+
+
+
+				<?php }
+			} else { ?>
 
 				<div>
-
-				<img src="<?= $convertedImgPath ?>" style="width: 100%; height: 100%;" alt="" class="shadows-box">
-
-
-
+					<h3 class="text-center">NO Data To Show</h3>
 				</div>
 
-			</div>
-
-			<div class="col-md-8">
-
-				<h4><?= ($client_data["tittle"]) ?></h4>
-
-				<p><?= ($client_data["content"]) ?></p>			
-
-		</div>
-
-		</div>
-
-
-
-		<?php }} else{?>
-
-			<div><h3 class="text-center">NO Data To Show</h3></div>
-
-			<?php }?>
+			<?php } ?>
 
 			<br>
 
-	</div>
+		</div>
 
 	</section>
 
@@ -946,119 +1002,119 @@
 
 	<section>
 
-	<div class="container">
+		<div class="container">
 
-		<div class="mb-5">
+			<div class="mb-5">
 
-			<h3 class="">Pacemaker Implantation Gallery</h3>
-
-		</div>
-
-
-
-		<div class="row">
-
-			<div class="col-md-6 mb-30 text-center">
-
-				<a href="speciality-gallery-images.php?type=Pacemaker-Implantation">
-
-					<div>
-
-						<img src="new-images/dcr-images-folder.jpg" alt="">
-
-					</div>
-
-					<div>
-
-						<h3 class="title mt-3">Images</h3>
-
-					</div>
-
-				</a>
+				<h3 class="">Pacemaker Implantation Gallery</h3>
 
 			</div>
 
-			<div class="col-md-6 mb-30 text-center">
 
-				<a href="speciality-gallery-videos.php?type=Pacemaker-Implantation">
 
-					<div>
+			<div class="row">
 
-						<img src="new-images/dcr-videos-folder.jpg" alt="">
+				<div class="col-md-6 mb-30 text-center">
 
-					</div>
+					<a href="speciality-gallery-images.php?type=Pacemaker-Implantation">
 
-					<div>
+						<div>
 
-						<h3 class="title mt-3">Videos</h3>
+							<img src="new-images/dcr-images-folder.jpg" alt="">
 
-					</div>
+						</div>
 
-				</a>
+						<div>
 
-			</div>	
+							<h3 class="title mt-3">Images</h3>
+
+						</div>
+
+					</a>
+
+				</div>
+
+				<div class="col-md-6 mb-30 text-center">
+
+					<a href="speciality-gallery-videos.php?type=Pacemaker-Implantation">
+
+						<div>
+
+							<img src="new-images/dcr-videos-folder.jpg" alt="">
+
+						</div>
+
+						<div>
+
+							<h3 class="title mt-3">Videos</h3>
+
+						</div>
+
+					</a>
+
+				</div>
+
+			</div>
 
 		</div>
 
-	</div>
-
-</section>
+	</section>
 
 
 
-<br><br><br>
+	<br><br><br>
 
 
 
 	<section class="">
 
-			<div class="container-fluid mt-100">
+		<div class="container-fluid mt-100">
 
-				<div class="contact-wraper ">
+			<div class="contact-wraper ">
 
-					<div class="row">						
+				<div class="row">
 
-						<div class="col-lg-12 mb-30 px-lg-3 px-0">
+					<div class="col-lg-12 mb-30 px-lg-3 px-0">
 
-							<div class="contact-info ovpr-dark" style="background-image: url(images/about/pic-1.jpg);">
+						<div class="contact-info ovpr-dark" style="background-image: url(images/about/pic-1.jpg);">
 
-								<div class="info-inner">
+							<div class="info-inner">
 
-									<h4 class="title mb-30">Contact Us For Any Informations</h4>									
+								<h4 class="title mb-30">Contact Us For Any Informations</h4>
 
-										<form class="form-wraper contact-form ajax-form" method="post">
+								<form class="form-wraper contact-form ajax-form" method="post">
 
-											<!-- <div class="ajax-message"></div> -->
+									<!-- <div class="ajax-message"></div> -->
 
-											<div class="row">
+									<div class="row">
 
-												<div class="form-group col-md-4">
+										<div class="form-group col-md-4">
 
-													<input name="name" type="text" required class="form-control index-form" placeholder="Your Name*" pattern="^[a-zA-Z ]{2,50}$" style="background: white !important; color:#222222;">
+											<input name="name" type="text" required class="form-control index-form" placeholder="Your Name*" pattern="^[a-zA-Z ]{2,50}$" style="background: white !important; color:#222222;">
 
-												</div>
+										</div>
 
-												<div class="form-group col-md-4">
+										<div class="form-group col-md-4">
 
-													<input name="email" type="email" required class="form-control index-form" placeholder="Email*"  pattern="^[a-zA-Z][a-zA-Z0-9]+@([-a-zA-Z0-9]+\.)[a-zA-Z]{2,5}$" style="background: white !important; color:#222222;">
+											<input name="email" type="email" required class="form-control index-form" placeholder="Email*" pattern="^[a-zA-Z][a-zA-Z0-9]+@([-a-zA-Z0-9]+\.)[a-zA-Z]{2,5}$" style="background: white !important; color:#222222;">
 
-												</div>
-
-
-
-												<!-- <div class="form-group col-md-4"></div> -->
+										</div>
 
 
 
-												<div class="form-group col-md-4">
+										<!-- <div class="form-group col-md-4"></div> -->
 
-												<input type="text" name="mobile" class="form-control index-form" placeholder="Phone Number*" pattern="^(\+91[\-\s]?)?[0]?(91)?[789]\d{9}$" required maxlength="10" style="background: white !important; color:#222222;">
 
-												<!-- <input name="mobile" type="text" required class="form-control" placeholder="Phone Numbers"> -->
 
-												</div>
+										<div class="form-group col-md-4">
 
-												<!-- <div class="form-group col-md-4">
+											<input type="text" name="mobile" class="form-control index-form" placeholder="Phone Number*" pattern="^(\+91[\-\s]?)?[0]?(91)?[789]\d{9}$" required maxlength="10" style="background: white !important; color:#222222;">
+
+											<!-- <input name="mobile" type="text" required class="form-control" placeholder="Phone Numbers"> -->
+
+										</div>
+
+										<!-- <div class="form-group col-md-4">
 
 													
 
@@ -1068,9 +1124,9 @@
 
 												</div> -->
 
-												
 
-												<!-- <div class="form-group col-md-12">
+
+										<!-- <div class="form-group col-md-12">
 
 													<div class="input-group">
 
@@ -1080,23 +1136,21 @@
 
 													</div>
 
-												</div> --> 
+												</div> -->
 
-												
 
-												
 
-											</div>
 
-												<div class="text-center my-5">												
 
-													<button name="contacts_send" type="submit" value="Submit" class="btn w-75 btn-secondary btn-lg">Submit</button>
+									</div>
 
-												</div>
+									<div class="text-center my-5">
 
-										</form>							
+										<button name="contacts_send" type="submit" value="Submit" class="btn w-75 btn-secondary btn-lg">Submit</button>
 
-								</div>
+									</div>
+
+								</form>
 
 							</div>
 
@@ -1108,130 +1162,130 @@
 
 			</div>
 
-        </section>
+		</div>
+
+	</section>
 
 
 
 	<script type="application/ld+json">
-
 		{
 
-		"@context": "https://schema.org/", 
+			"@context": "https://schema.org/",
 
-		"@type": "Product", 
+			"@type": "Product",
 
-		"name": "Pacemaker Implantation",
+			"name": "Pacemaker Implantation",
 
-		"image": "https://www.drdcr.com/new-images/PacemakerImplantationpage2.jpg",
+			"image": "https://www.drdcr.com/new-images/PacemakerImplantationpage2.jpg",
 
-		"description": "Pacemaker implantation is a surgical procedure to place a small device to help regulate the heart's rhythm. It can improve heart function and quality of life.",
+			"description": "Pacemaker implantation is a surgical procedure to place a small device to help regulate the heart's rhythm. It can improve heart function and quality of life.",
 
-		"brand": {
+			"brand": {
 
-			"@type": "Brand",
+				"@type": "Brand",
 
-			"name": "DrDCR"
+				"name": "DrDCR"
 
-		},
+			},
 
-		"sku": "0002",
+			"sku": "0002",
 
-		"aggregateRating": {
+			"aggregateRating": {
 
-			"@type": "AggregateRating",
+				"@type": "AggregateRating",
 
-			"ratingValue": "5",
+				"ratingValue": "5",
 
-			"bestRating": "5",
+				"bestRating": "5",
 
-			"worstRating": "5",
+				"worstRating": "5",
 
-			"ratingCount": "135"
+				"ratingCount": "135"
+
+			}
 
 		}
-
-		}
-
 	</script>
 
-<?php include "footer.php" ; ?>	
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [{
-    "@type": "Question",
-    "name": "What are Pacemakers?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pacemakers are small medical devices implanted in the chest to regulate the heartbeat by sending electrical impulses to the heart muscle, ensuring it beats steadily. They are used to treat heart rhythm disorders and maintain proper cardiac function."
-    }
-  },{
-    "@type": "Question",
-    "name": "How Pacemaker Works?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "A pacemaker works by monitoring the heart's electrical signals. When it detects an irregular or slow heartbeat, it sends small electrical impulses to the heart muscle to maintain a regular and adequate heart rate, ensuring proper blood circulation."
-    }
-  },{
-    "@type": "Question",
-    "name": "Who Needs Pacemaker?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "People with irregular heart rhythms, slow heart rates (bradycardia), or certain heart conditions may need a pacemaker to regulate their heartbeat and maintain proper cardiac function."
-    }
-  },{
-    "@type": "Question",
-    "name": "When Pacemaker Needed?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "A pacemaker is needed when a person has an irregular heartbeat (arrhythmia), particularly bradycardia (slow heart rate) or heart block, which can lead to dizziness, fainting, fatigue, or shortness of breath. It may also be recommended to maintain a steady heart rhythm after certain heart surgeries or for specific heart conditions."
-    }
-  },{
-    "@type": "Question",
-    "name": "Why is a Pacemaker Required?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "A pacemaker must maintain a steady heart rhythm in individuals with irregular heartbeats or conditions like bradycardia (slow heart rate) to ensure proper blood circulation and prevent symptoms such as dizziness, fainting, and fatigue."
-    }
-  },{
-    "@type": "Question",
-    "name": "Is Pacemaker Surgery Safe?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Yes, pacemaker surgery is generally considered safe, with a low risk of complications."
-    }
-  },{
-    "@type": "Question",
-    "name": "What Pacemaker Does?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "A pacemaker regulates and maintains a stable heart rate by sending electrical impulses to the heart muscle when needed, ensuring proper blood circulation and preventing irregular heart rhythms."
-    }
-  },{
-    "@type": "Question",
-    "name": "How is Pacemaker Implanted?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "A pacemaker is implanted through a minor surgical procedure where a small incision is made near the collarbone, and the pacemaker device is placed under the skin. Leads (thin wires) are threaded through veins into the heart and connected to the device, allowing it to monitor and regulate the heart's rhythm."
-    }
-  },{
-    "@type": "Question",
-    "name": "Who is the best Pacemaker Surgeon in Chennai?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Dr Deep Chandh Raja [DrDCR] is the Best Pacemaker Surgeon in Chennai."
-    }
-  },{
-    "@type": "Question",
-    "name": "What is Pacemaker Cost in India?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The cost of a pacemaker in India can vary widely depending on several factors, including the type of pacemaker, the brand, the hospital or clinic where the procedure is performed, the surgeon's fees, and any additional medical expenses. Generally, the cost can range from ₹1,00,000 to ₹3,00,000 or more."
-    }
-  }]
-}
-</script>
+	<?php include "footer.php"; ?>
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "FAQPage",
+			"mainEntity": [{
+				"@type": "Question",
+				"name": "What are Pacemakers?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "Pacemakers are small medical devices implanted in the chest to regulate the heartbeat by sending electrical impulses to the heart muscle, ensuring it beats steadily. They are used to treat heart rhythm disorders and maintain proper cardiac function."
+				}
+			}, {
+				"@type": "Question",
+				"name": "How Pacemaker Works?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "A pacemaker works by monitoring the heart's electrical signals. When it detects an irregular or slow heartbeat, it sends small electrical impulses to the heart muscle to maintain a regular and adequate heart rate, ensuring proper blood circulation."
+				}
+			}, {
+				"@type": "Question",
+				"name": "Who Needs Pacemaker?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "People with irregular heart rhythms, slow heart rates (bradycardia), or certain heart conditions may need a pacemaker to regulate their heartbeat and maintain proper cardiac function."
+				}
+			}, {
+				"@type": "Question",
+				"name": "When Pacemaker Needed?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "A pacemaker is needed when a person has an irregular heartbeat (arrhythmia), particularly bradycardia (slow heart rate) or heart block, which can lead to dizziness, fainting, fatigue, or shortness of breath. It may also be recommended to maintain a steady heart rhythm after certain heart surgeries or for specific heart conditions."
+				}
+			}, {
+				"@type": "Question",
+				"name": "Why is a Pacemaker Required?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "A pacemaker must maintain a steady heart rhythm in individuals with irregular heartbeats or conditions like bradycardia (slow heart rate) to ensure proper blood circulation and prevent symptoms such as dizziness, fainting, and fatigue."
+				}
+			}, {
+				"@type": "Question",
+				"name": "Is Pacemaker Surgery Safe?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "Yes, pacemaker surgery is generally considered safe, with a low risk of complications."
+				}
+			}, {
+				"@type": "Question",
+				"name": "What Pacemaker Does?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "A pacemaker regulates and maintains a stable heart rate by sending electrical impulses to the heart muscle when needed, ensuring proper blood circulation and preventing irregular heart rhythms."
+				}
+			}, {
+				"@type": "Question",
+				"name": "How is Pacemaker Implanted?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "A pacemaker is implanted through a minor surgical procedure where a small incision is made near the collarbone, and the pacemaker device is placed under the skin. Leads (thin wires) are threaded through veins into the heart and connected to the device, allowing it to monitor and regulate the heart's rhythm."
+				}
+			}, {
+				"@type": "Question",
+				"name": "Who is the best Pacemaker Surgeon in Chennai?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "Dr Deep Chandh Raja [DrDCR] is the Best Pacemaker Surgeon in Chennai."
+				}
+			}, {
+				"@type": "Question",
+				"name": "What is Pacemaker Cost in India?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "The cost of a pacemaker in India can vary widely depending on several factors, including the type of pacemaker, the brand, the hospital or clinic where the procedure is performed, the surgeon's fees, and any additional medical expenses. Generally, the cost can range from ₹1,00,000 to ₹3,00,000 or more."
+				}
+			}]
+		}
+	</script>
 </body>
 
 </html>

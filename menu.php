@@ -22,7 +22,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="container-fluid clearfix">
 					<!-- website logo -->
 					<div class="menu-logo logo-dark">
-						<a href="<?= $base_url ?>index.php"><img src="<?= $base_url ?>new-images/dcr-drlogo.png" alt="DrDCR Logo"></a>
+						<a href="<?= $base_url ?>index.php"><img src="<?= $base_url ?>images/header_img/smile-solutions.png" alt="DrDCR Logo"></a>
 					</div>
 					<!-- nav toggle button -->
 					<button class="navbar-toggler collapsed menuicon justify-content-end" type="button" data-bs-toggle="collapse" data-bs-target="#menuDropdown" aria-controls="menuDropdown" aria-expanded="false" aria-label="Toggle navigation" onclick="mobileMenu()">
@@ -55,7 +55,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 							<li <?php echo($pageName=="index.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>index.php" class="header-text">Home</a></li>
 
-							<li <?php echo($pageName=="about-us.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>about-us.php" class="header-text">About Dr. DCR</a></li>
+							<li <?php echo($pageName=="about-us.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>about-us.php" class="header-text">About Us</a></li>
 							<!-- <li>
 								<a href="javascript:;">Pages <i class="fas fa-plus"></i></a>
 								<ul class="sub-menu">
@@ -85,13 +85,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</li> -->
 
 							<li>
-								<a href="#" class="header-text">Specialities of Dr. DCR <i class="fas fa-plus"></i></a>
+								<a href="#" class="header-text">Services<i class="fas fa-plus"></i></a>
 								<ul class="sub-menu" style="width: max-content;">
 									<li class="add-menu-left">
 										<ul>
-											<li <?php echo($pageName=="cardiac-arrhythmia.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>cardiac-arrhythmia.php"><span >Cardiac Arrhythmias</span> </a></li>
-											<li <?php echo($pageName=="pacemaker-implantation.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>pacemaker-implantation.php"><span>Pacemaker Implantation</span> </a></li>
-											<li <?php echo($pageName=="HIS-bundle-pacing-and-conduction-system-pacing.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>HIS-bundle-pacing-and-conduction-system-pacing.php"><span>HIS Bundle Pacing & <br> Conduction System Pacing</span> </a></li>
+											<li <?php echo($pageName=="children-dentistry-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>children-dentistry-in-chromepet.php"><span >Children Dentistry</span> </a></li>
+											<li <?php echo($pageName=="root-canal-treatment-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>root-canal-treatment-in-chromepet.php"><span>Root Canal Treatment</span> </a></li>
+											<li <?php echo($pageName=="orthodontics-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>orthodontics-in-chromepet.php"><span>Orthodontics</span> </a></li>
 											<li <?php echo($pageName=="ICD-implantation.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>ICD-implantation.php"><span>Defibrillators (ICD) Implantation</span> </a></li>
 											<li <?php echo($pageName=="cardiac-resynchronization-therapy.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>cardiac-resynchronization-therapy.php"><span class="heading-text">Cardiac Resynchronization Therapy (CRT)</span> </a></li>
 											<li <?php echo($pageName=="leadless-pacemaker-implantation.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>leadless-pacemaker-implantation.php"><span>Leadless Pacemaker Implantation</span> </a></li>
@@ -113,7 +113,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</li> -->
 							<li <?php echo($pageName=="press-releases.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>press-releases.php" class="header-text">Press Releases</a></li>
 							<li <?php echo($pageName=="testimonial.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>testimonial.php" class="header-text">Testimonials</a></li>
-							<li <?php echo($pageName=="gallery.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>gallery.php" class="header-text">Gallery</a></li>
+							<li <?php echo($pageName=="gallery.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>gallery.php" class="header-text">Smile Gallery</a></li>
 							<li <?php echo($pageName=="blogs.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>blogs.php" class="header-text">Blogs</a></li>
 							<li <?php echo($pageName=="contact-us.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>contact-us.php" class="header-text">Contact Us</a></li>
 							 
