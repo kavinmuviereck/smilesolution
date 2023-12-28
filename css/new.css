@@ -1,0 +1,318 @@
+#toTopr {
+    color: #ffffff;
+    background-color: #24dc5e;
+    padding: 15px;
+    border-radius: 50%;
+    text-decoration: none;
+    position: fixed;
+    bottom: 15px;
+    right: 40px;   
+    overflow: hidden;
+    z-index: 999;
+    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, .18), 0 4px 15px 0 rgba(0, 0, 0, .15);
+}
+
+#toTopr i {
+    font-size: 45px;
+    display: block;
+    overflow: hidden;
+    float: right;
+    line-height: 42px;
+
+}
+
+.speciality-container img
+{
+    border-radius: 15px;
+}
+
+@media screen and (min-width: 992px) {
+    .paroller
+    {
+        margin-top: -20px;
+    }
+}
+
+.title
+{
+    color: #ee1d23;
+}
+
+.common-btn 
+{
+    background-color: #d53d3d;
+    color: #fff; 
+}
+
+.common-btn:hover 
+{
+  background-color: #d00006;
+  color: #fff;
+  border: 2px solid #d53d3d;
+  box-shadow: 0px 5px 20px 0px rgba(241, 119, 50, 0.3) !important; 
+}
+
+.carousel-indicators li
+{
+    width: 12px !important;
+    height: 12px !important;
+    background-color: #ee1d23 !important;
+    border-radius: 50%;
+}
+
+.service-wraper-index::after{
+    content: none !important;
+}
+
+.shadows-box{
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px; */
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;}
+
+
+
+    .thsn-team-details-wrap:after {
+        content: "" !important;
+        display: block !important;
+        position: absolute !important;
+        top: 0 !important;
+        bottom: 0 !important;
+        left: 0 !important;
+        margin-right: 0 !important;
+        width: 265px !important;
+        right: auto !important;
+        background-color: #1f2278 !important;
+        z-index: -1 !important;
+      }
+
+      @media only screen and (max-width: 992px){
+        .thsn-team-details-wrap:after {
+        display: none !important;
+       }
+
+       .main-row-padding{
+        padding: 10px !important;
+
+    }
+    }
+    .main-row-padding{
+        padding: 50px;
+    }
+
+      .qualification-font{
+       font-family: var(--bs-body-font-family) !important;
+       font-size: 18px !important;
+      }
+
+      @media only screen and (max-width: 375px) {
+        .contact-email {
+        font-size: 10.7px;
+       }
+        
+      }
+
+      @media only screen and (max-width: 425px) {
+        .banner-content {
+        font-size: 28px !important;
+       }
+        
+      }
+
+      @media only screen and (max-width: 425px) {
+        .banner-content-his {
+        font-size: 22px !important;
+       }
+        
+      }
+
+      @media only screen and (min-width: 769px) and (max-width: 991px) {
+        .banner-content-index {
+        font-size: 37px !important;
+       }
+        
+      }
+
+      @media only screen and (min-width: 576px) and (max-width: 768px) {
+        .banner-content-index {
+        font-size: 30px !important;
+       }
+        
+      }
+
+      .pcard  {
+        border-radius: 10px;
+        width: 100%;
+        height: auto; } 
+    
+        .pcard {
+        /* box-shadow: 0 30px 30px rgb(0 0 0 / 19%); */
+        background-color: none;
+        /* height: 220px; */
+        overflow: hidden;
+        border-radius: 10px;
+        text-align: center;
+        display: block;}
+    
+        
+        .letter {
+        background: #fff;
+        box-shadow: 0 0 10px rgb(0 0 0 / 30%);}
+    
+      .letter:after {
+         border: 1px solid #d6d6d6;
+        background: #fafafa;
+         box-shadow: 0 0 8px rgb(0 0 0 / 20%);
+        left: 9px;
+        top: 6px;
+        transform: rotate(-1deg);
+        }
+    
+    
+     /* .letter:before, .letter:after {
+          content: "";
+          height: 78%;
+          position: absolute;
+          width: 90%;
+          z-index: -1;
+          border-radius: 10px;
+      } */
+
+
+      @media only screen and (min-width: 1079px) and (max-width: 1130px) {
+      
+        .header-text{
+            font-size: 13px !important;
+        }
+
+      }
+
+
+      @media only screen and (min-width: 1027px) and (max-width: 1078.05px) {
+      
+        .header-text{
+            font-size: 12px !important;
+        }
+
+      }
+
+      @media only screen and (min-width: 992px) and (max-width: 1026.99px) {
+      
+        .header-text{
+            font-size: 11px !important;
+        }
+
+      }
+
+      
+
+      @media only screen and (min-width: 320px) and (max-width: 374px) {
+      
+        .for-responsive-service{
+            font-size: 22px !important;
+        }
+
+      }
+
+      .accordion-button::after {
+        flex-shrink: 0;
+        width: 1.25rem;
+        height: 1.25rem;
+        margin-left: auto;
+        content: "";
+        background-image: url("../new-images/arrow-down.png") !important;
+        background-repeat: no-repeat;
+        background-size: 1.25rem;
+        transition: transform 0.2s ease-in-out;
+    }
+
+    .accordion-button:not(.collapsed)::after {
+      background-image: url("../new-images/arrow-down.png") !important;
+      transform: rotate(-180deg);
+  }
+
+  @media only screen and (max-width: 330px) {
+    .for-service-text-size{
+      font-size: 27px !important;
+    }
+  }
+  .form-control::placeholder {
+    color: rgb(255, 0, 0) !important;
+   
+  }
+
+  .index-form::placeholder{
+    color: rgb(0, 0, 0) !important;
+
+  }
+
+  .heading-text{
+    font-size: 13px;
+  }
+
+.blogpage-space{
+  margin-top: 117px;
+}
+.form-control:hover{
+  color: #fff !important;
+}
+.card-height{
+  height: 300px !important;
+}
+
+
+@media only screen and (max-width: 767px){
+  .card-height{
+    height: 237px !important;
+  } 
+}
+
+@media only screen and (max-width: 390px){
+  .email-font-contact{
+    font-size: 10px;
+  } 
+}
+
+.breadcrumb-item-his + .breadcrumb-item-his::before {
+  color: #fff;
+  /* content: "/"; */
+  font-size: 22px;
+  padding-right: 15px;
+  opacity: 0.4;
+  font-weight: 300;
+  line-height: 22px;
+  margin-top: 5px; }
+
+
+  
+  
+.contact-strip{
+  background: url('../images/about/pic-1.jpg')  !important;
+  position: relative;
+}  
+
+.contact-strip ::before{
+
+background-color: #6db3f2e3;
+content: '';
+display: block;
+height: 100%;
+position: absolute;
+width: 100%;
+
+}
+
+.contact-info .info-inner .row input:hover
+{
+  color: #222222 !important;
+}
+
+.contact-wraper .contact-form .row input:hover
+{
+  color: #222222 !important;
+}
+
+.contact-wraper .contact-form .row textarea:hover
+{
+  color: #222222 !important;
+}
+  
+

@@ -1,0 +1,72 @@
+RewriteEngine On
+
+#RewriteCond %{HTTPS} off
+#RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+
+RewriteRule .* https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+
+
+## Redirect index.php
+
+ReWritecond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php\ HTTP/
+
+ReWriterule ^index\.php$ https://www.drdcr.com/$1 [r=301,nc]
+
+#RewriteRule   ^pricing/([A-Za-z0-9-]+)?$  pricing.php?package=$1   [NC,L]
+
+
+
+ErrorDocument 404 /404.php
+
+
+
+
+
+
+
+RewriteRule   ^.?$ index.php   [NC,L]
+#RewriteRule   ^about-us?$ about.php   [NC,L]
+#RewriteRule   ^services?$ service-details.php   [NC,L]
+
+#RewriteRule   ^testimonials?$ testimonials.php   [NC,L]
+RewriteRule   ^blogs?$ blogs.php   [NC,L]
+RewriteRule   ^blog?$ blog.php   [NC,L]
+
+RewriteRule   ^contact-us?$ contact.php   [NC,L]
+
+RewriteRule   ^index-2.php?$ index.php   [NC,L]
+
+
+
+
+
+RewriteRule  ^admin-director/?$  admin-director/   [NC,L]
+
+#RewriteRule  ^([A-Za-z0-9-_]+)/?$  service.php?service=$1    [NC,L]
+
+RewriteRule  ^blogs/([A-Za-z0-9-]+)/?$  blogs.php?page=$1    [NC,L]
+
+RewriteRule  ^blog/([A-Za-z0-9-]+)/?$  blog.php?blog_url=$1    [NC,L]
+
+
+
+RewriteRule  ^blog_search/([A-Za-z0-9-]+)/?$  blog_search.php?searchkey=$1    [NC,L]
+
+RewriteRule  ^category/([A-Za-z0-9-]+)/?$  category.php?category=$1    [NC,L]
+
+RewriteRule  ^tag/([A-Za-z0-9-]+)/?$  tag.php?tag=$1    [NC,L]
+
+
+
+
+
+RewriteRule  ^category/([A-Za-z0-9-]+)/([A-Za-z0-9-]+)/?$  category.php?category=$1&page=$2    [NC,L]  
+
+
+ 
+
+
+
