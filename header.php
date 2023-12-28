@@ -13,8 +13,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	
 	
 	<!-- FAVICONS ICON ============================================= -->
-	<link rel="icon" href="images/favouriteicon.png" type="image/x-icon" alt="DrDCR Favicon Icon" />
-	<link rel="shortcut icon" type="image/x-icon" href="images/favouriteicon.png" alt="DrDCR Favicon Icon"/>
+	<link rel="icon" href="images/header_img/favicon.png" type="image/x-icon" alt="DrDCR Favicon Icon" />
+	<link rel="shortcut icon" type="image/x-icon" href="images/header_img/favicon.png" alt="DrDCR Favicon Icon"/>
 	
 	<!-- PAGE TITLE HERE ============================================= -->
 	<!-- <title>Doctor DCR</title> -->

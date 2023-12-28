@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
-	<title>Top Cardiac Pacing Doctor in Chennai - DrDCR</title>
+	<title>Orthodontic Treatment in Chrompet: Get an Attractive Smile!</title>
 	<meta name="description" content="Enhance your heart's rhythm with expert cardiac pacing by DrDCR in Chennai. Discover optimal heart health and vitality. Schedule a consultation today.">
 	<meta name="keywords" content="HIS Bundle Pacing, Conduction System Pacing, Cardiac Arrhythmia, Atrioventricular Block, Pacemaker, Cardiac Resynchronization Therapy (CRT), Ventricular Pacing, Cardiac Stimulation, Electrode, Atrial Pacing, Atrioventricular Junction, Cardiac Stimulation Device">
 	
@@ -37,12 +37,12 @@
 			<div class="page-banner" style="background-image:url(images/banner/img1.jpg);">
 				<div class="container">
 					<div class="page-banner-entry text-center">
-						<h1 class="banner-content-his mt-3">HIS Bundle Pacing & Conduction System Pacing</h1>
+						<h1 class="banner-content-his mt-3">Orthodontics Treatment In Chrompet</h1>
 						<!-- Breadcrumb row -->
 						<nav aria-label="breadcrumb" class="breadcrumb-row mb-5">
 							<ul class="breadcrumb">
 								<li class="breadcrumb-item"><a href="index.php"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg> Home / </a></li>
-								<li class="text-white ml-2" aria-current="page"> HIS Bundle Pacing & Conduction System Pacing</li>
+								<li class="text-white ml-2" aria-current="page">Orthodontics</li>
 							</ul>
 						</nav>
 					</div>
@@ -64,13 +64,14 @@
 
 					<div class="col-lg-5 mb-10 text-center text-lg-left">
 						<div class="paroller">
-							<img src="new-images/hisbundlepacing.jpg" alt="HIS Bundle Pacing" class="shadows-box">
+							<img src="images/services/what-is-orthodontics-treatment.jpg" alt="HIS Bundle Pacing" class="shadows-box">
 						</div>
 					</div>
 					
 					<div class="col-lg-7 mb-10">
 						<div class="heading-bx">
-							<p class="text-justify">HIS bundle pacing is an alternative to traditional cardiac pacing technique that involves placing the pacemaker lead directly on the bundle of His, a specialized conduction pathway in the heart's electrical system, to achieve synchronized heart rhythm. Traditional right ventricular pacing can lead to pacing-induced cardiomyopathy, a condition where the heart muscle weakens due to prolonged pacing. HIS bundle pacing can reduce the risk of this complication. </p>
+						    <h3 class="mb-3 pt-20" style="font-size: 26px;">What is Orthodontics Treatment?</h3>
+							<p class="text-justify">Orthodontics is a branch of dentistry that specializes in the prevention,diagnosis, and treatment of dental and facial irregularities. Orthodontic treatment can involve the use of braces, retainers, and other devices to correct misaligned teeth, jaws, and other facial irregularities. Orthodontic treatment can be used to correct crooked teeth, correct an overbite or underbite, correct the shape of the mouth, and help to improve a person's overall facial appearance.</p>
 						</div>
 					</div>
 
@@ -80,13 +81,14 @@
 					
 					<div class="col-lg-7 mb-10">
 						<div class="heading-bx">
-							<p class="text-justify">It is typically used to treat patients with heart block, a condition where the electrical signals from the atria are delayed or blocked before reaching the ventricles. It can also be used in patients with heart failure and reduced ejection fraction, where traditional pacing techniques may not be effective.</p>
+						<h3 class="mb-3 pt-20" style="font-size: 26px;">Pre-Surgical orthodontics</h3>
+							<p class="text-justify">Pre-surgical orthodontics is a type of treatment that is used to prepare a patient's teeth and jaws for corrective jaw surgery. It involves the use of braces, retainers, and other appliances to reposition the teeth and jaws into a more ideal position prior to the surgery. This type of treatment may help reduce the amount of time the surgery takes, and it can also reduce the risk of complications associated with the surgery. In addition, pre-surgical orthodontics can improve the aesthetic outcome of the surgery, as well as the patient's overall dental health.</p>
 						</div>
 					</div>
 
 					<div class="col-lg-5 mb-10 text-center text-lg-right order-first order-lg-last">
 						<div class="paroller">
-							<img src="new-images/hisbundlepacing1.jpg" alt="Conduction System Pacing" class="shadows-box">
+							<img src="images/services/pre-surgical-orthodontics.jpg" alt="Conduction System Pacing" class="shadows-box">
 						</div>
 					</div>
 
@@ -96,13 +98,14 @@
 
 					<div class="col-lg-5 mb-10 text-center text-lg-left">
 						<div class="paroller">
-							<img src="new-images/hisbundlepacing1-1.jpg" alt="Cardiac Resynchronization Therapy" class="shadows-box">
+							<img src="images/services/orthodontics.jpg" alt="Cardiac Resynchronization Therapy" class="shadows-box">
 						</div>
 					</div>
 
 					<div class="col-lg-7 mb-10">
 						<div class="heading-bx">
-							<p class="text-justify">His bundle pacing is a relatively new technique, that not many have the expertise to perform the procedure. Staying abreast with the leading developments in cardiology and cardiac electrophysiology, Dr. DCR is one of the leading cardiac electrophysiologists and cardiovascular surgeon, who offers latest and expert care to his patients for better long-term outcomes. Have a look at the conduction system pacemakers performed by the doctor (link). Book a consultation with electrophysiologist– Dr. DCR to know more. </p>
+						    <h3 class="mb-3 pt-20" style="font-size: 26px;">Duration of Treatment</h3>
+							<p class="text-justify">The duration of orthodontic treatment varies greatly depending on the individual case and the severity of the orthodontic problem. Generally, treatment times can range from 6 months to 2 years, although some cases may take longer or shorter periods.</p>
 						</div>
 					</div>
 
@@ -116,6 +119,109 @@
 			<img class="pt-img4 animate-wave" src="images/shap/square-dots-orange.png" alt="">
 			<img class="pt-img5 animate2" src="images/shap/square-blue.png" alt=""> -->
 		</section>
+
+
+
+		<div class="container">
+			<div class="accordion" id="accordionPanelsStayOpenExamplorthoone">
+
+
+				<div class="accordion-item">
+					<h2 class="accordion-header" id="panelsStayOpen-headingorthoone">
+						<button class="accordion-button collapsed card-color text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseorthoone" aria-expanded="false" aria-controls="panelsStayOpen-collapseorthoone">
+						What are the Benefits of Orthodontics?
+						</button>
+					</h2>
+					<div id="panelsStayOpen-collapseorthoone" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingone">
+						<div class="accordion-body">
+							<ul class=" mb-0">
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Improved Oral Health</strong>
+								    <p>Orthodontic treatment helps to improve the overall health of your teeth,mouth, and gums by correcting alignment and bite issues that can lead to tooth decay, gum disease, and other oral health problems.</p>
+							    </li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Enhanced Appearance</strong>
+								    <p>Orthodontics can help to improve the appearance of your smile by straightening crooked teeth and correcting other alignment issues.</p>
+							    </li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Improved Speech</strong>
+								    <p>Orthodontic treatment can also help to improve speech by correcting alignment issues that can affect the way sounds are formed.</p>
+							    </li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Improved Self-Esteem</strong>
+								    <p>An attractive, healthy smile can have a major impact on a person’s self-confidence.Orthodontics can help to improve a person’s self-esteem by giving them a beautiful and healthy smile.</p>
+							    </li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Improved Function</strong>
+								    <p>Orthodontic treatment can help to improve the function of your teeth and jaw by correcting misalignment issues. This can help to reduce the risk of dental problems in the future.</p>
+							    </li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="accordion-item">
+
+					<h2 class="accordion-header" id="panelsStayOpen-headingorthotwo">
+						<button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseorthotwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseorthotwo">
+						What is the Procedure for Orthodontics Treatment?
+
+						</button>
+					</h2>
+					<div id="panelsStayOpen-collapseorthotwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
+						<div class="accordion-body">
+							<ul class=" mb-0">
+							<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Initial Consultation</strong>
+								    <p>During the first visit, the orthodontist will examine your teeth, jaw, and facial structure. He or she will also take x-rays and photographs to help determine the best course of action.</p>
+							    </li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Treatment Plan</strong>
+								    <p>The orthodontist will create a customized treatment plan that meets your specific needs. This may include braces, retainers, or other appliances.</p>
+							    </li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Placement of Appliances</strong>
+								    <p>Once the treatment plan is finalized, the orthodontist will place the necessary appliances to help realign your teeth.</p>
+							    </li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Adjustments</strong>
+								    <p>During the course of treatment, the orthodontist will make periodic adjustments to the appliances to ensure that your teeth are moving in the correct direction.</p>
+							    </li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Retention</strong>
+								    <p>After the braces or other appliances have been removed, the orthodontist may recommend wearing retainers for several months or years to ensure that the teeth stay in the correct position.</p>
+							    </li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+
+				<div class="accordion-item">
+
+					<h2 class="accordion-header" id="panelsStayOpen-headingorthothree">
+						<button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseorthothree" aria-expanded="false" aria-controls="panelsStayOpen-collapseorthothree">
+						Types of Appliances
+
+						</button>
+					</h2>
+					<div id="panelsStayOpen-collapseorthothree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingthree">
+						<div class="accordion-body">
+							<ul class=" mb-0">
+							<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Braces</strong>
+								    <p>Braces are the most common appliance used in orthodontic treatment.They are made up of metal brackets, arch wires and elastic bands that  apply pressure to the teeth to move them into the desired position.</p>
+							    </li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Retainers</strong>
+								    <p>Retainers are used to maintain the position of teeth after treatment.They can be removable or fixed.</p>
+							    </li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Headgear</strong>
+								    <p>Headgear is used to correct the alignment of teeth and jaws. The appliance is usually used in combination with braces.</p>
+							    </li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Palatal Expander</strong>
+								    <p>A palatal expander is used to widen the upper jaw. The appliance is usually used in combination with braces to correct the alignment of teeth and jaws.</p>
+							    </li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Herbst Appliance </strong>
+								    <p>A Herbst appliance is used to correct the position of the lower jaw. The appliance is usually used in combination with braces to correct the alignment of teeth and jaws.</p>
+							    </li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Fixed Lingual Retainer</strong>
+								    <p>A fixed lingual retainer is used to prevent the teeth from shifting when the braces are removed.The retainer is attached to the back of the teeth and is not visible.</p>
+							    </li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 		
 		<!-- About us -->
 		<!-- <section class="section-sp1 service-wraper2">

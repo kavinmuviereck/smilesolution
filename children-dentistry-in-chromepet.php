@@ -3,10 +3,10 @@
 <html lang="en">
 
 <head>
-	<title>Best Cardiac Arrhythmia Specialist in Chennai - DrDCR</title>
+	<title>Child Dentistry in Chrompet | Get Quality Dental Care for Kids</title>
 	<meta name="description" content="Discover advanced cardiac arrhythmia treatment by DrDCR in Chennai. Regain a steady heartbeat. Experience expert care that transforms lives.">
 	<meta name="keywords" content="Cardiac arrhythmia, heart rhythm disorder, cardiac rhythm disturbance, irregular heartbeat, atrial fibrillation, ventricular tachycardia, bradycardia, heart block, atrial flutter, palpitations, electrocardiogram, echocardiogram, pacemaker, ablation, defibrillator">
-	
+
 	<!-- OGTC -->
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Best Cardiac Arrhythmia Specialist in Chennai - DrDCR">
@@ -27,23 +27,26 @@
 	<?php include "header.php"; ?>
 </head>
 
- 
+
 <body>
-<?php include('menu.php'); ?>
-        
+	<?php include('menu.php'); ?>
+
 	<div class="page-content bg-white">
-	
+
 		<!-- Inner Banner -->
 		<div class="banner-wraper">
 			<div class="page-banner" style="background-image:url(images/banner/img1.jpg);">
 				<div class="container">
 					<div class="page-banner-entry text-center">
-						<h1>Cardiac Arrhythmia</h1>
+						<h1>Children Dentistry In Chrompet</h1>
 						<!-- Breadcrumb row -->
 						<nav aria-label="breadcrumb" class="breadcrumb-row">
 							<ul class="breadcrumb">
-								<li class="breadcrumb-item"><a href="index.php"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg> Home</a></li>
-								<li class="breadcrumb-item active" aria-current="page">Cardiac Arrhythmia</li>
+								<li class="breadcrumb-item"><a href="index.php"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home">
+											<path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+											<polyline points="9 22 9 12 15 12 15 22"></polyline>
+										</svg> Home</a></li>
+								<li class="breadcrumb-item active" aria-current="page">Children Dentistry</li>
 							</ul>
 						</nav>
 					</div>
@@ -55,44 +58,46 @@
 			<!-- Breadcrumb row END -->
 		</div>
 		<!-- Inner Banner end -->
-			
+
 		<!-- About us -->
 		<section class="section-sp1 about-area">
 			<div class="container speciality-container">
-			
+
 				<div class="row align-items-center">
 
 					<div class="col-lg-5 mb-10 text-center text-lg-left">
 						<div class="paroller">
-							<img src="new-images/cardiacarrythmiapage1.jpg" alt="Cardiac Arrhythmia" class="shadows-box">
+							<img src="images/services/dentistry-for-your-child.jpg" alt="Cardiac Arrhythmia" class="shadows-box">
 						</div>
 					</div>
 
 					<div class="col-lg-7 mb-10">
 						<div class="heading-bx">
-							<p class="text-justify">The heart normally beats in a regular, coordinated pattern, but in arrhythmia, the heart may beat too fast, too slow, or irregularly. Some arrhythmias can cause serious health problems, such as stroke, heart failure, or cardiac arrest. Symptoms of arrhythmia can include palpitations, chest pain, dizziness, fainting, fatigue, and shortness of breath. Treatment of arrhythmia may involve lifestyle changes, medication, or procedures such as radiofrequency ablation (RFA) or implantable devices like pacemakers or defibrillators (ICD), depending on the severity and type of arrhythmia.</p>
+							<h3 class="mb-3 pt-20" style="font-size: 26px;">Dentistry for your Child</h3>
+							<p class="text-justify">Smile Solutions is a leading provider of pediatric dental services for children of all ages in Chrompet, Chennai. Our team of experienced pediatric dentists and specialists provide comprehensive dental care for infants, children, and teens.We specialize in preventative care, restorative treatments, and orthodontic solutions. Our goal is to provide the highest quality of care and to ensure that your child has a healthy and enjoyable dental experience. We have the latest technology and equipment to ensure that your child receives the best dental care available. Our staff is committed to providing personalized and compassionate care to ensure that your child is comfortable throughout their dental visit. We understand that each child is unique and we strive to provide individualized treatment plans to meet their needs.</p>
 						</div>
 					</div>
 
 				</div>
 
 				<div class="row align-items-center">
-					
+
 					<div class="col-lg-7 mb-10">
 						<div class="heading-bx">
-							<p class="text-justify">There are many types of cardiac arrhythmias, and they can be classified based on where they originate in the heart. Please refer to the video link () spoken by cardiology specialist doctor Dr. Deep Chandh Raja (DCR) to learn more about heart rhythm problems. </p>
+							<h3 class="mb-3 pt-20" style="font-size: 26px;">How is pediatric dentistry different?</h3>
+							<p class="text-justify">Pediatric dentistry is different from general dentistry in that it is specifically tailored to meet the needs of children. Pediatric dentists are trained to providepreventive and early corrective dental care for infants, children, adolescents,and young adults up to age 21. They are also trained to address the unique needs of children, such as anxiety management and behavior management. Additionally,pediatric dentists use special equipment and techniques that are appropriate for children, such as smaller instruments and chairs, and sedation and general anesthesia in some cases.</p>
 						</div>
 					</div>
 
 					<div class="col-lg-5 mb-10 text-center text-lg-right order-first order-lg-last">
 						<div class="paroller">
-							<img src="new-images/cardiacarrythmiapage2.jpg" alt="Heart Rhythm Disorder" class="shadows-box">
+							<img src="images/services/how-is-pediatric-dentistry-different.jpg" alt="Heart Rhythm Disorder" class="shadows-box">
 						</div>
 					</div>
 
 				</div>
 
-				<div class="row align-items-center">
+				<!-- <div class="row align-items-center">
 
 					<div class="col-lg-5 mb-10 text-center text-lg-left">
 						<div class="paroller">
@@ -106,7 +111,7 @@
 						</div>
 					</div>
 
-				</div>
+				</div> -->
 
 				<!-- <div class="row align-items-center">
 					
@@ -142,7 +147,89 @@
 			<img class="pt-img4 animate-wave" src="images/shap/square-dots-orange.png" alt="">
 			<img class="pt-img5 animate2" src="images/shap/square-blue.png" alt=""> -->
 		</section>
-		
+
+
+		<div class="container">
+			<div class="accordion" id="accordionPanelsStayOpenExamplechildone">
+
+
+				<div class="accordion-item">
+					<h2 class="accordion-header" id="panelsStayOpen-headingchildone">
+						<button class="accordion-button collapsed card-color text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
+							Common Dental Problems for Children
+						</button>
+					</h2>
+					<div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingThree">
+						<div class="accordion-body">
+							<ul class=" mb-0">
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Early Childhood Cavities (or baby bottle tooth decay)</strong>
+									<p>This is a common dental problem in young children, caused by prolonged exposure to sugary liquids,such as milk or juice, which coats the teeth and allows bacteria to grow and produce acids that attack the enamel.</p>
+								</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Thumb Sucking</strong>
+									<p>Thumb sucking can cause misalignment of the teeth, resulting in an overbite or underbite.</p>
+								</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Tooth Decay</strong>
+									<p>Tooth decay occurs when bacteria in the mouth produces acids that attack the enamel,creating small holes in the teeth.</p>
+								</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Teething</strong>
+									<p>Teething is a normal part of a child's development, but it can also cause pain and discomfort. It can also lead to swollen and tender gums, and some babies may develop a fever.</p>
+								</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Dental Trauma</strong>
+									<p>Dental trauma can occur when a child falls or is hit in the mouth, resulting in chipped, cracked, or broken teeth.</p>
+								</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Malocclusion</strong>
+									<p>Malocclusion is an improper alignment of the teeth,which can cause speech and eating problems.</p>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="accordion-item">
+
+					<h2 class="accordion-header" id="panelsStayOpen-headingchildtwo">
+						<button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
+						Pediatric Dental Procedures
+
+						</button>
+					</h2>
+					<div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
+						<div class="accordion-body">
+							<ul class=" mb-0">
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Cleanings and Exams</strong>
+									<p>Pediatric dentists perform regular cleanings and exams to ensure that children’s teeth are healthy and free of cavities and other problems.</p>
+								</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Fluoride Treatments</strong>
+									<p>Fluoride treatments help strengthen teeth and protect them from damage caused by plaque and acids.</p>
+								</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Sealants</strong>
+									<p>Sealants help protect teeth from decay by forming a protective barrier over the surface of the tooth.</p>
+								</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Fillings</strong>
+									<p>Fillings are used to repair teeth that have been damaged by cavities or trauma.</p>
+								</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Extractions</strong>
+									<p>When a tooth is severely damaged or decayed,a pediatric dentist may need to extract it.</p>
+								</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Root Canals</strong>
+									<p>Root canals are used to treat teeth that have become infected or abscessed.</p>
+								</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Crowns</strong>
+									<p>Dental Crowns are used to restore teeth that are severely damaged or decayed</p>
+								</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Bridges</strong>
+									<p>A Dental bridge is used to replace a missing tooth.</p>
+								</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Orthodontics</strong>
+									<p>Orthodontics is used to correct misaligned teeth and jaws</p>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
 		<!-- About us -->
 		<!-- <section class="section-sp1 service-wraper2">
 			<div class="container">
@@ -178,7 +265,7 @@
 				</div>
 			</div>
 		</section> -->
-		
+
 		<!-- Team -->
 		<!-- <section class="section-area section-sp3 team-wraper">
 			<div class="container">
@@ -249,7 +336,7 @@
 			<img class="pt-img4 animate-wave" src="images/shap/wave-blue.png" alt="">
 			<img class="pt-img5 animate-wave" src="images/shap/circle-dots.png" alt="">
 		</section> -->
-		
+
 		<!-- Testimonial -->
 		<!-- <section class="section-area section-sp3 testimonial-wraper">
 			<div class="container">
@@ -371,7 +458,7 @@
 			<img class="pt-img3 animate3" src="images/shap/circle-dots.png" alt="">
 			<img class="pt-img4 animate4" src="images/shap/circle-orange-2.png" alt="">
 		</section> -->
-		
+
 		<!-- Blog -->
 		<!-- <section class="section-area section-sp1 blog-area" style="background-image: url(images/background/line-bg2.png); background-position: center; background-size: cover;">
 			<div class="container">
@@ -464,7 +551,7 @@
 			<img class="pt-img3 animate-rotate" src="images/shap/line-circle-blue.png" alt="">
 			<img class="pt-img4 animate-wave" src="images/shap/wave-blue.png" alt="">
 		</section> -->
-		
+
 	</div>
 
 
@@ -474,285 +561,256 @@
 		<div class="mb-5">
 			<h3 class="text-center">Cases performed By DR DCR</h3>
 		</div>
-		<?php $details= $db->getRows("SELECT * FROM cases_performed WHERE type='Cardiac-Arrhythmias' ORDER BY id DESC "); ?>
-	<div class="container">
-	 <?php if (count($details)>0){
-			     foreach($details as $client_data) {
-            $convertedImgPath = str_replace('../', '', $client_data['image']);
-            ?>
-		<div class="row p-5 mb-5" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
-			<div class="col-md-4">
-				<div class="text-center" >
-				<img src="<?= $convertedImgPath ?>" style="width: 100%; height: 100%;" alt="" class=" text-center shadows-box">
+		<?php $details = $db->getRows("SELECT * FROM cases_performed WHERE type='Cardiac-Arrhythmias' ORDER BY id DESC "); ?>
+		<div class="container">
+			<?php if (count($details) > 0) {
+				foreach ($details as $client_data) {
+					$convertedImgPath = str_replace('../', '', $client_data['image']);
+			?>
+					<div class="row p-5 mb-5" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
+						<div class="col-md-4">
+							<div class="text-center">
+								<img src="<?= $convertedImgPath ?>" style="width: 100%; height: 100%;" alt="" class=" text-center shadows-box">
 
+							</div>
+						</div>
+						<div class="col-md-8">
+							<h4><?= ($client_data["tittle"]) ?></h4>
+							<p><?= ($client_data["content"]) ?></p>
+						</div>
+					</div>
+
+				<?php }
+			} else { ?>
+				<div>
+					<h3 class="text-center">NO Data To Show</h3>
 				</div>
-			</div>
-			<div class="col-md-8">
-				<h4><?= ($client_data["tittle"]) ?></h4>
-				<p><?= ($client_data["content"]) ?></p>			
-		</div>
-		</div>
-
-		<?php }} else{?>
-			<div><h3 class="text-center">NO Data To Show</h3></div>
-			<?php }?>
+			<?php } ?>
 			<br>
-	</div>
+		</div>
 	</section>
 
 	<br>
 
 
-<section>
-	<div class="container">
-		<div class="mb-5">
-			<h3 class="">Cardiac Arrhythmias Gallery</h3>
-		</div>
-
-		<div class="row">
-			<div class="col-md-6 mb-30 text-center">
-				<a href="speciality-gallery-images.php?type=Cardiac-Arrhythmias">
-					<div>
-						<img src="new-images/dcr-images-folder.jpg" alt="">
-					</div>
-					<div>
-						<h3 class="title mt-3">Images</h3>
-					</div>
-				</a>
+	<section>
+		<div class="container">
+			<div class="mb-5">
+				<h3 class="">Cardiac Arrhythmias Gallery</h3>
 			</div>
-			<div class="col-md-6 mb-30 text-center">
-				<a href="speciality-gallery-videos.php?type=Cardiac-Arrhythmias">
-					<div>
-						<img src="new-images/dcr-videos-folder.jpg" alt="">
-					</div>
-					<div>
-						<h3 class="title mt-3">Videos</h3>
-					</div>
-				</a>
+
+			<div class="row">
+				<div class="col-md-6 mb-30 text-center">
+					<a href="speciality-gallery-images.php?type=Cardiac-Arrhythmias">
+						<div>
+							<img src="new-images/dcr-images-folder.jpg" alt="">
+						</div>
+						<div>
+							<h3 class="title mt-3">Images</h3>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-6 mb-30 text-center">
+					<a href="speciality-gallery-videos.php?type=Cardiac-Arrhythmias">
+						<div>
+							<img src="new-images/dcr-videos-folder.jpg" alt="">
+						</div>
+						<div>
+							<h3 class="title mt-3">Videos</h3>
+						</div>
+					</a>
+				</div>
 			</div>
+
 		</div>
+	</section>
 
-	</div>
-</section>
+	<br><br><br>
 
-<br><br><br>
+	<section class="">
+		<div class="container-fluid mt-100">
+			<div class="contact-wraper ">
+				<div class="row">
+					<div class="col-lg-12 mb-30 px-lg-3 px-0">
+						<div class="contact-info ovpr-dark" style="background-image: url(images/about/pic-1.jpg);">
+							<div class="info-inner">
+								<h4 class="title mb-30">Contact Us For Any Informations</h4>
+								<form class="form-wraper contact-form ajax-form" method="post">
+									<!-- <div class="ajax-message"></div> -->
+									<div class="row">
+										<div class="form-group col-md-4">
+											<input name="name" type="text" required class="form-control index-form" placeholder="Your Name*" pattern="^[a-zA-Z ]{2,50}$" style="background: white !important; color:#222222;">
+										</div>
+										<div class="form-group col-md-4">
+											<input name="email" type="email" required class="form-control index-form" placeholder="Email*" pattern="^[a-zA-Z][a-zA-Z0-9]+@([-a-zA-Z0-9]+\.)[a-zA-Z]{2,5}$" style="background: white !important; color:#222222;">
+										</div>
 
-<section class="">
-			<div class="container-fluid mt-100">
-				<div class="contact-wraper ">
-					<div class="row">						
-						<div class="col-lg-12 mb-30 px-lg-3 px-0">
-							<div class="contact-info ovpr-dark" style="background-image: url(images/about/pic-1.jpg);">
-								<div class="info-inner">
-									<h4 class="title mb-30">Contact Us For Any Informations</h4>									
-										<form class="form-wraper contact-form ajax-form" method="post">
-											<!-- <div class="ajax-message"></div> -->
-											<div class="row">
-												<div class="form-group col-md-4">
-													<input name="name" type="text" required class="form-control index-form" placeholder="Your Name*" pattern="^[a-zA-Z ]{2,50}$" style="background: white !important; color:#222222;">
-												</div>
-												<div class="form-group col-md-4">
-													<input name="email" type="email" required class="form-control index-form" placeholder="Email*"  pattern="^[a-zA-Z][a-zA-Z0-9]+@([-a-zA-Z0-9]+\.)[a-zA-Z]{2,5}$" style="background: white !important; color:#222222;">
-												</div>
+										<!-- <div class="form-group col-md-4"></div> -->
 
-												<!-- <div class="form-group col-md-4"></div> -->
-
-												<div class="form-group col-md-4">
-												<input type="text" name="mobile" class="form-control index-form" placeholder="Phone Number*" pattern="^(\+91[\-\s]?)?[0]?(91)?[789]\d{9}$" required maxlength="10" style="background: white !important; color:#222222;">
-												<!-- <input name="mobile" type="text" required class="form-control" placeholder="Phone Numbers"> -->
-												</div>
-												<!-- <div class="form-group col-md-4">
+										<div class="form-group col-md-4">
+											<input type="text" name="mobile" class="form-control index-form" placeholder="Phone Number*" pattern="^(\+91[\-\s]?)?[0]?(91)?[789]\d{9}$" required maxlength="10" style="background: white !important; color:#222222;">
+											<!-- <input name="mobile" type="text" required class="form-control" placeholder="Phone Numbers"> -->
+										</div>
+										<!-- <div class="form-group col-md-4">
 													
 													<input name="subject" type="text" required class="form-control index-form" placeholder="Subject*" pattern="^[a-zA-Z][ a-zA-Z0-9]+$">
 
 												</div> -->
-												
-												<!-- <div class="form-group col-md-12">
+
+										<!-- <div class="form-group col-md-12">
 													<div class="input-group">
 														<div class="g-recaptcha" data-sitekey="6Lf2gYwUAAAAAJLxwnZTvpJqbYFWqVyzE-8BWhVe" data-callback="verifyRecaptchaCallback" data-expired-callback="expiredRecaptchaCallback"></div>
 														<input class="form-control d-none" style="display:none;" data-recaptcha="true" required data-error="Please complete the Captcha">
 													</div>
-												</div> --> 
-												
-												
-											</div>
-												<div class="text-center my-5">												
-													<button name="contacts_send" type="submit" value="Submit" class="btn w-75 btn-secondary btn-lg">Submit</button>
-												</div>
-										</form>							
-								</div>
+												</div> -->
+
+
+									</div>
+									<div class="text-center my-5">
+										<button name="contacts_send" type="submit" value="Submit" class="btn w-75 btn-secondary btn-lg">Submit</button>
+									</div>
+								</form>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-</section>
+		</div>
+	</section>
 
 	<script type="application/ld+json">
 		{
-		"@context": "https://schema.org/", 
-		"@type": "Product", 
-		"name": "Cardiac Arrhythmia",
-		"image": "https://www.drdcr.com/new-images/cardiacarrythmiapage1.jpg",
-		"description": "Best Cardiac arrhythmia specialist: experienced in diagnosing & treating cardiac rhythm disturbances, offering comprehensive care to improve patient outcomes.",
-		"brand": {
-			"@type": "Brand",
-			"name": "DrDCR"
-		},
-		"sku": "0001",
-		"aggregateRating": {
-			"@type": "AggregateRating",
-			"ratingValue": "5",
-			"bestRating": "5",
-			"worstRating": "5",
-			"ratingCount": "135"
-		}
+			"@context": "https://schema.org/",
+			"@type": "Product",
+			"name": "Cardiac Arrhythmia",
+			"image": "https://www.drdcr.com/new-images/cardiacarrythmiapage1.jpg",
+			"description": "Best Cardiac arrhythmia specialist: experienced in diagnosing & treating cardiac rhythm disturbances, offering comprehensive care to improve patient outcomes.",
+			"brand": {
+				"@type": "Brand",
+				"name": "DrDCR"
+			},
+			"sku": "0001",
+			"aggregateRating": {
+				"@type": "AggregateRating",
+				"ratingValue": "5",
+				"bestRating": "5",
+				"worstRating": "5",
+				"ratingCount": "135"
+			}
 		}
 	</script>
 
-<?php include "footer.php" ; ?>	
-  <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [{
-    "@type": "Question",
-    "name": "What is Cardiac Arrhythmia?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Cardiac arrhythmia is an abnormal heart rhythm characterized by irregular or erratic heartbeat patterns. It can result from factors like heart disease, electrolyte imbalances, medications, and may lead to symptoms such as palpitations, dizziness, and shortness of breath. Treatment depends on the type and severity."
-    }
-  },{
-    "@type": "Question",
-    "name": "What Causes of Cardiac Arrhythmia?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Cardiac arrhythmias can be caused by factors such as heart disease, electrolyte imbalances, medications, excessive alcohol or caffeine consumption, stress, genetics, and the aging process."
-    }
-  },{
-    "@type": "Question",
-    "name": "What are 4 Symptoms of Arrhythmia?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Four common symptoms of arrhythmia include:
-Palpitations: Sensation of irregular or rapid heartbeats.
-Dizziness or lightheadedness: Feeling faint or unsteady.
-Shortness of breath: Difficulty breathing, especially during physical activity.
-Chest pain or discomfort: A feeling of pressure or pain in the chest."
-    }
-  },{
-    "@type": "Question",
-    "name": "Can Arrhythmia be Cured?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Arrhythmia can be managed and controlled through medication or procedures, but a complete cure depends on the type and cause of the arrhythmia. Some cases can be cured with treatments like ablation, while others may require ongoing management."
-    }
-  },{
-    "@type": "Question",
-    "name": "What is heart arrythmia on an ECG?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Heart arrhythmia on an ECG (electrocardiogram) is an irregular heart rhythm pattern. It's a graphical representation of the heart's electrical activity, showing abnormal beats or rhythms, which can help diagnose and assess various cardiac conditions."
-    }
-  },{
-    "@type": "Question",
-    "name": "Can you live a long life with arrhythmia?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Yes, it's possible to live a long life with arrhythmia. Effective management through medication, lifestyle changes, and sometimes medical procedures can control symptoms and reduce the risk of complications, allowing individuals with arrhythmia to lead healthy, fulfilling lives. Regular medical follow-ups are essential for proper care."
-    }
-  },{
-    "@type": "Question",
-    "name": "Who is at risk for arrythmia?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Risk factors for arrhythmia include:
-•	Age: Older individuals are more susceptible.
-•	Heart disease: Those with heart conditions are at higher risk.
-•	High blood pressure
-•	Diabetes
-•	Family history
-•	Smoking
-•	Excessive alcohol or caffeine
-•	Medications"
-    }
-  },{
-    "@type": "Question",
-    "name": "Is ECG enough to detect arrhythmia?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "An ECG (electrocardiogram) is a valuable tool for detecting many arrhythmias, but some may be intermittent. Holter monitors or event recorders can help capture irregular rhythms that may not appear during a standard ECG, providing a more comprehensive assessment."
-    }
-  },{
-    "@type": "Question",
-    "name": "What are the types of arrhythmia?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Arrhythmias are classified into several types:
-•	Atrial Fibrillation (AFib)
-•	Atrial Flutter
-•	Ventricular Tachycardia
-•	Ventricular Fibrillation
-•	Bradycardia
-•	Supraventricular Tachycardia (SVT)
-•	Wolff-Parkinson-White (WPW) Syndrome
-•	Long QT Syndrome
-•	Sick Sinus Syndrome
-•	Premature Contractions (PVCs and PACs)
-Each type has its own distinct characteristics and potential complications."
-    }
-  },{
-    "@type": "Question",
-    "name": "What are the warning signs of arrhythmia?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Warning signs of arrhythmia may include:
-•	Palpitations (feeling of fluttering or racing heart)
-•	Dizziness or lightheadedness
-•	Fainting (syncope)
-•	Chest pain or discomfort
-•	Shortness of breath
-•	Fatigue
-•	Rapid or irregular heartbeat
-•	Weakness
-These symptoms should prompt medical evaluation, as they may indicate an underlying arrhythmia or heart-related issue."
-    }
-  },{
-    "@type": "Question",
-    "name": "What are the risk factors for arrhythmia?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Risk factors for arrhythmia include:
-•	Age (more common as people get older)
-•	Heart disease
-•	High blood pressure
-•	Diabetes
-•	Smoking
-•	Excessive alcohol or caffeine intake
-•	Drug use
-•	Family history of arrhythmia
-•	Certain medications
-•	Other underlying medical conditions."
-    }
-  },{
-    "@type": "Question",
-    "name": "What tests will be done to diagnose arrhythmia?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "To diagnose arrhythmia, doctors may perform tests like:
-•	Electrocardiogram (ECG or EKG)
-•	Holter monitor (24-hour ECG)
-•	Event recorder (intermittent monitoring)
-•	Echocardiogram (ultrasound of the heart)
-•	Stress test
-•	Electrophysiology study (EP study)
-•	Blood tests
-•	Chest X-ray
-•	Cardiac MRI or CT scan
-These tests help identify the type and cause of arrhythmia."
-    }
-  }]
-}
-</script>
+	<?php include "footer.php"; ?>
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "FAQPage",
+			"mainEntity": [{
+				"@type": "Question",
+				"name": "What is Cardiac Arrhythmia?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "Cardiac arrhythmia is an abnormal heart rhythm characterized by irregular or erratic heartbeat patterns. It can result from factors like heart disease, electrolyte imbalances, medications, and may lead to symptoms such as palpitations, dizziness, and shortness of breath. Treatment depends on the type and severity."
+				}
+			}, {
+				"@type": "Question",
+				"name": "What Causes of Cardiac Arrhythmia?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "Cardiac arrhythmias can be caused by factors such as heart disease, electrolyte imbalances, medications, excessive alcohol or caffeine consumption, stress, genetics, and the aging process."
+				}
+			}, {
+				"@type": "Question",
+				"name": "What are 4 Symptoms of Arrhythmia?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "Four common symptoms of arrhythmia include:
+					Palpitations: Sensation of irregular or rapid heartbeats.
+					Dizziness or lightheadedness: Feeling faint or unsteady.
+					Shortness of breath: Difficulty breathing,
+					especially during physical activity.
+					Chest pain or discomfort: A feeling of pressure or pain in the chest.
+					"
+				}
+			}, {
+				"@type": "Question",
+				"name": "Can Arrhythmia be Cured?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "Arrhythmia can be managed and controlled through medication or procedures, but a complete cure depends on the type and cause of the arrhythmia. Some cases can be cured with treatments like ablation, while others may require ongoing management."
+				}
+			}, {
+				"@type": "Question",
+				"name": "What is heart arrythmia on an ECG?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "Heart arrhythmia on an ECG (electrocardiogram) is an irregular heart rhythm pattern. It's a graphical representation of the heart's electrical activity, showing abnormal beats or rhythms, which can help diagnose and assess various cardiac conditions."
+				}
+			}, {
+				"@type": "Question",
+				"name": "Can you live a long life with arrhythmia?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "Yes, it's possible to live a long life with arrhythmia. Effective management through medication, lifestyle changes, and sometimes medical procedures can control symptoms and reduce the risk of complications, allowing individuals with arrhythmia to lead healthy, fulfilling lives. Regular medical follow-ups are essential for proper care."
+				}
+			}, {
+				"@type": "Question",
+				"name": "Who is at risk for arrythmia?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "Risk factors for arrhythmia include:•
+					Age: Older individuals are more susceptible.•Heart disease: Those with heart conditions are at higher risk.•High blood pressure• Diabetes• Family history• Smoking• Excessive alcohol or caffeine• Medications "
+				}
+			}, {
+				"@type": "Question",
+				"name": "Is ECG enough to detect arrhythmia?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "An ECG (electrocardiogram) is a valuable tool for detecting many arrhythmias, but some may be intermittent. Holter monitors or event recorders can help capture irregular rhythms that may not appear during a standard ECG, providing a more comprehensive assessment."
+				}
+			}, {
+				"@type": "Question",
+				"name": "What are the types of arrhythmia?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "Arrhythmias are classified into several types:•
+					Atrial Fibrillation(AFib)• Atrial Flutter• Ventricular Tachycardia• Ventricular Fibrillation• Bradycardia• Supraventricular Tachycardia(SVT)• Wolff - Parkinson - White(WPW) Syndrome• Long QT Syndrome• Sick Sinus Syndrome• Premature Contractions(PVCs and PACs)
+					Each type has its own distinct characteristics and potential complications.
+					"
+				}
+			}, {
+				"@type": "Question",
+				"name": "What are the warning signs of arrhythmia?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "Warning signs of arrhythmia may include:•
+					Palpitations(feeling of fluttering or racing heart)• Dizziness or lightheadedness• Fainting(syncope)• Chest pain or discomfort• Shortness of breath• Fatigue• Rapid or irregular heartbeat• Weakness
+					These symptoms should prompt medical evaluation,
+					as they may indicate an underlying arrhythmia or heart - related issue.
+					"
+				}
+			}, {
+				"@type": "Question",
+				"name": "What are the risk factors for arrhythmia?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "Risk factors for arrhythmia include:•
+					Age(more common as people get older)• Heart disease• High blood pressure• Diabetes• Smoking• Excessive alcohol or caffeine intake• Drug use• Family history of arrhythmia• Certain medications• Other underlying medical conditions.
+					"
+				}
+			}, {
+				"@type": "Question",
+				"name": "What tests will be done to diagnose arrhythmia?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "To diagnose arrhythmia, doctors may perform tests like:•
+					Electrocardiogram(ECG or EKG)• Holter monitor(24 - hour ECG)• Event recorder(intermittent monitoring)• Echocardiogram(ultrasound of the heart)• Stress test• Electrophysiology study(EP study)• Blood tests• Chest X - ray• Cardiac MRI or CT scan
+					These tests help identify the type and cause of arrhythmia.
+					"
+				}
+			}]
+		}
+	</script>
 </body>
+
 </html>

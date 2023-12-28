@@ -86,7 +86,7 @@ define("PATH_LIB", PATH_ROOT . DS . "library" . DS);
 
 
 // define("URL_ROOT", "https://www.drdcr.com/");
-define("URL_ROOT", "http://localhost/smile-solution/");
+define("URL_ROOT", "http://localhost/smilesolution/");
 
 
 
