@@ -3,27 +3,27 @@
 <html lang="en">
 
 <head>
-	<title>Child Dentistry in Chrompet | Get Quality Dental Care for Kids</title>
-	<meta name="description" content="Discover advanced cardiac arrhythmia treatment by DrDCR in Chennai. Regain a steady heartbeat. Experience expert care that transforms lives.">
-	<meta name="keywords" content="Cardiac arrhythmia, heart rhythm disorder, cardiac rhythm disturbance, irregular heartbeat, atrial fibrillation, ventricular tachycardia, bradycardia, heart block, atrial flutter, palpitations, electrocardiogram, echocardiogram, pacemaker, ablation, defibrillator">
+	<title>Brushing Techniques: How to Brush Teeth for Optimal Health</title>
+	<meta name="description" content="Experience advanced cardiac resynchronization therapy in Chennai with DrDCR. Optimize heart function for a more vibrant life. Schedule a consultation now.">
+	<meta name="keywords" content="Cardiac Resynchronization Therapy (CRT), Heart Pacemaker, Congestive Heart Failure, Cardiology, Ventricular Dysynchrony, Left Ventricular Pacing, Dyssynchrony, Biventricular Pacing, Cardiac Resynchronization Device, Sudden Cardiac Death, Prolonged Life Expectancy, Improved Exercise Capacity">
 
 	<!-- OGTC -->
 	<meta property="og:type" content="website">
-	<meta property="og:title" content="Best Cardiac Arrhythmia Specialist in Chennai - DrDCR">
-	<meta property="og:description" content="Discover advanced cardiac arrhythmia treatment by DrDCR in Chennai. Regain a steady heartbeat. Experience expert care that transforms lives.">
-	<meta property="og:url" content="https://www.drdcr.com/cardiac-arrhythmia.php">
-	<meta property="og:image" content="https://www.drdcr.com/new-images/cardiacarrythmiapage1.jpg">
+	<meta property="og:title" content="Top Cardiac Resynchronization Therapy in Chennai - DrDCR">
+	<meta property="og:description" content="Experience advanced cardiac resynchronization therapy in Chennai with DrDCR. Optimize heart function for a more vibrant life. Schedule a consultation now.">
+	<meta property="og:url" content="https://www.drdcr.com/cardiac-resynchronization-therapy.php">
+	<meta property="og:image" content="https://www.drdcr.com/new-images/cardiacresynchronization1.jpg">
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
 	<meta property="og:site_name" content="DrDCR">
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Best Cardiac Arrhythmia Specialist in Chennai - DrDCR">
-	<meta property="twitter:description" content="Discover advanced cardiac arrhythmia treatment by DrDCR in Chennai. Regain a steady heartbeat. Experience expert care that transforms lives.">
-	<meta property="twitter:image:src" content="https://www.drdcr.com/new-images/cardiacarrythmiapage1.jpg">
+	<meta name="twitter:title" content="Top Cardiac Resynchronization Therapy in Chennai - DrDCR">
+	<meta property="twitter:description" content="Experience advanced cardiac resynchronization therapy in Chennai with DrDCR. Optimize heart function for a more vibrant life. Schedule a consultation now.">
+	<meta property="twitter:image:src" content="https://www.drdcr.com/new-images/cardiacresynchronization1.jpg">
 	<meta property="twitter:image:width" content="1200">
 	<meta property="twitter:image:height" content="630">
 
-	<link rel="canonical" href="https://www.drdcr.com/cardiac-arrhythmia.php">
+	<link rel="canonical" href="https://www.drdcr.com/cardiac-resynchronization-therapy.php">
 	<?php include "header.php"; ?>
 </head>
 
@@ -38,7 +38,7 @@
 			<div class="page-banner" style="background-image:url(images/banner/img1.jpg);">
 				<div class="container">
 					<div class="page-banner-entry text-center">
-						<h1>Children Dentistry In Chrompet</h1>
+						<h1 class="banner-content">Brushing Techniques</h1>
 						<!-- Breadcrumb row -->
 						<nav aria-label="breadcrumb" class="breadcrumb-row">
 							<ul class="breadcrumb">
@@ -46,7 +46,7 @@
 											<path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
 											<polyline points="9 22 9 12 15 12 15 22"></polyline>
 										</svg> Home</a></li>
-								<li class="breadcrumb-item active" aria-current="page">Children Dentistry</li>
+								<li class="breadcrumb-item active" aria-current="page">Brushing Techniques</li>
 							</ul>
 						</nav>
 					</div>
@@ -67,14 +67,14 @@
 
 					<div class="col-lg-5 mb-10 text-center text-lg-left">
 						<div class="paroller">
-							<img src="images/services/dentistry-for-your-child.jpg" alt="Cardiac Arrhythmia" class="shadows-box">
+							<img src="images/services/how-important-is-brushing.jpg" alt="Cardiac Resynchronization Therapy" class="shadows-box">
 						</div>
 					</div>
 
-					<div class="col-lg-7 mb-10">
+					<div class="col-lg-7">
 						<div class="heading-bx">
-							<h3 class="mb-3 pt-20" style="font-size: 26px;">Dentistry for your Child</h3>
-							<p class="text-justify">Smile Solutions is a leading provider of pediatric dental services for children of all ages in Chrompet, Chennai. Our team of experienced pediatric dentists and specialists provide comprehensive dental care for infants, children, and teens.We specialize in preventative care, restorative treatments, and orthodontic solutions. Our goal is to provide the highest quality of care and to ensure that your child has a healthy and enjoyable dental experience. We have the latest technology and equipment to ensure that your child receives the best dental care available. Our staff is committed to providing personalized and compassionate care to ensure that your child is comfortable throughout their dental visit. We understand that each child is unique and we strive to provide individualized treatment plans to meet their needs.</p>
+							<h3 class="mb-3 pt-20" style="font-size: 26px;">How important is brushing?</h3>
+							<p class="text-justify">Brushing is an important part of oral hygiene and helps to remove plaque,bacteria, and food particles from your teeth that can cause tooth decay and gum disease. It is important to brush twice a day for two minutes each time, using a toothbrush with soft bristles.Brushing helps to keep your teeth and gums healthy and can prevent a variety of dental problems.</p>
 						</div>
 					</div>
 
@@ -82,48 +82,16 @@
 
 				<div class="row align-items-center">
 
-					<div class="col-lg-7 mb-10">
+					<div class="col-lg-7">
 						<div class="heading-bx">
-							<h3 class="mb-3 pt-20" style="font-size: 26px;">How is pediatric dentistry different?</h3>
-							<p class="text-justify">Pediatric dentistry is different from general dentistry in that it is specifically tailored to meet the needs of children. Pediatric dentists are trained to providepreventive and early corrective dental care for infants, children, adolescents,and young adults up to age 21. They are also trained to address the unique needs of children, such as anxiety management and behavior management. Additionally,pediatric dentists use special equipment and techniques that are appropriate for children, such as smaller instruments and chairs, and sedation and general anesthesia in some cases.</p>
+							<h3 class="mb-3 pt-20" style="font-size: 26px;">Is brushing needed for children?</h3>
+							<p class="text-justify">Yes, brushing is important for children's oral health. It's recommended that children brush their teeth twice a day with a toothpaste that contains fluoride. Parents should also supervise their children while they brush to ensure they are doing it properly.</p>
 						</div>
 					</div>
 
 					<div class="col-lg-5 mb-10 text-center text-lg-right order-first order-lg-last">
 						<div class="paroller">
-							<img src="images/services/how-is-pediatric-dentistry-different.jpg" alt="Heart Rhythm Disorder" class="shadows-box">
-						</div>
-					</div>
-
-				</div>
-
-				<!-- <div class="row align-items-center">
-
-					<div class="col-lg-5 mb-10 text-center text-lg-left">
-						<div class="paroller">
-							<img src="new-images/cardiacarrythmiapage3.jpg" alt="Heart Rhythm Disturbance" class="shadows-box">
-						</div>
-					</div>
-					
-					<div class="col-lg-7 mb-10">
-						<div class="heading-bx">
-							<p class="text-justify">As a specialist in cardiac arrhythmia, Dr. DCR holds extensive expertise to pinpoint why your heart isn't beating normally. He is one of the few electrophysiologist cardiologist in India to run an all-exclusive arrhythmia clinic with aid of an arrhythmia nurse and electrophysiology technicians. His clinic offers a comprehensive range of diagnostic services for arrhythmias like ECGs, Holter, Extended Patch Holter, and Internal Loop Recorder implants.</p>
-						</div>
-					</div>
-
-				</div> -->
-
-				<!-- <div class="row align-items-center">
-					
-					<div class="col-lg-7 mb-10">
-						<div class="heading-bx">
-							<p class="text-justify">He combines his wealth of experience, compassion, and use of cutting-edge technology to provide world-class and personal cardio care. Scores of patient testimonials are proof of his skill and speak volumes about his clinical prowess in the field of Cardiac electrophysiology. Refer to the testimonials below (link) to learn how his own patients have benefitted with superior cardiac-care from the top cardiologist in Chennai – Dr. Deep Chandh Raja (DCR). </p>
-						</div>
-					</div>
-
-					<div class="col-lg-5 mb-10 text-center">
-						<div>
-							<img src="new-images/about-us-3.jpg" alt="">
+							<img src="images/services/brushing-needed-for-children.jpg" alt="Congestive Heart Failure" class="shadows-box">
 						</div>
 					</div>
 
@@ -131,14 +99,59 @@
 
 				<div class="row align-items-center">
 
-					<div class="col-lg-12 mb-10">
-						<div class="heading-bx">
-							<p class="text-justify">From advanced diagnosis and treatment to rehabilitation and prevention in the field of Cardiology and Cardiac Electrophysiology, Dr. DCR - a popular electrophysiologist cardiologist offers a full range of cardiology services, including advice on the latest in minimally invasive surgery, leading-edge valve repair, bypass surgeries and more. He is closely associated with all the leading cardio vascular surgeon in the city, who are capable of performing minimally invasive surgeries, valve replacements, coronary endarterectomies, off-pump coronary bypass surgeries, total arterial graft bypass surgeries, lung transplant, and heart transplant surgeries.</p>			
-							<p class="text-justify">Book an appointment with the best cardiologist doctor in Chennai to avail his life saving heart treatments and keep your heart beating right. Because a Heart that Beats Right, Stays Right.</p>			
+					<div class="col-lg-5 mb-10 text-center text-lg-left">
+						<div class="paroller">
+							<img src="images/services/what-types-of-toothbrushes-should-be-used.jpg" alt="Ventricular Dysynchrony" class="shadows-box">
 						</div>
 					</div>
 
-				</div> -->
+					<div class="col-lg-7">
+						<div class="heading-bx">
+							<h3 class="mb-3 pt-20" style="font-size: 26px;">What types of toothbrushes should be used?</h3>
+							<p class="text-justify">The type of toothbrush that should be used depends on the individual's oral hygiene needs. Generally speaking, a soft-bristled toothbrush is recommended as it is gentler on the gums and teeth. Individuals with braces or who have gum recession may benefit from using an extra-soft or ultra-soft toothbrush, as these are gentler on the delicate tissue. Electric toothbrushes are also recommended for their ability to effectively remove plaque and food particles from the teeth and gums.</p>
+						</div>
+					</div>
+
+				</div>
+
+
+
+
+				<div class="row align-items-center">
+
+					<div class="col-lg-7">
+						<div class="heading-bx">
+							<h3 class="mb-3 pt-20" style="font-size: 26px;">What role does tooth paste play in brushing?</h3>
+							<p class="text-justify">Toothpaste is an important part of brushing your teeth because it removes plaque and bacteria, freshens your breath, and has fluoride, which helps strengthen teeth and reduce cavities. It's important to use fluoride-based toothpaste because it helps prevent cavities and tooth decay.<< /p>
+						</div>
+					</div>
+
+					<div class="col-lg-5 mb-10 text-center text-lg-right order-first order-lg-last">
+						<div class="paroller">
+							<img src="images/services/what-role-does-tooth-paste-play-in-brushing.jpg" alt="Congestive Heart Failure" class="shadows-box">
+						</div>
+					</div>
+
+				</div>
+
+
+				<div class="row align-items-center">
+
+					<div class="col-lg-5 mb-10 text-center text-lg-left">
+						<div class="paroller">
+							<img src="images/services/does-incorrect-brushing-have-negative-effects.jpg" alt="Ventricular Dysynchrony" class="shadows-box">
+						</div>
+					</div>
+
+					<div class="col-lg-7">
+						<div class="heading-bx">
+							<h3 class="mb-3 pt-20" style="font-size: 26px;">Does incorrect brushing have negative effects?</h3>
+							<p class="text-justify">Yes, incorrect brushing can have negative effects on the teeth and gums. Brushing too hard can lead to gum recession, which can cause sensitivity and other oral health issues. Brushing too hard can also lead to enamel erosion, which may cause discoloration and other aesthetic issues. In addition, incorrect brushing technique can lead to plaque buildup, which can lead to cavities and other oral health problems.</p>
+						</div>
+					</div>
+
+				</div>
+
 
 			</div>
 			<!-- <img class="pt-img1 animate-wave" src="images/shap/wave-orange.png" alt="">
@@ -149,37 +162,26 @@
 		</section>
 
 
+
 		<div class="container">
-			<div class="accordion" id="accordionPanelsStayOpenExamplechildone">
+			<div class="accordion" id="accordionPanelsStayOpenExamplBrushone">
 
 
 				<div class="accordion-item">
-					<h2 class="accordion-header" id="panelsStayOpen-headingchildone">
-						<button class="accordion-button collapsed card-color text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
-							Common Dental Problems for Children
+					<h2 class="accordion-header" id="panelsStayOpen-headingBrushone">
+						<button class="accordion-button collapsed card-color text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseBrushoone" aria-expanded="false" aria-controls="panelsStayOpen-collapseBrushoone">
+							What are the correct brushing techniques?
 						</button>
 					</h2>
-					<div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingThree">
+					<div id="panelsStayOpen-collapseBrushone" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingone">
 						<div class="accordion-body">
 							<ul class=" mb-0">
-								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Early Childhood Cavities (or baby bottle tooth decay)</strong>
-									<p>This is a common dental problem in young children, caused by prolonged exposure to sugary liquids,such as milk or juice, which coats the teeth and allows bacteria to grow and produce acids that attack the enamel.</p>
-								</li>
-								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Thumb Sucking</strong>
-									<p>Thumb sucking can cause misalignment of the teeth, resulting in an overbite or underbite.</p>
-								</li>
-								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Tooth Decay</strong>
-									<p>Tooth decay occurs when bacteria in the mouth produces acids that attack the enamel,creating small holes in the teeth.</p>
-								</li>
-								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Teething</strong>
-									<p>Teething is a normal part of a child's development, but it can also cause pain and discomfort. It can also lead to swollen and tender gums, and some babies may develop a fever.</p>
-								</li>
-								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Dental Trauma</strong>
-									<p>Dental trauma can occur when a child falls or is hit in the mouth, resulting in chipped, cracked, or broken teeth.</p>
-								</li>
-								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Malocclusion</strong>
-									<p>Malocclusion is an improper alignment of the teeth,which can cause speech and eating problems.</p>
-								</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>Place your toothbrush at a 45-degree angle against the gum line and brush gently in a circular motion.</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>Brush the outer surfaces, the inner surfaces, and the chewing surfaces of the teeth.</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>Use the "toe" of the brush to clean the inside surfaces of the front teeth, using a gentle up-and-down stroke.</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>Brush your tongue to remove bacteria and keep your breath fresh.</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>Spit out the toothpaste, but don’t rinse your mouth with water right away. This helps protect your teeth against acid attacks.</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>UsBrush your teeth for two minutes, twice a day.</li>
 							</ul>
 						</div>
 					</div>
@@ -187,42 +189,101 @@
 
 				<div class="accordion-item">
 
-					<h2 class="accordion-header" id="panelsStayOpen-headingchildtwo">
-						<button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
-						Pediatric Dental Procedures
+					<h2 class="accordion-header" id="panelsStayOpen-headingBrushtwo">
+						<button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseBrushtwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseBrushtwo">
+							What are the methods of brushing?
 
 						</button>
 					</h2>
-					<div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
+					<div id="panelsStayOpen-collapseBrushtwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
 						<div class="accordion-body">
 							<ul class=" mb-0">
-								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Cleanings and Exams</strong>
-									<p>Pediatric dentists perform regular cleanings and exams to ensure that children’s teeth are healthy and free of cavities and other problems.</p>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Using a soft-bristled toothbrush</strong>
+									<p>This is the classic brushing method and is the most common. It involves using a soft-bristled toothbrush and gentle circular motions to clean the teeth.</p>
 								</li>
-								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Fluoride Treatments</strong>
-									<p>Fluoride treatments help strengthen teeth and protect them from damage caused by plaque and acids.</p>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Using an electric toothbrush</strong>
+									<p>Because they are made to move in a circular motion, electric toothbrushes can be more effective than manual brushes at cleaning the teeth.</p>
 								</li>
-								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Sealants</strong>
-									<p>Sealants help protect teeth from decay by forming a protective barrier over the surface of the tooth.</p>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Using interdental brushes</strong>
+									<p>Interdental brushes are made to clean between the teeth and can be very effective at removing plaque and food particles from hard-to-reach places.</p>
 								</li>
-								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Fillings</strong>
-									<p>Fillings are used to repair teeth that have been damaged by cavities or trauma.</p>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Using a tongue scraper</strong>
+									<p>A tongue scraper can be used to remove bacteria and food debris from the tongue, which can help reduce bad breath.</p>
 								</li>
-								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Extractions</strong>
-									<p>When a tooth is severely damaged or decayed,a pediatric dentist may need to extract it.</p>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Using a water flosser</strong>
+									<p>A water flosser is an effective way to clean between the teeth, as the high-pressure water jet can remove plaque and food debris more effectively than traditional flossing.</p>
 								</li>
-								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Root Canals</strong>
-									<p>Root canals are used to treat teeth that have become infected or abscessed.</p>
-								</li>
-								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Crowns</strong>
-									<p>Dental Crowns are used to restore teeth that are severely damaged or decayed</p>
-								</li>
-								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Bridges</strong>
-									<p>A Dental bridge is used to replace a missing tooth.</p>
-								</li>
-								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Orthodontics</strong>
-									<p>Orthodontics is used to correct misaligned teeth and jaws</p>
-								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+
+				<div class="accordion-item">
+
+					<h2 class="accordion-header" id="panelsStayOpen-headingBrushthree">
+						<button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseBrushthree" aria-expanded="false" aria-controls="panelsStayOpen-collapseBrushthree">
+						How frequently should we brush our teeth?
+
+						</button>
+					</h2>
+					<div id="panelsStayOpen-collapseBrushthree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingthree">
+						<div class="accordion-body">
+							<ul class=" mb-0">
+							<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>It is recommended that you brush your teeth at least twice a day, for two minutes each time. It is also important to floss every day.</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="accordion-item">
+
+					<h2 class="accordion-header" id="panelsStayOpen-headingBrushfour">
+						<button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseBrushfour" aria-expanded="false" aria-controls="panelsStayOpen-collapseBrushfour">
+						How long does it take to brush one's teeth properly?
+
+						</button>
+					</h2>
+					<div id="panelsStayOpen-collapseBrushfour" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingfour">
+						<div class="accordion-body">
+							<ul class=" mb-0">
+							<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>The American Dental Association recommends brushing teeth for two minutes twice a day. While this is the general recommendation, individuals may need to adjust the duration of their brushing according to personal preference or dental health needs.</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+
+				<div class="accordion-item">
+
+					<h2 class="accordion-header" id="panelsStayOpen-headingBrushfive">
+						<button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseBrushfive" aria-expanded="false" aria-controls="panelsStayOpen-collapseBrushfive">
+						Is it important to floss the teeth?
+
+						</button>
+					</h2>
+					<div id="panelsStayOpen-collapseBrushfive" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingfive">
+						<div class="accordion-body">
+							<ul class=" mb-0">
+							<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>Yes, regular flossing is very important for good oral health. Flossing helps remove plaque buildup and food particles from between the teeth and along the gum line, reducing the risk of gum disease and tooth decay.</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				
+				<div class="accordion-item">
+
+					<h2 class="accordion-header" id="panelsStayOpen-headingBrushsix">
+						<button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseBrushsix" aria-expanded="false" aria-controls="panelsStayOpen-collapseBrushsix">
+						When should a brush be changed?
+
+						</button>
+					</h2>
+					<div id="panelsStayOpen-collapseBrushsix" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingsix">
+						<div class="accordion-body">
+							<ul class=" mb-0">
+							<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>Typically, a brush should be changed when it begins to look worn or frayed, or every three to four months, whichever comes first.</li>
 							</ul>
 						</div>
 					</div>
@@ -554,14 +615,11 @@
 
 	</div>
 
-
-
-
 	<!-- <section>
 		<div class="mb-5">
 			<h3 class="text-center">Cases performed By DR DCR</h3>
 		</div>
-		</?php $details = $db->getRows("SELECT * FROM cases_performed WHERE type='Cardiac-Arrhythmias' ORDER BY id DESC "); ?>
+		</?php $details = $db->getRows("SELECT * FROM cases_performed WHERE type='Cardiac-Resynchronization-Therapy' ORDER BY id DESC "); ?>
 		<div class="container">
 			</?php if (count($details) > 0) {
 				foreach ($details as $client_data) {
@@ -569,8 +627,8 @@
 			?>
 					<div class="row p-5 mb-5" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
 						<div class="col-md-4">
-							<div class="text-center">
-								<img src="</?= $convertedImgPath ?>" style="width: 100%; height: 100%;" alt="" class=" text-center shadows-box">
+							<div>
+								<img src="</?= $convertedImgPath ?>" style="width: 100%; height: 100%;" alt="" class="shadows-box">
 
 							</div>
 						</div>
@@ -589,19 +647,19 @@
 			<br>
 		</div>
 	</section>
-
 	<br>
 
 
 	<section>
 		<div class="container">
 			<div class="mb-5">
-				<h3 class="">Cardiac Arrhythmias Gallery</h3>
+				<h3 class="">Cardiac Resynchronization Therapy Gallery</h3>
 			</div>
 
 			<div class="row">
+
 				<div class="col-md-6 mb-30 text-center">
-					<a href="speciality-gallery-images.php?type=Cardiac-Arrhythmias">
+					<a href="speciality-gallery-images.php?type=Cardiac-Resynchronization-Therapy">
 						<div>
 							<img src="new-images/dcr-images-folder.jpg" alt="">
 						</div>
@@ -611,7 +669,7 @@
 					</a>
 				</div>
 				<div class="col-md-6 mb-30 text-center">
-					<a href="speciality-gallery-videos.php?type=Cardiac-Arrhythmias">
+					<a href="speciality-gallery-videos.php?type=Cardiac-Resynchronization-Therapy">
 						<div>
 							<img src="new-images/dcr-videos-folder.jpg" alt="">
 						</div>
@@ -620,12 +678,12 @@
 						</div>
 					</a>
 				</div>
-			</div>
 
+			</div>
 		</div>
 	</section> -->
-
 	<br><br><br>
+
 
 	<section class="">
 		<div class="container-fluid mt-100">
@@ -682,14 +740,14 @@
 		{
 			"@context": "https://schema.org/",
 			"@type": "Product",
-			"name": "Cardiac Arrhythmia",
-			"image": "https://www.drdcr.com/new-images/cardiacarrythmiapage1.jpg",
-			"description": "Best Cardiac arrhythmia specialist: experienced in diagnosing & treating cardiac rhythm disturbances, offering comprehensive care to improve patient outcomes.",
+			"name": "Cardiac Resynchronization Therapy",
+			"image": "https://www.drdcr.com/new-images/cardiacresynchronization1.jpg",
+			"description": "CRT is a pacemaker therapy for treating heart failure, using 2 or more electrodes to sync heart's chambers, improving pumping efficiency & heart function",
 			"brand": {
 				"@type": "Brand",
 				"name": "DrDCR"
 			},
-			"sku": "0001",
+			"sku": "0005",
 			"aggregateRating": {
 				"@type": "AggregateRating",
 				"ratingValue": "5",
@@ -699,114 +757,66 @@
 			}
 		}
 	</script>
-
-	<?php include "footer.php"; ?>
+	<?php include "footer.php" ?>
 	<script type="application/ld+json">
 		{
 			"@context": "https://schema.org",
 			"@type": "FAQPage",
 			"mainEntity": [{
 				"@type": "Question",
-				"name": "What is Cardiac Arrhythmia?",
+				"name": "What is the difference between pacemaker and cardiac resynchronization therapy?",
 				"acceptedAnswer": {
 					"@type": "Answer",
-					"text": "Cardiac arrhythmia is an abnormal heart rhythm characterized by irregular or erratic heartbeat patterns. It can result from factors like heart disease, electrolyte imbalances, medications, and may lead to symptoms such as palpitations, dizziness, and shortness of breath. Treatment depends on the type and severity."
+					"text": "A pacemaker used for slow or irregular heartbeats uses electrical impulses to regulate heart rhythm. Cardiac resynchronization treatment (CRT) is a customized pacemaker for heart failure that synchronizes ventricular contractions in specific instances."
 				}
 			}, {
 				"@type": "Question",
-				"name": "What Causes of Cardiac Arrhythmia?",
+				"name": "What is required for cardiac resynchronization therapy?",
 				"acceptedAnswer": {
 					"@type": "Answer",
-					"text": "Cardiac arrhythmias can be caused by factors such as heart disease, electrolyte imbalances, medications, excessive alcohol or caffeine consumption, stress, genetics, and the aging process."
+					"text": "Cardiac resynchronization therapy (CRT) involves implanting a customized pacemaker with three leads: one in the right atrium, one in the right ventricle, and one in the left ventricle to synchronize cardiac contractions, which is commonly used in heart failure cases with conduction issues."
 				}
 			}, {
 				"@type": "Question",
-				"name": "What are 4 Symptoms of Arrhythmia?",
+				"name": "Who is a candidate for CRT?",
 				"acceptedAnswer": {
 					"@type": "Answer",
-					"text": "Four common symptoms of arrhythmia include:
-					Palpitations: Sensation of irregular or rapid heartbeats.
-					Dizziness or lightheadedness: Feeling faint or unsteady.
-					Shortness of breath: Difficulty breathing,
-					especially during physical activity.
-					Chest pain or discomfort: A feeling of pressure or pain in the chest.
-					"
+					"text": "CRT is advised for heart failure patients who have a lower ejection fraction, particular conduction abnormalities (such as left bundle branch block), and persistent symptoms after appropriate pharmacological therapy. These individuals may benefit from CRT for increased cardiac function and symptom reduction."
 				}
 			}, {
 				"@type": "Question",
-				"name": "Can Arrhythmia be Cured?",
+				"name": "How successful is CRT?",
 				"acceptedAnswer": {
 					"@type": "Answer",
-					"text": "Arrhythmia can be managed and controlled through medication or procedures, but a complete cure depends on the type and cause of the arrhythmia. Some cases can be cured with treatments like ablation, while others may require ongoing management."
+					"text": "CRT offers a high success rate in improving cardiac function and symptoms in qualified patients. In many circumstances, it can improve quality of life, minimize hospitalizations, and extend longevity, particularly in heart failure patients with left bundle branch block and conduction difficulties. Success varies from person to person."
 				}
 			}, {
 				"@type": "Question",
-				"name": "What is heart arrythmia on an ECG?",
+				"name": "What are the risks of CRT surgery?",
 				"acceptedAnswer": {
 					"@type": "Answer",
-					"text": "Heart arrhythmia on an ECG (electrocardiogram) is an irregular heart rhythm pattern. It's a graphical representation of the heart's electrical activity, showing abnormal beats or rhythms, which can help diagnose and assess various cardiac conditions."
+					"text": "Like any other medical procedure, CRT surgery has risks such as infections, bleeding, lead dislodgment, and allergic responses to device materials. There is also a slight chance of issues from anaesthesia and implantation. Patients should discuss potential risks with their healthcare professional."
 				}
 			}, {
 				"@type": "Question",
-				"name": "Can you live a long life with arrhythmia?",
+				"name": "How much does a CRT pacemaker cost in India?",
 				"acceptedAnswer": {
 					"@type": "Answer",
-					"text": "Yes, it's possible to live a long life with arrhythmia. Effective management through medication, lifestyle changes, and sometimes medical procedures can control symptoms and reduce the risk of complications, allowing individuals with arrhythmia to lead healthy, fulfilling lives. Regular medical follow-ups are essential for proper care."
+					"text": "The cost of a CRT pacemaker in India varies greatly based on the individual device, hospital, and any associated medical fees. It can cost anywhere between INR 2.5 lakhs and INR 6 lakhs or more, including implantation and follow-up care. Prices may vary between cities and hospitals. For specific cost estimates, patients should speak with healthcare providers or hospitals."
 				}
 			}, {
 				"@type": "Question",
-				"name": "Who is at risk for arrythmia?",
+				"name": "What is the survival rate for CRT patients?",
 				"acceptedAnswer": {
 					"@type": "Answer",
-					"text": "Risk factors for arrhythmia include:•
-					Age: Older individuals are more susceptible.•Heart disease: Those with heart conditions are at higher risk.•High blood pressure• Diabetes• Family history• Smoking• Excessive alcohol or caffeine• Medications "
+					"text": "Individual factors influence survival rates for CRT patients. CRT can enhance survival in heart failure, although particular rates depend on the patient's overall health and reaction to therapy."
 				}
 			}, {
 				"@type": "Question",
-				"name": "Is ECG enough to detect arrhythmia?",
+				"name": "How long does it take to recover from a CRT?",
 				"acceptedAnswer": {
 					"@type": "Answer",
-					"text": "An ECG (electrocardiogram) is a valuable tool for detecting many arrhythmias, but some may be intermittent. Holter monitors or event recorders can help capture irregular rhythms that may not appear during a standard ECG, providing a more comprehensive assessment."
-				}
-			}, {
-				"@type": "Question",
-				"name": "What are the types of arrhythmia?",
-				"acceptedAnswer": {
-					"@type": "Answer",
-					"text": "Arrhythmias are classified into several types:•
-					Atrial Fibrillation(AFib)• Atrial Flutter• Ventricular Tachycardia• Ventricular Fibrillation• Bradycardia• Supraventricular Tachycardia(SVT)• Wolff - Parkinson - White(WPW) Syndrome• Long QT Syndrome• Sick Sinus Syndrome• Premature Contractions(PVCs and PACs)
-					Each type has its own distinct characteristics and potential complications.
-					"
-				}
-			}, {
-				"@type": "Question",
-				"name": "What are the warning signs of arrhythmia?",
-				"acceptedAnswer": {
-					"@type": "Answer",
-					"text": "Warning signs of arrhythmia may include:•
-					Palpitations(feeling of fluttering or racing heart)• Dizziness or lightheadedness• Fainting(syncope)• Chest pain or discomfort• Shortness of breath• Fatigue• Rapid or irregular heartbeat• Weakness
-					These symptoms should prompt medical evaluation,
-					as they may indicate an underlying arrhythmia or heart - related issue.
-					"
-				}
-			}, {
-				"@type": "Question",
-				"name": "What are the risk factors for arrhythmia?",
-				"acceptedAnswer": {
-					"@type": "Answer",
-					"text": "Risk factors for arrhythmia include:•
-					Age(more common as people get older)• Heart disease• High blood pressure• Diabetes• Smoking• Excessive alcohol or caffeine intake• Drug use• Family history of arrhythmia• Certain medications• Other underlying medical conditions.
-					"
-				}
-			}, {
-				"@type": "Question",
-				"name": "What tests will be done to diagnose arrhythmia?",
-				"acceptedAnswer": {
-					"@type": "Answer",
-					"text": "To diagnose arrhythmia, doctors may perform tests like:•
-					Electrocardiogram(ECG or EKG)• Holter monitor(24 - hour ECG)• Event recorder(intermittent monitoring)• Echocardiogram(ultrasound of the heart)• Stress test• Electrophysiology study(EP study)• Blood tests• Chest X - ray• Cardiac MRI or CT scan
-					These tests help identify the type and cause of arrhythmia.
-					"
+					"text": "Recovery time following CRT implantation is normally a few days to weeks. Most patients can resume normal activities within a week, but this varies depending on individual health and any problems. Following-up treatment is essential for a full recovery."
 				}
 			}]
 		}

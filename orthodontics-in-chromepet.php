@@ -548,32 +548,32 @@
 	</div>
 
 
-	<section>
+	<!-- <section>
 		<div class="mb-5">
 			<h3 class="text-center">Cases performed By DR DCR</h3>
 		</div>
-		<?php $details= $db->getRows("SELECT * FROM cases_performed WHERE type='HIS-Bundle-Pacing-Conduction-System-Pacing' ORDER BY id DESC "); ?>
+		</?php $details= $db->getRows("SELECT * FROM cases_performed WHERE type='HIS-Bundle-Pacing-Conduction-System-Pacing' ORDER BY id DESC "); ?>
 	<div class="container">
-	 <?php if (count($details)>0){
+	 </?php if (count($details)>0){
 			     foreach($details as $client_data) {
             $convertedImgPath = str_replace('../', '', $client_data['image']);
             ?>
 		<div class="row p-5 mb-5" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
 			<div class="col-md-4">
 				<div>
-				<img src="<?= $convertedImgPath ?>" style="width: 100%; height: 100%;" alt="" class="shadows-box">
+				<img src="</?= $convertedImgPath ?>" style="width: 100%; height: 100%;" alt="" class="shadows-box">
 
 				</div>
 			</div>
 			<div class="col-md-8">
-				<h4><?= ($client_data["tittle"]) ?></h4>
-				<p><?= ($client_data["content"]) ?></p>			
+				<h4></?= ($client_data["tittle"]) ?></h4>
+				<p></?= ($client_data["content"]) ?></p>			
 		</div>
 		</div>
 
-		<?php }} else{?>
+		</?php }} else{?>
 			<div><h3 class="text-center">NO Data To Show</h3></div>
-			<?php }?>
+			</?php }?>
 			<br>
 	</div>
 	</section>
@@ -610,7 +610,7 @@
 			
 		</div>
 	</div>
-</section>
+</section> -->
 
 <br><br><br>
 

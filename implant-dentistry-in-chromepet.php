@@ -3,34 +3,33 @@
 <html lang="en">
 
 <head>
-	<title>Top Cardiac Resynchronization Therapy in Chennai - DrDCR</title>
-	<meta name="description" content="Experience advanced cardiac resynchronization therapy in Chennai with DrDCR. Optimize heart function for a more vibrant life. Schedule a consultation now.">
-	<meta name="keywords" content="Cardiac Resynchronization Therapy (CRT), Heart Pacemaker, Congestive Heart Failure, Cardiology, Ventricular Dysynchrony, Left Ventricular Pacing, Dyssynchrony, Biventricular Pacing, Cardiac Resynchronization Device, Sudden Cardiac Death, Prolonged Life Expectancy, Improved Exercise Capacity">
+	<title>Implant Dentistry in Chrompet | Get Expert Care Services</title>
+	<meta name="description" content="Discover expert ICD implantation in Chennai by DrDCR. Safeguard your heart's rhythm with advanced care. Take a step towards a healthier future today.">
+	<meta name="keywords" content="ICD implantation, cardiac device, arrhythmia, pacemaker, defibrillator, heart rhythm, ventricular tachycardia, ventricular fibrillation, electrical stimulation, electrophysiology, cardiac ablation, transvenous lead, implantable cardioverter-defibrillator, cardiac resynchronization therapy">
 	
 	<!-- OGTC -->
 	<meta property="og:type" content="website">
-	<meta property="og:title" content="Top Cardiac Resynchronization Therapy in Chennai - DrDCR">
-	<meta property="og:description" content="Experience advanced cardiac resynchronization therapy in Chennai with DrDCR. Optimize heart function for a more vibrant life. Schedule a consultation now.">
-	<meta property="og:url" content="https://www.drdcr.com/cardiac-resynchronization-therapy.php">
-	<meta property="og:image" content="https://www.drdcr.com/new-images/cardiacresynchronization1.jpg">
+	<meta property="og:title" content="Mastering Heart Health | DrDCR - Top ICD Implant Doctor Chennai">
+	<meta property="og:description" content="Discover expert ICD implantation in Chennai by DrDCR. Safeguard your heart's rhythm with advanced care. Take a step towards a healthier future today.">
+	<meta property="og:url" content="https://www.drdcr.com/ICD-implantation.php">
+	<meta property="og:image" content="https://www.drdcr.com/new-images/icdimplantation2.jpg">
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
 	<meta property="og:site_name" content="DrDCR">
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Top Cardiac Resynchronization Therapy in Chennai - DrDCR">
-	<meta property="twitter:description" content="Experience advanced cardiac resynchronization therapy in Chennai with DrDCR. Optimize heart function for a more vibrant life. Schedule a consultation now.">
-	<meta property="twitter:image:src" content="https://www.drdcr.com/new-images/cardiacresynchronization1.jpg">
+	<meta name="twitter:title" content="Mastering Heart Health | DrDCR - Top ICD Implant Doctor Chennai">
+	<meta property="twitter:description" content="Discover expert ICD implantation in Chennai by DrDCR. Safeguard your heart's rhythm with advanced care. Take a step towards a healthier future today.">
+	<meta property="twitter:image:src" content="https://www.drdcr.com/new-images/icdimplantation2.jpg">
 	<meta property="twitter:image:width" content="1200">
 	<meta property="twitter:image:height" content="630">
-
-	<link rel="canonical" href="https://www.drdcr.com/cardiac-resynchronization-therapy.php">
+	
+	<link rel="canonical" href="https://www.drdcr.com/ICD-implantation.php">
 	<?php include "header.php"; ?>
 </head>
 
- 
+
 <body>
-<?php include('menu.php'); ?>
-        
+<?php include('menu.php'); ?>   
 	<div class="page-content bg-white">
 	
 		<!-- Inner Banner -->
@@ -38,12 +37,12 @@
 			<div class="page-banner" style="background-image:url(images/banner/img1.jpg);">
 				<div class="container">
 					<div class="page-banner-entry text-center">
-						<h1 class="banner-content">Cardiac Resynchronization Therapy</h1>
+						<h1>Implant Dentistry In Chrompet</h1>
 						<!-- Breadcrumb row -->
 						<nav aria-label="breadcrumb" class="breadcrumb-row">
 							<ul class="breadcrumb">
 								<li class="breadcrumb-item"><a href="index.php"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg> Home</a></li>
-								<li class="breadcrumb-item active" aria-current="page">Cardiac Resynchronization Therapy</li>
+								<li class="breadcrumb-item active" aria-current="page">Implant Dentistry</li>
 							</ul>
 						</nav>
 					</div>
@@ -64,13 +63,14 @@
 
 					<div class="col-lg-5 mb-10 text-center text-lg-left">
 						<div class="paroller">
-							<img src="new-images/cardiacresynchronization1.jpg" alt="Cardiac Resynchronization Therapy" class="shadows-box">
+							<img src="images/services/what-is-dental-implant.jpg" alt="ICD Implantation" class="shadows-box">
 						</div>
 					</div>
 					
-					<div class="col-lg-7">
+					<div class="col-lg-7 mb-10">
 						<div class="heading-bx">
-							<p class="text-justify">Cardiac resynchronization therapy (CRT) is a treatment option for people with heart failure who have an abnormal heart rhythm known as ventricular dyssynchrony. This condition occurs when the ventricles, the lower chambers of the heart, do not contract at the same time, leading to a less efficient pumping of blood throughout the body. CRT involves implanting a device called a biventricular pacemaker that paces both the left and right ventricles of the heart concurrently, thereby improving the heart's ability to pump blood throughout the body.</p>
+						    <h3 class="mb-3 pt-20" style="font-size: 26px;">What is dental Implant?</h3>
+							<p class="text-justify">Dental implants are artificial tooth roots that are used to hold a replacement tooth or bridge. They are made of titanium and other materials that are compatible with the human body. Implants provide a strong foundation for fixed (permanent) or removable replacement teeth that are made to match your natural teeth.</p>
 						</div>
 					</div>
 
@@ -78,31 +78,16 @@
 
 				<div class="row align-items-center">
 					
-					<div class="col-lg-7">
+					<div class="col-lg-7 mb-10">
 						<div class="heading-bx">
-							<p class="text-justify">CRT is typically recommended for people who have symptoms of heart failure, such as shortness of breath, fatigue, and swelling in the legs, or who have already tried optimal medical therapy for heart failure but have not experienced significant improvement in symptoms.</p>
+						    <h3 class="mb-3 pt-20" style="font-size: 26px;">Why Dental Implant?</h3>
+							<p class="text-justify">Dental implants are a great option for replacing missing teeth. Dental implants provide a strong, durable and natural-looking option for replacing missing teeth. They are surgically placed in the jawbone and act like a natural tooth root, allowing for the placement of a custom-made artificial tooth, bridge or denture. Dental implants can help restore a patient’s bite and smile, improve speech and chewing, provide support for facial muscles and help to prevent the shifting of adjacent teeth. They also eliminate the need for dentures and bridges which can be uncomfortable and inconvenient.</p>
 						</div>
 					</div>
 
 					<div class="col-lg-5 mb-10 text-center text-lg-right order-first order-lg-last">
 						<div class="paroller">
-							<img src="new-images/cardiacresynchronization2.jpg" alt="Congestive Heart Failure" class="shadows-box">
-						</div>
-					</div>
-
-				</div>
-
-				<div class="row align-items-center">
-
-					<div class="col-lg-5 mb-10 text-center text-lg-left">
-						<div class="paroller">
-							<img src="new-images/cardiacresynchronization3.jpg" alt="Ventricular Dysynchrony" class="shadows-box">
-						</div>
-					</div>
-
-					<div class="col-lg-7">
-						<div class="heading-bx">
-							<p class="text-justify">CRT implantation requires incredible technical expertise of a cardiac electrophysiologist, who has good knowledge in handling these devices. With significant experience in implanting cardiac devices, including CRT devices, Dr. DCR has specialized training in electrophysiology and is up-to-date on the latest technology and techniques related to CRT. He also proctors doctors at various centers in India to implant these devices safely and efficiently. Please refer to the videos (link) to learn more about the complex CRTs for heart failure patients implanted by Dr. DCR. Schedule an appointment with the top cardiologist in Chennai and avail his world-class expertise. </p>
+							<img src="images/services/why-dental-implant.jpg" alt="Ventricular tachycardia" class="shadows-box">
 						</div>
 					</div>
 
@@ -116,7 +101,42 @@
 			<img class="pt-img4 animate-wave" src="images/shap/square-dots-orange.png" alt="">
 			<img class="pt-img5 animate2" src="images/shap/square-blue.png" alt=""> -->
 		</section>
+
+
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<h3 class="mb-3 pt-20" style="font-size: 26px;">What is the Procedure for Dental Implant?</h3>
+					<p>The procedure for dental implants generally consists of the following steps:</p>
+					<ul class="list-check-squer mb-0">
+						<li class="qualification-font"><strong>Consultation</strong><p>During the initial consultation, the dentist will evaluate your medical and dental history, take x-rays, and discuss the best treatment plan.</p></li>
+						<li class="qualification-font"><strong>Placement</strong><p>During the placement procedure, the dentist will numb the area, make an incision in the gum, and place the implant into the jawbone.</p></li>
+						<li class="qualification-font"><strong>Healing Period</strong><p>After the implant is placed, it needs to heal and integrate with the jawbone.This can take several months.</p></li>
+						<li class="qualification-font"><strong>Restoration</strong><p>The final step involves placing a crown, bridge, or denture onto the implant.The restoration will be custom-made to match your natural teeth.</p></li>
+					</ul>
+				</div>
+			</div>
+		</div>
 		
+
+
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<h3 class="mb-3 pt-20" style="font-size: 26px;">Post Treatment Care of Dental Implant Treatment?</h3>
+					<ul class="list-check-squer mb-0">
+						<li class="qualification-font">Brush and floss your teeth twice a day as normal.</li>
+						<li class="qualification-font">Avoid chewing and biting on hard foods, like ice, nuts, or bones.</li>
+						<li class="qualification-font">Avoid using cigarettes, tobacco, and alcohol.</li>
+						<li class="qualification-font">Drink plenty of water and use a soft toothbrush.</li>
+						<li class="qualification-font">Visit your dentist regularly for check-ups and cleanings.</li>
+						<li class="qualification-font">Use an oral irrigation device, such as a Waterpik, to flush out food particles and bacteria from around the implant and surrounding gum tissue.</li>
+						<li class="qualification-font">Use an antimicrobial mouth rinse daily to reduce bacteria and plaque buildup.</li>
+						<li class="qualification-font">Wear a night guard, if prescribed, to protect your implant from night grinding.</li>
+					</ul>
+				</div>
+			</div>
+		</div>
 		<!-- About us -->
 		<!-- <section class="section-sp1 service-wraper2">
 			<div class="container">
@@ -441,48 +461,48 @@
 		
 	</div>
 
-	<section>
+
+	<!-- <section>
 		<div class="mb-5">
 			<h3 class="text-center">Cases performed By DR DCR</h3>
 		</div>
-		<?php $details= $db->getRows("SELECT * FROM cases_performed WHERE type='Cardiac-Resynchronization-Therapy' ORDER BY id DESC "); ?>
+		</?php $details= $db->getRows("SELECT * FROM cases_performed WHERE type='Defibrillators-Implantation' ORDER BY id DESC "); ?>
 	<div class="container">
-	 <?php if (count($details)>0){
+	 </?php if (count($details)>0){
 			     foreach($details as $client_data) {
             $convertedImgPath = str_replace('../', '', $client_data['image']);
             ?>
 		<div class="row p-5 mb-5" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
 			<div class="col-md-4">
 				<div>
-				<img src="<?= $convertedImgPath ?>" style="width: 100%; height: 100%;" alt="" class="shadows-box">
-
+				<img src="</?= $convertedImgPath ?>" style="width: 100%; height: 100%;" alt="" class="shadows-box">
 				</div>
 			</div>
 			<div class="col-md-8">
-				<h4><?= ($client_data["tittle"]) ?></h4>
-				<p><?= ($client_data["content"]) ?></p>			
+				<h4></?= ($client_data["tittle"]) ?></h4>
+				<p></?= ($client_data["content"]) ?></p>			
 		</div>
 		</div>
 
-		<?php }} else{?>
+		</?php }} else{?>
 			<div><h3 class="text-center">NO Data To Show</h3></div>
-			<?php }?>
+			</?php }?>
 			<br>
 	</div>
 	</section>
 	<br>
 
 
-<section>
+	<section>
 	<div class="container">
 		<div class="mb-5">
-			<h3 class="">Cardiac Resynchronization Therapy Gallery</h3>
+			<h3 class="">Defibrillators Implantation Gallery</h3>
 		</div>
 
 		<div class="row">
 				
 			<div class="col-md-6 mb-30 text-center">
-				<a href="speciality-gallery-images.php?type=Cardiac-Resynchronization-Therapy">
+				<a href="speciality-gallery-images.php?type=Defibrillators-Implantation">
 					<div>
 						<img src="new-images/dcr-images-folder.jpg" alt="">
 					</div>
@@ -492,7 +512,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 mb-30 text-center">
-				<a href="speciality-gallery-videos.php?type=Cardiac-Resynchronization-Therapy">
+				<a href="speciality-gallery-videos.php?type=Defibrillators-Implantation">
 					<div>
 						<img src="new-images/dcr-videos-folder.jpg" alt="">
 					</div>
@@ -504,12 +524,13 @@
 			
 		</div>
 	</div>
-</section>
-	<br><br><br>
+</section> -->
+
+<br><br><br>
 
 
-<section class="">
-<div class="container-fluid mt-100">
+	<section class="">
+			<div class="container-fluid mt-100">
 				<div class="contact-wraper ">
 					<div class="row">						
 						<div class="col-lg-12 mb-30 px-lg-3 px-0">
@@ -556,21 +577,21 @@
 						</div>
 					</div>
 				</div>
-		</div>		
-</section>
+			</div>
+        </section>
 
 	<script type="application/ld+json">
 		{
 		"@context": "https://schema.org/", 
 		"@type": "Product", 
-		"name": "Cardiac Resynchronization Therapy",
-		"image": "https://www.drdcr.com/new-images/cardiacresynchronization1.jpg",
-		"description": "CRT is a pacemaker therapy for treating heart failure, using 2 or more electrodes to sync heart's chambers, improving pumping efficiency & heart function",
+		"name": "ICD Implantation",
+		"image": "https://www.drdcr.com/new-images/icdimplantation1.jpg",
+		"description": "ICD implantation is a medical procedure used to treat life-threatening arrhythmias. It involves implanting a device to monitor and regulate heart rhythms.",
 		"brand": {
 			"@type": "Brand",
 			"name": "DrDCR"
 		},
-		"sku": "0005",
+		"sku": "0004",
 		"aggregateRating": {
 			"@type": "AggregateRating",
 			"ratingValue": "5",
@@ -580,69 +601,88 @@
 		}
 		}
 	</script>
-<?php include "footer.php" ?>
-<script type="application/ld+json">
+<?php include "footer.php" ; ?>	
+  <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [{
     "@type": "Question",
-    "name": "What is the difference between pacemaker and cardiac resynchronization therapy?",
+    "name": "What is the ICD Implant for?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "A pacemaker used for slow or irregular heartbeats uses electrical impulses to regulate heart rhythm. Cardiac resynchronization treatment (CRT) is a customized pacemaker for heart failure that synchronizes ventricular contractions in specific instances."
+      "text": "The term \"ICD implant\" refers to an Implantable Cardioverter-Defibrillator. It is a medical device that monitors and manages irregular cardiac rhythms, particularly life-threatening ones like ventricular tachycardia and ventricular fibrillation. An ICD implant is used for the following:
+Cardiac Arrhythmias: ICDs are generally used to treat cardiac arrhythmias and abnormal heart rhythms. When the heart's electrical system fails and dangerous rhythms such as ventricular tachycardia or ventricular fibrillation occur, the ICD can intervene.
+Defibrillation: When an ICD detects a life-threatening arrhythmia, it delivers an electric shock to the heart. This shock, called defibrillation, can restore the heart's normal rhythm and preserve a person's life.
+Pacing: Some ICDs are also capable of pacing. They can deliver electrical signals to the heart to pace it if it beats too slowly or irregularly, ensuring it maintains a correct rhythm.
+Monitoring: ICDs continuously monitor the heart's rhythm. They can save arrhythmia data and provide it to healthcare providers during follow-up visits, assisting in administering and adjusting treatment plans.
+ICDs are often suggested for people at high risk of sudden cardiac arrest or who have survived a previous cardiac arrest. They are an essential medical intervention for preventing sudden cardiac death in patients with significant heart rhythm abnormalities."
     }
   },{
     "@type": "Question",
-    "name": "What is required for cardiac resynchronization therapy?",
+    "name": "What is an ICD heart Implant?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Cardiac resynchronization therapy (CRT) involves implanting a customized pacemaker with three leads: one in the right atrium, one in the right ventricle, and one in the left ventricle to synchronize cardiac contractions, which is commonly used in heart failure cases with conduction issues."
+      "text": "An ICD (Implantable Cardioverter-Defibrillator) heart implant is a device that is implanted under the skin of the chest to monitor heart rhythms. When it detects dangerous arrhythmias such as ventricular tachycardia or fibrillation, it can provide life-saving electric shocks, helping prevent sudden cardiac arrest."
     }
   },{
     "@type": "Question",
-    "name": "Who is a candidate for CRT?",
+    "name": "What is the Cost of an ICD Implant in India?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "CRT is advised for heart failure patients who have a lower ejection fraction, particular conduction abnormalities (such as left bundle branch block), and persistent symptoms after appropriate pharmacological therapy. These individuals may benefit from CRT for increased cardiac function and symptom reduction."
+      "text": "The cost of an ICD (Implantable Cardioverter-Defibrillator) implant in India can range from 2 lakh to 5 lakh or more, depending on criteria such as device type, brand, hospital, and additional costs."
     }
   },{
     "@type": "Question",
-    "name": "How successful is CRT?",
+    "name": "How does an ICD defibrillator Work?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "CRT offers a high success rate in improving cardiac function and symptoms in qualified patients. In many circumstances, it can improve quality of life, minimize hospitalizations, and extend longevity, particularly in heart failure patients with left bundle branch block and conduction difficulties. Success varies from person to person."
+      "text": "An ICD (Implantable Cardioverter-Defibrillator) monitors the heart's electrical activity constantly. It delivers an electric shock to the heart when it identifies a potentially fatal irregular cardiac rhythm, such as ventricular tachycardia or ventricular fibrillation. This shock, termed defibrillation, is intended to reset the heart's rhythm and return it to a normal, stable pattern. This quick intervention can save lives by preventing abrupt cardiac arrest. Pacing functions are also available in some ICDs to address slow or irregular cardiac beats."
     }
   },{
     "@type": "Question",
-    "name": "What are the risks of CRT surgery?",
+    "name": "Is an ICD defibrillator a pacemaker?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Like any other medical procedure, CRT surgery has risks such as infections, bleeding, lead dislodgment, and allergic responses to device materials. There is also a slight chance of issues from anaesthesia and implantation. Patients should discuss potential risks with their healthcare professional."
+      "text": "An ICD defibrillator can include pacemaker capability, but its primary goal is to detect and treat life-threatening heart arrhythmias. In contrast, a pacemaker primarily regulates slow or irregular heart rhythms."
     }
   },{
     "@type": "Question",
-    "name": "How much does a CRT pacemaker cost in India?",
+    "name": "Is ICD the same as a pacemaker?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "The cost of a CRT pacemaker in India varies greatly based on the individual device, hospital, and any associated medical fees. It can cost anywhere between INR 2.5 lakhs and INR 6 lakhs or more, including implantation and follow-up care. Prices may vary between cities and hospitals. For specific cost estimates, patients should speak with healthcare providers or hospitals."
+      "text": "No, an ICD (Implantable Cardioverter-Defibrillator) is different from a pacemaker. While both are implantable devices, an ICD is designed to monitor and treat life-threatening cardiac arrhythmias, delivering shocks as needed. On the other hand, a pacemaker primarily assists in regulating slow or irregular heart rhythms by providing electrical impulses to pace the heart."
     }
   },{
     "@type": "Question",
-    "name": "What is the survival rate for CRT patients?",
+    "name": "What is the Success rate of ICD Implants?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Individual factors influence survival rates for CRT patients. CRT can enhance survival in heart failure, although particular rates depend on the patient's overall health and reaction to therapy."
+      "text": "The success rate of ICD (Implantable Cardioverter-Defibrillator) implants is generally high, effectively preventing sudden cardiac death and treating life-threatening arrhythmias in qualified patients. Success can vary depending on individual characteristics and the indication for implantation."
     }
   },{
     "@type": "Question",
-    "name": "How long does it take to recover from a CRT?",
+    "name": "Is ICD a Major Surgery?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Recovery time following CRT implantation is normally a few days to weeks. Most patients can resume normal activities within a week, but this varies depending on individual health and any problems. Following-up treatment is essential for a full recovery."
+      "text": "Yes, an ICD (Implantable Cardioverter-Defibrillator) implantation is considered major surgery. It entails making an incision, usually beneath the collarbone, to put the device's leads in the heart and the device itself under the skin. While it is generally safe, anesthetic and precise surgical techniques are required."
+    }
+  },{
+    "@type": "Question",
+    "name": "What happens if an ICD fails?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "If an ICD (Implantable Cardioverter-Defibrillator) fails, it may be unable to detect or treat life-threatening cardiac rhythms, putting the patient's life at risk. In the event of a device failure, prompt medical intervention and device replacement may be required."
+    }
+  },{
+    "@type": "Question",
+    "name": "How long is recovery after ICD?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Recovery from an ICD (Implantable Cardioverter-Defibrillator) implantation normally takes a few days to weeks. Most patients can resume modest activities within a week, but returning to full usual activity may take several weeks. Individual recovery timeframes may vary depending on factors such as overall health and the specifics of the surgery. Patients should follow their healthcare provider's post-operative instructions to ensure a speedy recovery."
     }
   }]
 }
 </script>
 </body>
-</html>	
+</html>

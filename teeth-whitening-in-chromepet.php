@@ -1,33 +1,34 @@
+
 <?php include('starter.php'); ?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-	<title>Expert EPS & RFA Treatment in Chennai - DrDCR</title>
-	<meta name="description" content="Discover advanced EPS & RFA treatment by DrDCR, Chennai's specialist. Elevate your well-being - schedule a consultation for personalized care today!">
-	<meta name="keywords" content="Electrophysiology Study, Radio Frequency Ablation, Cardiac Arrhythmia, Catheter Ablation, Atrial Fibrillation, Ventricular Tachycardia, Supraventricular Tachycardia, Atrioventricular Nodal Reentrant Tachycardia, Atrial Flutter, Pulmonary Vein Isolation, Maze Procedure">
+	<title>Teeth Whitening in Chrompet: Get Pearly Whites in Few Visits!</title>
+	<meta name="description" content="Experience optimal Atrial Fibrillation management with DrDCR in Chennai. Take charge of your heart health. Schedule now for expert care and guidance.">
+	<meta name="keywords" content="Atrial fibrillation management helps individuals control their symptoms and reduce the risk of stroke, using lifestyle changes, medications, and other therapies.">
 	
 	<!-- OGTC -->
 	<meta property="og:type" content="website">
-	<meta property="og:title" content="Expert EPS & RFA Treatment in Chennai - DrDCR">
-	<meta property="og:description" content="Discover advanced EPS & RFA treatment by DrDCR, Chennai's specialist. Elevate your well-being - schedule a consultation for personalized care today!">
-	<meta property="og:url" content="https://www.drdcr.com/eps-and-rfa.php">
-	<meta property="og:image" content="https://www.drdcr.com/new-images/leadlesspacemakerimplant.jpg">
+	<meta property="og:title" content="Expert Atrial Fibrillation Management in Chennai - DrDCR">
+	<meta property="og:description" content="Experience optimal Atrial Fibrillation management with DrDCR in Chennai. Take charge of your heart health. Schedule now for expert care and guidance.">
+	<meta property="og:url" content="https://www.drdcr.com/atrial-fibrillation-management.php">
+	<meta property="og:image" content="https://www.drdcr.com/new-images/3dnavigationelectrophysiologysystem.jpg">
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
 	<meta property="og:site_name" content="DrDCR">
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Expert EPS & RFA Treatment in Chennai - DrDCR">
-	<meta property="twitter:description" content="Discover advanced EPS & RFA treatment by DrDCR, Chennai's specialist. Elevate your well-being - schedule a consultation for personalized care today!">
-	<meta property="twitter:image:src" content="https://www.drdcr.com/new-images/leadlesspacemakerimplant.jpg">
+	<meta name="twitter:title" content="Expert Atrial Fibrillation Management in Chennai - DrDCR">
+	<meta property="twitter:description" content="Experience optimal Atrial Fibrillation management with DrDCR in Chennai. Take charge of your heart health. Schedule now for expert care and guidance.">
+	<meta property="twitter:image:src" content="https://www.drdcr.com/new-images/3dnavigationelectrophysiologysystem.jpg">
 	<meta property="twitter:image:width" content="1200">
 	<meta property="twitter:image:height" content="630">
 
-	<link rel="canonical" href="https://www.drdcr.com/eps-and-rfa.php">
+	<link rel="canonical" href="https://www.drdcr.com/atrial-fibrillation-management.php">
 	<?php include "header.php"; ?>
 </head>
 
-
+ 
 <body>
 <?php include('menu.php'); ?>
         
@@ -38,12 +39,12 @@
 			<div class="page-banner" style="background-image:url(images/banner/img1.jpg);">
 				<div class="container">
 					<div class="page-banner-entry text-center">
-						<h1>EPS & RFA</h1>
+						<h1>Teeth Whitening In Chrompet</h1>
 						<!-- Breadcrumb row -->
 						<nav aria-label="breadcrumb" class="breadcrumb-row">
 							<ul class="breadcrumb">
 								<li class="breadcrumb-item"><a href="index.php"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg> Home</a></li>
-								<li class="breadcrumb-item active" aria-current="page">EPS & RFA</li>
+								<li class="breadcrumb-item active" aria-current="page">Teeth Whitening</li>
 							</ul>
 						</nav>
 					</div>
@@ -64,13 +65,14 @@
 
 					<div class="col-lg-5 mb-10 text-center text-lg-left">
 						<div class="paroller">
-							<img src="new-images/leadlesspacemakerimplant.jpg" alt="Radio Frequency Ablation" class="shadows-box">
+							<img src="images/services/what-are-the-teeth-whitning.jpg" alt="Atrial Fibrillation" class="shadows-box">
 						</div>
 					</div>
 
 					<div class="col-lg-7 mb-10">
 						<div class="heading-bx">
-							<p class="text-justify">Having an irregular heartbeat can be scary, especially when you don’t know what’s wrong. Electrophysiolgy Study (EPS) is a simple diagnostic procedure to study and understand the short circuit problems within the heart. A minimally invasive procedure, Radio Frequency Ablation is a treatment option for a variety of heart conditions, including certain types of abnormal heart rhythms, such as supraventricular tachycardia - AVNRT, WPW Syndrome, AVRT, Atrial flutter, Atrial fibrillation, Premature ventricular complexes (PVC), and ventricular tachycardia (VT).</p>
+						    <h3 class="mb-3 pt-20" style="font-size: 26px;">What are Teeth Whitening?</h3>
+							<p class="text-justify">Teeth whitening is a cosmetic dental procedure that involves lightening the color of teeth by removing discoloration and staining. It can be done at home using over-the-counter products or professionally in a dental office. Professional whitening is often done with a bleaching solution and a laser or light that activates the whitening agent.</p>
 						</div>
 					</div>
 
@@ -80,15 +82,14 @@
 					
 					<div class="col-lg-7 mb-10">
 						<div class="heading-bx">
-							<p class="text-justify">The ablation procedure delivers radiofrequency energy to the abnormal tissue, destroying it and creating a scar that will prevent the abnormal electrical signals from traveling through the heart.RFA can eliminate the need for life-long medication routinely used to control abnormal heart rhythms, and has also shown to have high success rates in the long run. Antiarrhythmic medications have significant side effects involving lungs, liver and kidneys and hence must be avoided for long-term especially in young patients. Not all people with arrhythmia or abnormal heart beats will need RFA, and the decision to undergo RFA will depend on the severity of the symptoms, the frequency and duration of the abnormal heart rhythms, and other factors.
-
-							</p>
+						    <h3 class="mb-3 pt-20" style="font-size: 26px;">What is the need for Teeth Whitening?</h3>
+							<p class="text-justify">Teeth whitening is a popular cosmetic procedure that can help to improve the appearance of your teeth. It can help to remove stains and discoloration caused by aging, tobacco use, coffee, tea, and other foods and drinks. Additionally,teeth whitening can help to brighten teeth that may have become dull and yellow due to poor oral hygiene, certain medications, or genetics. A whiter, brighter smile can help to boost your self-confidence and make you feel more attractive.</p>
 						</div>
 					</div>
 
 					<div class="col-lg-5 mb-10 text-center text-lg-right order-first order-lg-last">
 						<div class="paroller">
-							<img src="new-images/leadlesspacemakerimplant-1.jpg" alt="Catheter Ablation" class="shadows-box">
+							<img src="images/services/what-is-the-need-for-teeth-whitening.jpg" alt="Catheter Ablation" class="shadows-box">
 						</div>
 					</div>
 
@@ -98,21 +99,35 @@
 
 					<div class="col-lg-5 mb-10 text-center text-lg-left">
 						<div class="paroller">
-							<img src="new-images/radiofrequencyablation.jpg" alt="Atrial Fibrillation" class="shadows-box">
+							<img src="images/services/how-does-teeth-whitening-works.jpg" alt="Atrioventricular Nodal Reentrant Tachycardia" class="shadows-box">
 						</div>
 					</div>
 					
 					<div class="col-lg-7 mb-10">
 						<div class="heading-bx">
-							<p class="text-justify">The ablation procedure delivers radiofrequency energy to the abnormal tissue, destroying it and creating a scar that will prevent the abnormal electrical signals from traveling through the heart.
-                            RFA can eliminate the need for life-long medication routinely used to control abnormal heart rhythms, and has also shown to have high success rates in the long run. Antiarrhythmic medications have significant side effects involving lungs, liver and kidneys and hence must be avoided for long-term especially in young patients. Not all people with arrhythmia or abnormal heart beats will need RFA, and the decision to undergo RFA will depend on the severity of the symptoms, the frequency and duration of the abnormal heart rhythms, and other factors.</p>
+						    <h3 class="mb-3 pt-20" style="font-size: 26px;">How does Teeth Whitening Works?</h3>
+							<p class="text-justify">Teeth whitening works by using a bleaching agent such as hydrogen peroxide or carbamide peroxide to remove stains and discoloration from the enamel and dentin of your teeth. The bleaching agent helps to break down the discoloration molecules and make them smaller, which allows them to be washed away. The whitening process can be done either professionally or at home, depending on the type of whitening you choose. Professional whitening typically involves using a stronger whitening agent and a stronger whitening light to whiten teeth. At-home whitening typically involves using a less concentrated whitening agent and an LED light.</p>
 						</div>
 					</div>
 
 				</div>
 
-			
+				<div class="row align-items-center">
+					
+					<div class="col-lg-7 mb-10">
+						<div class="heading-bx">
+						    <h3 class="mb-3 pt-20" style="font-size: 26px;">Is there a risk associated with Teeth Whitening?</h3>
+							<p class="text-justify">Yes, there is a risk associated with teeth whitening. It is possible for the whitening process to cause tooth sensitivity, gum irritation, and damage the enamel of the teeth. It is recommended to speak with a dentist before undergoing any teeth whitening procedure, to ensure that it is a safe option for you.</p>
+						</div>
+					</div>
 
+					<div class="col-lg-5 mb-10 text-center text-lg-right order-first order-lg-last">
+						<div class="paroller"> 
+							<img src="images/services/there-a-risk-associated-with-teeth-whitening.jpg" alt="Supraventricular Tachycardia" class="shadows-box">
+						</div>
+					</div>
+
+				</div>
 
 
 			</div>
@@ -123,52 +138,57 @@
 			<img class="pt-img5 animate2" src="images/shap/square-blue.png" alt=""> -->
 		</section>
 		
-		
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<h3 class="mb-3 pt-20" style="font-size: 26px;">Cost for Teeth Whitening</h3>
+					<p>The cost of teeth whitening can vary significantly depending on the type of procedure used and the dentist performing the procedure.</p>
+				</div>
+			</div>
+		</div>
 		
 	</div>
 
-	<section>
+	<!-- <section>
 		<div class="mb-5">
 			<h3 class="text-center">Cases performed By DR DCR</h3>
 		</div>
-		<?php $details= $db->getRows("SELECT * FROM cases_performed WHERE type='Electrophysiology-Study-and-Radiofrequency-Ablation' ORDER BY id DESC "); ?>
+		</?php $details= $db->getRows("SELECT * FROM cases_performed WHERE type='Atrial-Fibrillation-Management' ORDER BY id DESC "); ?>
 	<div class="container">
-	 <?php if (count($details)>0){
+	 </?php if (count($details)>0){
 			     foreach($details as $client_data) {
             $convertedImgPath = str_replace('../', '', $client_data['image']);
             ?>
 		<div class="row p-5 mb-5" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
 			<div class="col-md-4">
 				<div>
-				<img src="<?= $convertedImgPath ?>" style="width: 100%; height: 100%;" alt="" class="shadows-box">
+				<img src="</?= $convertedImgPath ?>" style="width: 100%; height: 100%;" alt="" class="shadows-box">
 
 				</div>
 			</div>
 			<div class="col-md-8">
-				<h4><?= ($client_data["tittle"]) ?></h4>
-				<p><?= ($client_data["content"]) ?></p>			
+				<h4></?= ($client_data["tittle"]) ?></h4>
+				<p></?= ($client_data["content"]) ?></p>			
 		</div>
 		</div>
 
-		<?php }} else{?>
+		</?php }} else{?>
 			<div><h3 class="text-center">NO Data To Show</h3></div>
-			<?php }?>
+			</?php }?>
 			<br>
 	</div>
 	</section>
-	<br>
 
-
-	<section>
+<section>
 	<div class="container">
 		<div class="mb-5">
-			<h3 class="">Electrophysiology Study and Radiofrequency Ablation Gallery</h3>
+			<h3 class="">Atrial Fibrillation Management Gallery</h3>
 		</div>
 
 		<div class="row">
 				
 			<div class="col-md-6 mb-30 text-center">
-				<a href="speciality-gallery-images.php?type=Electrophysiology-Study-and-Radiofrequency-Ablation">
+				<a href="speciality-gallery-images.php?type=Atrial-Fibrillation-Management">
 					<div>
 						<img src="new-images/dcr-images-folder.jpg" alt="">
 					</div>
@@ -178,7 +198,7 @@
 				</a>
 			</div>
 			<div class="col-md-6 mb-30 text-center">
-				<a href="speciality-gallery-videos.php?type=Electrophysiology-Study-and-Radiofrequency-Ablation">
+				<a href="speciality-gallery-videos.php?type=Atrial-Fibrillation-Management">
 					<div>
 						<img src="new-images/dcr-videos-folder.jpg" alt="">
 					</div>
@@ -187,10 +207,10 @@
 					</div>
 				</a>
 			</div>
-			
+
 		</div>
 	</div>
-</section>
+</section> -->
 
 <br><br><br>
 	<section class="">
@@ -244,27 +264,28 @@
 			</div>
         </section>
 
-	<script type="application/ld+json">
-		{
-		"@context": "https://schema.org/", 
-		"@type": "Product", 
-		"name": "Electrophysiolgy Study & Radio Frequency Ablation",
-		"image": "https://www.drdcr.com/new-images/leadlesspacemakerimplant.jpg",
-		"description": "Electrophysiology study & radio frequency ablation tests heart's electrical activity & nerve signals. Patented technology can help diagnose & treat arrhythmias",
-		"brand": {
-			"@type": "Brand",
-			"name": "DrDCR"
-		},
-		"sku": "0007",
-		"aggregateRating": {
-			"@type": "AggregateRating",
-			"ratingValue": "5",
-			"bestRating": "5",
-			"worstRating": "5",
-			"ratingCount": "135"
-		}
-		}
-	</script>
-<?php include "footer.php" ; ?>	
+		<script type="application/ld+json">
+			{
+			"@context": "https://schema.org/", 
+			"@type": "Product", 
+			"name": "Atrial Fibrillation Management",
+			"image": "https://www.drdcr.com/new-images/3dnavigationelectrophysiologysystem.jpg",
+			"description": "Atrial fibrillation management helps individuals control their symptoms and reduce the risk of stroke, using lifestyle changes, medications, and other therapies.",
+			"brand": {
+				"@type": "Brand",
+				"name": "DrDCR"
+			},
+			"sku": "0008",
+			"aggregateRating": {
+				"@type": "AggregateRating",
+				"ratingValue": "5",
+				"bestRating": "5",
+				"worstRating": "5",
+				"ratingCount": "135"
+			}
+			}
+		</script>
+
+	<?php include "footer.php" ; ?>	
 </body>
 </html>

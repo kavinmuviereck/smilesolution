@@ -88,16 +88,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<a href="#" class="header-text">Services<i class="fas fa-plus"></i></a>
 								<ul class="sub-menu" style="width: max-content;">
 									<li class="add-menu-left">
+										<!-- <ul style="overflow-y: auto;max-height: 300px;"> -->
 										<ul>
 											<li <?php echo($pageName=="children-dentistry-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>children-dentistry-in-chromepet.php"><span >Children Dentistry</span> </a></li>
 											<li <?php echo($pageName=="root-canal-treatment-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>root-canal-treatment-in-chromepet.php"><span>Root Canal Treatment</span> </a></li>
 											<li <?php echo($pageName=="orthodontics-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>orthodontics-in-chromepet.php"><span>Orthodontics</span> </a></li>
-											<li <?php echo($pageName=="ICD-implantation.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>ICD-implantation.php"><span>Defibrillators (ICD) Implantation</span> </a></li>
-											<li <?php echo($pageName=="cardiac-resynchronization-therapy.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>cardiac-resynchronization-therapy.php"><span class="heading-text">Cardiac Resynchronization Therapy (CRT)</span> </a></li>
-											<li <?php echo($pageName=="leadless-pacemaker-implantation.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>leadless-pacemaker-implantation.php"><span>Leadless Pacemaker Implantation</span> </a></li>
-											<li <?php echo($pageName=="eps-and-rfa.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>eps-and-rfa.php"><span>Electrophysiology Study (EPS) &  <br>
-												Radiofrequency Ablation (RFA)</span> </a></li>
-											<li <?php echo($pageName=="atrial-fibrillation-management.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>atrial-fibrillation-management.php"><span>Atrial Fibrillation Management</span> </a></li>
+											<li <?php echo($pageName=="implant-dentistry-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>implant-dentistry-in-chromepet.php"><span>Implant Dentistry</span> </a></li>
+											<li <?php echo($pageName=="brushing-techniques-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>brushing-techniques-in-chromepet.php"><span class="heading-text">Brushing techniques</span> </a></li>
+											<li <?php echo($pageName=="dental-bridges-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>dental-bridges-in-chromepet.php"><span>Dental Bridges</span> </a></li>
+											<li <?php echo($pageName=="dentures-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>dentures-in-chromepet.php"><span>Dentures</span> </a></li>
+											<li <?php echo($pageName=="teeth-whitening-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>teeth-whitening-in-chromepet.php"><span>Teeth Whitening</span> </a></li>
 											<li <?php echo($pageName=="ventricular-tachycardia-treatment.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>ventricular-tachycardia-treatment.php"><span>Ventricular Tachycardia Treatment</span> </a></li>
 											<li <?php echo($pageName=="sudden-cardiac-arrest.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>sudden-cardiac-arrest.php"><span>Sudden Cardiac Arrest</span> </a></li>
 										</ul>

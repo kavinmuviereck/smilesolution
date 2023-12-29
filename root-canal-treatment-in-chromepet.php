@@ -933,7 +933,7 @@
 
 
 
-	<section>
+	<!-- <section>
 
 		<div class="mb-5">
 
@@ -941,11 +941,11 @@
 
 		</div>
 
-		<?php $details = $db->getRows("SELECT * FROM cases_performed WHERE type='Pacemaker-Implantation' ORDER BY id DESC "); ?>
+		</?php $details = $db->getRows("SELECT * FROM cases_performed WHERE type='Pacemaker-Implantation' ORDER BY id DESC "); ?>
 
 		<div class="container">
 
-			<?php if (count($details) > 0) {
+			</?php if (count($details) > 0) {
 
 				foreach ($details as $client_data) {
 
@@ -959,7 +959,7 @@
 
 							<div>
 
-								<img src="<?= $convertedImgPath ?>" style="width: 100%; height: 100%;" alt="" class="shadows-box">
+								<img src="</?= $convertedImgPath ?>" style="width: 100%; height: 100%;" alt="" class="shadows-box">
 
 
 
@@ -969,9 +969,9 @@
 
 						<div class="col-md-8">
 
-							<h4><?= ($client_data["tittle"]) ?></h4>
+							<h4></?= ($client_data["tittle"]) ?></h4>
 
-							<p><?= ($client_data["content"]) ?></p>
+							<p></?= ($client_data["content"]) ?></p>
 
 						</div>
 
@@ -979,14 +979,14 @@
 
 
 
-				<?php }
+				</?php }
 			} else { ?>
 
 				<div>
 					<h3 class="text-center">NO Data To Show</h3>
 				</div>
 
-			<?php } ?>
+			</?php } ?>
 
 			<br>
 
@@ -1058,7 +1058,7 @@
 
 		</div>
 
-	</section>
+	</section> -->
 
 
 
