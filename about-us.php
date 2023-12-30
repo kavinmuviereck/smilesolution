@@ -26,7 +26,7 @@
 	<meta name="twitter:image:alt" content="Smile Solutions - Best Dental Clinic in Chrompet">
 	<meta name="twitter:creator" content="@smilesolutions">
 
-	<link rel="canonical" href="https://www.drdcr.com/about-us.php">
+	<link rel="canonical" href="https://www.smilesolutions.com/about-us.php">
 	<?php include "header.php"; ?>
 </head>
 
@@ -1078,8 +1078,8 @@
 			"@context": "https://schema.org/",
 			"@type": "Person",
 			"name": "Dr. Deep Chandh Raja (DCR)",
-			"url": "https://www.drdcr.com/about-us.php",
-			"image": "https://www.drdcr.com/images/about/2aboutus2.png",
+			"url": "https://www.smilesolutions.com/about-us.php",
+			"image": "https://www.smilesolutions.com/images/about/2aboutus2.png",
 			"sameAs": [
 				"https://www.facebook.com/profile.php?id=100089147133660&mibextid=ZbWKwL",
 				"https://twitter.com/Dr_DCR_EP",

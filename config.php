@@ -84,8 +84,7 @@ define("PATH_ROOT", dirname(__FILE__));
 define("PATH_LIB", PATH_ROOT . DS . "library" . DS);
 
 
-
-// define("URL_ROOT", "https://www.drdcr.com/");
+// define("URL_ROOT", "https://smilesolutions.muviereck.com/");
 define("URL_ROOT", "http://localhost/smilesolution/");
 
 
@@ -146,7 +145,7 @@ $inputvalidation = new Validation();
 
 
 
-// $db=new MySqlDb("localhost","drdcrco_doctor","vQ9V7enL9ua2","drdcrco_dcr");
+// $db=new MySqlDb("localhost","muviere_smilead","5QjdQYxj7p26","muviere_smile");
 $db=new MySqlDb("localhost","root","","new_solution");
 
 

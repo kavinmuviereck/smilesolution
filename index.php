@@ -26,8 +26,183 @@
 	<meta name="twitter:image:alt" content="Smile Solutions - Best Dental Clinic in Chrompet">
 	<meta name="twitter:creator" content="@smilesolutions">
 
-	<link rel="canonical" href="https://www.drdcr.com/">
+	<link rel="canonical" href="https://www.smilesolutions.com/">
 	<?php include "header.php"; ?>
+	<style>
+		.slide-img {
+			height: 80%;
+			width: 100%;
+			position: absolute;
+		}
+
+		.container1 {
+			height: 350px;
+			width: 300px;
+			position: relative;
+			overflow: hidden;
+		}
+
+		@media screen and (max-width: 370px) {
+			.slide-img {
+				height: 75% !important;
+			}
+
+			.container1 {
+				height: 300px !important;
+			}
+		}
+
+		.sub-menu li a:hover {
+			color: #fff !important;
+		}
+
+		#my-img {
+			clip-path: polygon(0 0, 50% 0, 50% 100%, 0 100%);
+		}
+
+		#my-img1 {
+			clip-path: polygon(0 0, 50% 0, 50% 100%, 0 100%);
+		}
+
+		#my-img2 {
+			clip-path: polygon(0 0, 50% 0, 50% 100%, 0 100%);
+		}
+
+		#slider {
+			/* //margin-top:28px; */
+			position: relative;
+			height: 80%;
+			margin-left: -20px;
+			-webkit-appearance: none;
+			width: calc(100% + 40px);
+			background-color: transparent;
+			outline: none;
+		}
+
+		#slider::-webkit-slider-thumb {
+			-webkit-appearance: none;
+			height: 50px;
+			width: 50px;
+			content: "more";
+			/* //background: url(/new-images/arrow.png), rgba(225, 225, 225, 0.3); */
+			border: 3px solid #ffffff;
+			border-radius: 50%;
+			background-size: contain;
+			cursor: pointer;
+		}
+
+		#slider1 {
+			/* margin-top:28px; */
+			position: relative;
+			height: 80%;
+			margin-left: -20px;
+			-webkit-appearance: none;
+			width: calc(100% + 40px);
+			background-color: transparent;
+			outline: none;
+		}
+
+		#slider1::-webkit-slider-thumb {
+			-webkit-appearance: none;
+			height: 50px;
+			width: 50px;
+			/*background: url(/new-images/arrow.png), rgba(225, 225, 225, 0.3); */
+			border: 3px solid #ffffff;
+			border-radius: 50%;
+			background-size: contain;
+			cursor: pointer;
+		}
+
+		#slider2 {
+			/* //margin-top:28px; */
+			position: relative;
+			height: 80%;
+			margin-left: -20px;
+			-webkit-appearance: none;
+			width: calc(100% + 40px);
+			background-color: transparent;
+			outline: none;
+		}
+
+		#slider2::-webkit-slider-thumb {
+			-webkit-appearance: none;
+			height: 50px;
+			width: 50px;
+			/* //background: url(/new-images/arrow.png), rgba(225, 225, 225, 0.3); */
+			border: 3px solid #ffffff;
+			border-radius: 50%;
+			background-size: contain;
+			cursor: pointer;
+		}
+
+		.h3-head {
+			color: black !important;
+		}
+
+		.treatment-single {
+			border-radius: 15px;
+		}
+
+		/* second animation */
+
+		.free-mini-website-row .free-mini-website-image1,
+		.free-mini-website-row .free-mini-website-image3 {
+			width: 100%;
+			margin-top: -30px;
+			border-radius: 15px;
+		}
+
+		.free-mini-website-row .free-mini-website-image2,
+		.free-mini-website-row .free-mini-website-image4 {
+			width: 100%;
+			margin-top: 30px;
+			border-radius: 15px;
+		}
+
+
+		@media screen and (max-width: 575.95px) {
+			.free-mini-website-row .free-mini-website-image1 {
+				width: 100%;
+				margin-top: 0px;
+				border-radius: 15px;
+			}
+
+			.free-mini-website-row .free-mini-website-image2 {
+				width: 100%;
+				margin-top: -10px;
+				border-radius: 15px;
+			}
+
+			.free-mini-website-row .free-mini-website-image3 {
+				width: 100%;
+				margin-top: 0px;
+				border-radius: 15px;
+			}
+
+			.free-mini-website-row .free-mini-website-image4 {
+				width: 100%;
+				margin-top: 37%;
+				border-radius: 15px;
+			}
+		}
+
+		/* Add this style to your CSS file or within a <style> tag in your HTML */
+		@keyframes fadeIn {
+			from {
+				opacity: 0;
+				transform: translateY(-20px);
+			}
+
+			to {
+				opacity: 1;
+				transform: translateY(0);
+			}
+		}
+
+		.img-animation {
+			animation: fadeIn 1s ease-in-out;
+		}
+	</style>
 </head>
 
 
@@ -110,18 +285,18 @@
 					<div class="row main-row-padding">
 						<div class="col-lg-5">
 							<div class="">
-								<img width="770" height="770" src="images/index/smile-hospital.jpg" class="attachment-thsn-img-770x770 size-thsn-img-770x770 wp-post-image" alt="Dr Deep Chand Raja" srcset="images/index/smile-hospital.jpg?resize=150%2C150&amp;ssl=1 150w, images/index/smile-hospital.jpg?resize=770%2C770&amp;ssl=1 770w, images/index/smile-hospital.jpg?resize=300%2C300&amp;ssl=1 300w, images/index/smile-hospital.jpg?zoom=2&amp;resize=770%2C770&amp;ssl=1 1540w" sizes="(max-width: 770px) 100vw, 770px">
+								<img width="770" height="770" src="images/index/smile-hospital.jpg" class="attachment-thsn-img-770x770 size-thsn-img-770x770 wp-post-image img-animation" alt="Dr Deep Chand Raja" srcset="images/index/smile-hospital.jpg?resize=150%2C150&amp;ssl=1 150w, images/index/smile-hospital.jpg?resize=770%2C770&amp;ssl=1 770w, images/index/smile-hospital.jpg?resize=300%2C300&amp;ssl=1 300w, images/index/smile-hospital.jpg?zoom=2&amp;resize=770%2C770&amp;ssl=1 1540w" sizes="(max-width: 770px) 100vw, 770px">
 							</div>
 						</div>
 						<div class="col-lg-7 ">
 							<div class="">
-								<h3 class="mb-3" style="font-size: 26px;">Smile Solutions</h3>
+								<h3 class="mb-3" style="font-size: 26px;">Best Dental Clinic in Chrompet Chennai</h3>
 								<h6 class="">Smile Solutions Family Dentistry </h6>
 							</div>
 							<div class=" text-justify">
 								<p>Smile Solutions Family Dentistry, a renowned dental clinic in Chrompet Chennai, provides exceptional and comprehensive dental care.Our highly skilled and experienced dentists are committed to ensuring your comfort and satisfaction.</p>
 								<ul>
-									<li><a href="tel:9043632236" class="text-dark">Phone:  8637632673</a></li>
+									<li><a href="tel:9043632236" class="text-dark">Phone: 8637632673</a></li>
 									<li><a href="mailto:deepchandh@gmail.com" class="text-dark">Email: smilesolutions18@gmail.com</a></li>
 								</ul>
 								<a href="about-us.php" class="btn common-btn shadow">Read More</a>
@@ -146,13 +321,42 @@
 				</div>
 
 				<div class="col-xl-5 col-lg-4 col-md-12   mb-15  text-center order-first order-lg-last">
-					<img src="images/index/smile-dental.jpg" alt="DrDCR – Best Cardiologist in Chennai" class="shadows-box">
+					<img src="images/index/smile-dental.jpg" alt="DrDCR – Best Cardiologist in Chennai" class="shadows-box img-animation ">
 				</div>
 			</div>
 
-<!-- <img class="pt-img1 animate-rotate" src="images/shap/line-circle-blue.png" alt="">
+			<!-- <img class="pt-img1 animate-rotate" src="images/shap/line-circle-blue.png" alt="">
 	 <img class="pt-img3 animate-wave" src="images/shap/wave-blue.png" alt="">
 	 <img class="pt-img4 animate1" src="images/shap/square-rotate.png" alt=""> -->
+		</section>
+
+
+
+		<section class="row section-style-one" id="features">
+			<div class="container">
+				<div class="row section-header wow fadeInUp" style="margin-bottom: 0px;">
+					<h2 style="font-family: 'Link Sans', 'Arial Black', Arial, sans-serif;">Best Dental Clinic in Chrompet Chennai</h2>
+					<p>
+						Welcome to Smile Solutions Family Dentistry, your go-to destination for top-notch dental care. Our clinic in Chrompet, Chennai, offers a wide range of dental services, from basic diagnosis to full mouth rehabilitation and dental implants. We take pride in our expert and dedicated team of dentists who work together to deliver high-quality treatment with a friendly approach. Whether you're from India or visiting from abroad, we are committed to providing personalized and exceptional dental care. Step into our clinic and experience a comfortable and serene environment with the latest technology. Your smile is our priority</p>
+				</div>
+				<div class="row free-mini-website-row" style="display: flex; margin: 70px 0px;">
+					<div class="col-6 col-sm-3 wow fadeInUp" style="padding: 0px 10px;">
+						<img src="images/index/sm1.jpg" class="paroller free-mini-website-image1" alt="Business Info" title="">
+					</div>
+					<div class="col-6 col-sm-3 wow fadeInDown" style="padding: 0px 10px;">
+						<img src="images/index/sm2.jpg" class="paroller-2 free-mini-website-image2" alt="Badges Info" title="">
+					</div>
+					<div class="col-6 col-sm-3 wow fadeInUp" style="padding: 0px 10px;">
+						<img src="images/index/sm5.jpg" class="paroller free-mini-website-image3" alt="Tags Info" title="">
+					</div>
+					<div class="col-6 col-sm-3 wow fadeInDown" style="padding: 0px 10px;">
+						<img src="images/index/sm4.jpg" class="paroller-2 free-mini-website-image4" alt="Payment Info" title="">
+					</div>
+				</div>
+			</div>
+			<!-- <div class="text-center w-100">
+				<a href="/about-us" class="btn create-btn2">About Us</a>
+			</div> -->
 		</section>
 
 		<div class="container mt-5">
@@ -223,7 +427,7 @@
 						<p>Dental crowns, also known as dental caps, are dental restorations that cover the whole visible area of a tooth. They are custom-made prosthetic devices to restore the shape, size, strength, and appearance of damaged or weakened teeth.</p>
 					</div>
 
-					
+
 					<div class="skillbar-box mb-0">
 						<h6 class="title mb-3">Preventive Dentistry</h6>
 						<div class="skillbar appear" data-percent="100%">
@@ -233,7 +437,7 @@
 						<p>Preventive dentistry is maintaining good oral health and preventing dental issues before they begin or worsen. It entails a combination of at-home oral hygiene practices and professional dental care to maintain teeth and gums healthy.</p>
 					</div>
 
-					
+
 					<div class="skillbar-box mb-0">
 						<h6 class="title mb-3">Restorative Dentistry</h6>
 						<div class="skillbar appear" data-percent="100%">
@@ -248,21 +452,94 @@
 				<div class="col-md-4 mb-30" v-align: top;>
 					<h5>More Services</h5>
 					<ul class="list-check-squer mb-0">
-						<li>Dentures (Dentures are removable dental prostheses used to replace lost teeth and adjacent tissues. They are made to look like natural teeth and support the lips and cheeks, improving facial beauty and restoring dental function.)</li>
-						<li>Teeth Whitening (Teeth whitening is a cosmetic dental technique that lightens the colour of teeth while also removing stains or discolouration. It is a common treatment option for people who want a brighter, more appealing smile.)</li>
-						<li>Smile Makeover (A smile makeover is a comprehensive and customized dental treatment or series of treatments plan designed to enhance the appearance and functionality of a person's smile.)</li>
-						<li>Sedation Dentistry (Sedation dentistry is a practice that involves using medication to help patients relax during dental operations. It is often known as "sleep dentistry"; however, patients are normally awake during the treatment unless general anaesthesia is utilized.)</li>
-						<li>Oral Maxillofacial (Oral and maxillofacial surgery is a branch of dentistry that focuses on diagnosing and treating diseases involving the oral cavity (mouth) and the maxillofacial area (face, jaw, and associated structures).)</li>
-						<li>Dental Veneers (Dental veneers, also known as porcelain veneers or dental porcelain laminates, are thin, custom-made shells made of tooth-colored materials, such as porcelain or composite resin.)</li>
+						<li>Dentures (Dentures are removable replacements for missing teeth and surrounding tissues. They resemble natural teeth, enhance facial appearance, and restore dental function.)</li>
+						<li>Teeth Whitening (Teeth whitening is a cosmetic dental procedure that lightens the color of teeth, removing stains and discoloration for a brighter, more attractive smile.)</li>
+						<li>Smile Makeover (A smile makeover is a personalized dental treatment aimed at improving both the look and function of a person's smile.)</li>
+						<li>Sedation Dentistry (Sedation dentistry uses medication to help patients relax during dental procedures. It's often known as "sleep dentistry," but patients are generally awake unless general anesthesia is applied.)</li>
+						<li>Oral Maxillofacial (Oral and maxillofacial surgery is a dental specialty that focuses on diagnosing and treating diseases in the mouth, face, jaw, and related structures.)</li>
+						<li>Dental Veneers (Dental veneers, also called porcelain veneers, are thin custom shells crafted from tooth-colored materials like porcelain or composite resin.)</li>
 					</ul>
 				</div>
 			</div>
 		</div>
 
+		<section class="py-5">
+
+			<div class="container" data-aos="fade-up">
+				<h2 class="text-center mb-4 service-head" style="font-weight:900 !important;">5 Star Patient Reviews</h2>
+				<p>In healthcare, 5-star patient reviews are a valuable form of feedback and endorsement. They serve as testimonials that can help prospective patients make informed decisions about where to seek medical treatment or care. These reviews often highlight exceptional medical expertise, compassionate care, prompt service, and positive outcomes.</p>
+				<div class="row position-relative aos-init aos-animate d-flex justify-content-center">
+
+					<div class="col-lg-4 col-md-6 pb-4">
+						<div class="d-flex justify-content-center pt-3 px-3" style="">
+							<div class="container1">
+								<img class="slide-img" id="" src="images/index/sm3.jpg" alt="">
+								<h3 class="text-center mt-3" style="font-size: 20px;"><a class="h3-head" href="<?= $base_url ?>root-canal-treatment-in-chromepet">Root Canal</a></h3>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 pb-4">
+						<div class="d-flex justify-content-center pt-3 px-3" style="">
+							<div class="container1">
+								<img class="slide-img" id="" src="images/index/sm4.jpg" alt="">
+								<h3 class="text-center mt-3" style="font-size: 20px;"><a class="h3-head" href="<?= $base_url ?>root-canal-treatment-in-chromepet">Root Canal</a></h3>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 pb-4">
+						<div class="d-flex justify-content-center pt-3 px-3" style="">
+							<div class="container1">
+								<img class="slide-img" id="" src="images/index/sm1.jpg" alt="">
+								<h3 class="text-center mt-3" style="font-size: 20px;"><a class="h3-head" href="<?= $base_url ?>root-canal-treatment-in-chromepet">Root Canal</a></h3>
+							</div>
+						</div>
+					</div>
+
+					<!-- 	<div class="col-lg-4 col-md-6 pb-4">
+						<div class="d-flex justify-content-center pt-3 px-3" style="border: 1px solid #1fa151; border-radius: 20px;">
+							<div class="container1">
+								<img class="slide-img" src="images/index/root-canal-before.jpg" alt="">
+								<img class="slide-img" id="my-img" src="images/index/root-canal-after.jpg" alt="">
+								<i class="fa fa-sort" aria-hidden="true" style="position: absolute;top: 37%;color: white;font-size: 25px;left: 47.5%; transform: rotate(90deg);" id="silde_text"></i>
+
+								<input type="range" min="0" max="100" value="50" id="slider" oninput="slide()">
+								<h3 class="text-center mt-3" style="font-size: 20px;"><a class="h3-head" href="<?= $base_url ?>root-canal-treatment-in-chromepet">Root Canal</a></h3>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6 pb-4">
+						<div class="d-flex justify-content-center pt-3 px-3" style="border: 1px solid #1fa151; border-radius: 20px;">
+							<div class="container1">
+								<img class="slide-img" src="images/index/teeth-whitening-before.jpg" alt="">
+								<img class="slide-img" id="my-img1" src="images/index/teeth-whitening-after.jpg" alt="">
+								<i class="fa fa-sort" aria-hidden="true" style="position: absolute;top: 37%;color: white;font-size: 25px;left: 47.5%; transform: rotate(90deg);" id="silde_text1"></i>
+								<input type="range" min="0" max="100" value="50" id="slider1" oninput="slide1()">
+								<h3 class="text-center mt-3" style="font-size: 20px;"><a class="h3-head" href="<?= $base_url ?>teeth-whitening-in-chromepet">Teeth Whitening</a></h3>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6 pb-4">
+						<div class="d-flex justify-content-center pt-3 px-3" style="border: 1px solid #1fa151; border-radius: 20px;">
+							<div class="container1 ">
+								<img class="slide-img" src="images/index/dental-implant-before.jpg" alt="">
+								<img class="slide-img" id="my-img2" src="images/index/dental-implant-after.jpg" alt="">
+								<i class="fa fa-sort" aria-hidden="true" style="position: absolute;top: 37%;color: white;font-size: 25px;left: 47.5%; transform: rotate(90deg);" id="silde_text2"></i>
+								<input type="range" min="0" max="100" value="50" id="slider2" oninput="slide2()">
+								<h3 class="text-center mt-3" style="font-size: 20px;"><a class="h3-head" href="<?= $base_url ?>implant-dentistry-in-chromepet">Dental Implants</a></h3>
+							</div>
+						</div>
+					</div>  -->
+
+				</div>
+			</div>
+		</section>
+
 		<div class="container">
 			<div class="row">
 				<div class="col-12">
-					<h2 style="font-size: 40px;" class="mt-5">Visiting Hospital with affiliations</h2>
+					<h2 style="font-size: 40px;" class="">Visiting Hospital with affiliations</h2>
 					<ul class="list-check-squer mb-0">
 						<li class="qualification-font"> Dr. M. Srikanth is a Dentist, Prosthodontist, and Cosmetic/Aesthetic Dentist in Chrompet,Chennai and has an experience of 23 years in these fields.</li>
 						<li class="qualification-font">Dr. Poornima Srikanth is a Cosmetic/Aesthetic Dentist,Dental Surgeon and Oral Pathologist in Chrompet, Chennai and has an experience of 18 years in these fields.</li>
@@ -642,10 +919,10 @@
 			"@context": "https://schema.org/",
 			"@type": "WebSite",
 			"name": "DrDCR",
-			"url": "https://www.drdcr.com/",
+			"url": "https://www.smilesolutions.com/",
 			"potentialAction": {
 				"@type": "SearchAction",
-				"target": "https://www.drdcr.com/{search_term_string}",
+				"target": "https://www.smilesolutions.com/{search_term_string}",
 				"query-input": "required name=search_term_string"
 			}
 		}
@@ -715,7 +992,57 @@
 			}]
 		}
 	</script>
+	<script>
+		// slide();
+		// slide1();
+		// slide2();
 
+		function slide() {
+			let slideValue = document.getElementById("slider").value;
+			document.getElementById("my-img").style.clipPath = "polygon(0 0," + slideValue + "% 0," + slideValue + "% 100%, 0 100%)";
+			document.getElementById("silde_text").style.left = (slideValue - 6) + "%";
+			// console.log("polygon(0 0," + slideValue + "% 0," + slideValue + "% 100%, 0 100%)");
+			// slideValue1=parseInt(slideValue)+0.2;
+			// document.getElementById("outside_my-img").style.clipPath = "polygon(0 0," + slideValue1 + "% 0," + slideValue1 + "% 100%, 0 100%)";
+		}
+
+		function slide1() {
+			let slideValue = document.getElementById("slider1").value;
+			document.getElementById("my-img1").style.clipPath = "polygon(0 0," + slideValue + "% 0," + slideValue + "% 100%, 0 100%)";
+			document.getElementById("silde_text1").style.left = (slideValue - 6) + "%";
+			// console.log("polygon(0 0," + slideValue + "% 0," + slideValue + "% 100%, 0 100%)");
+			// slideValue2=parseInt(slideValue)+0.2;
+			// document.getElementById("outside_my-img1").style.clipPath = "polygon(0 0," + slideValue2 + "% 0," + slideValue2 + "% 100%, 0 100%)";
+		}
+
+		function slide2() {
+			let slideValue = document.getElementById("slider2").value;
+			document.getElementById("my-img2").style.clipPath = "polygon(0 0," + slideValue + "% 0," + slideValue + "% 100%, 0 100%)";
+			document.getElementById("silde_text2").style.left = (slideValue - 6) + "%";
+			// console.log("polygon(0 0," + slideValue + "% 0," + slideValue + "% 100%, 0 100%)");
+			// slideValue3=parseInt(slideValue)+0.2;
+			// document.getElementById("outside_my-img2").style.clipPath = "polygon(0 0," + slideValue3 + "% 0," + slideValue3 + "% 100%, 0 100%)";
+		}
+
+
+		if ($('.paroller').length) {
+			$('.paroller').paroller({
+				factor: 0.1, // multiplier for scrolling speed and offset, +- values for direction control  
+				factorLg: 0.1, // multiplier for scrolling speed and offset if window width is less than 1200px, +- values for direction control  
+				type: 'foreground', // background, foreground  
+				direction: 'vertical' // vertical, horizontal  
+			});
+		}
+
+		if ($('.paroller-2').length) {
+			$('.paroller-2').paroller({
+				factor: -0.1, // multiplier for scrolling speed and offset, +- values for direction control  
+				factorLg: -0.1, // multiplier for scrolling speed and offset if window width is less than 1200px, +- values for direction control  
+				type: 'foreground', // background, foreground  
+				direction: 'vertical' // vertical, horizontal  
+			});
+		}
+	</script>
 </body>
 
 </html>

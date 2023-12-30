@@ -13,7 +13,7 @@ RewriteRule .* https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 ReWritecond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php\ HTTP/
 
-ReWriterule ^index\.php$ https://www.drdcr.com/$1 [r=301,nc]
+ReWriterule ^index\.php$ https://www.smilesolutions.muviereck.com/$1 [r=301,nc]
 
 #RewriteRule   ^pricing/([A-Za-z0-9-]+)?$  pricing.php?package=$1   [NC,L]
 

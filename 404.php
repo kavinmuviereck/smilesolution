@@ -11,7 +11,7 @@
         <div style="    display: flex;
     justify-content: center;">
           
-        <a href="https://www.drdcr.com" style="background-color: #4CAF50;
+        <a href="https://www.smilesolutions.com" style="background-color: #4CAF50;
     border-radius: 10px;
     display: block;
     padding: 15px 20px;

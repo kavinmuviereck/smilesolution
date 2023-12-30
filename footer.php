@@ -235,7 +235,6 @@
 <!-- Footer END ==== -->
 <!-- <button class="back-to-top fa fa-chevron-up"></button> -->
 <!-- </div> -->
-
 <!-- for whatsapp inegration -->
 
 <div>
@@ -243,7 +242,6 @@
     <i class="fa fa-whatsapp"></i>
     </a>
 </div>
-
 
 <!-- JAVASCRIPT FILES ========================================= -->
 <script src="<?= $base_url ?>js/jquery.min.js"></script>
@@ -267,10 +265,6 @@
 <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
 
-
-
- 
-
   <!--====== Javascripts & Jquery ======-->
 
   <script src="<?= $base_url ?>js/jquery-3.2.1.min.js"></script>
@@ -282,6 +276,7 @@
   <script src="<?= $base_url ?>js/circle-progress.min.js"></script>
 
   <script src="<?= $base_url ?>js/main.js"></script>
+  <script src="<?= $base_url ?>js/aos.js%2bnavbar.js%2bcounter.js%2bcustom.js.pagespeed.jc.CxAnoGTbEE.js"></script><script>eval(mod_pagespeed_i7bt4CtYGG);</script>
 
   
 
@@ -322,16 +317,6 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.0/jquery-confirm.min.css">
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.0/jquery-confirm.min.js"></script>
-
-  
-
-
-
-
-
-
-
-
 
   <!-- js -->
 

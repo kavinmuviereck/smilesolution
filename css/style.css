@@ -13251,8 +13251,8 @@
  
  .list-check-squer li {
    display: block;
-   color: #05933f;
-   font-size: 20px;
+   color: #000;
+   font-size: 14px;
    font-family: 'Roboto Condensed';
    font-weight: 500;
    position: relative;
@@ -14010,7 +14010,8 @@
      vertical-align: middle; }
    .menu-logo img {
      height: auto;
-     width: 100%; }
+     width: 75%; 
+    }
    .menu-logo span {
      font-size: 20px;
      letter-spacing: 20px; }

@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: /admin
-Sitemap: https://www.drdcr.com/sitemap.xml
-Sitemap: https://www.drdcr.com/images-sitemap.xml
+Sitemap: https://www.smilesolutions.com/sitemap.xml
+Sitemap: https://www.smilesolutions.com/images-sitemap.xml
