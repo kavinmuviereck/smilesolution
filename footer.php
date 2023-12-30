@@ -84,18 +84,18 @@
 			<div class="row mt-5">
 				<div class="col-xl-3 col-lg-3 col-md-6">
 					<div class="widget widget_info">
-						<div style="margin-top: -38px;">
-						<a href="<?= $base_url ?>index.php"><img src="<?= $base_url ?>new-images/dcr-drlogo.png" alt="Dr DCR Logo"></a>
+						<div >
+						<a href="<?= $base_url ?>index.php"><img src="<?= $base_url ?>images/header_img/smile-solutions.png" alt="Smile Solutions Logo"></a>
 						</div>
-						<div class="ft-contact" style="margin-top: -31px;">
-							<p><b>Dr. Deep Chandh Raja (DCR)</b> has 15+ years of experience in the field of Cardiology. Dr.&nbsp;DCR is an expert in Cardiac Electrophysiology and device (pacemaker, ICD, CRT) implants with advanced training from Australia.</p>
+						<div class="ft-contact">
+							<p><b>Dr. M. Srikanth</b> is a Dentist, Prosthodontist, and Cosmetic/Aesthetic Dentist in Chrompet,Chennai and has an experience of 23 years in these fields.</p>
 							
 							<div class="contact-bx">
 								<div class="icon"><i class="fas fa-phone-alt"></i></div>
 								<div class="contact-number">
 									<span>Contact Us</span>
-                                    <a href="tel:9043632236"><h4 class="number">9043632236</h4></a>
-									<a href="tel:8608601590"><h4 class="number">8608601590</h4></a>
+                                    <a href="tel:8637632673"><h4 class="number">8637632673</h4></a>
+									<a href="tel:8637632673"><h4 class="number">8637632673</h4></a>
 
 									<!-- <h4 class="number">+01 123 456 7890</h4>
 									<h4 class="number">+01 123 456 7890</h4> -->
@@ -107,7 +107,7 @@
 				
 				<div class="col-xl-3 col-lg-3 col-12">
 					<div class="widget footer_widget">
-						<h3 class="footer-title">Specialities of Dr. DCR </h3>
+						<h3 class="footer-title">Specialities of Dr. M. Srikanth </h3>
 						<ul>
                             <li ><a href="<?= $base_url ?>cardiac-arrhythmia.php"><span>Cardiac Arrhythmias</span> </a></li>
 						    <li><a href="<?= $base_url ?>pacemaker-implantation.php"><span>Pacemaker Implantation</span> </a></li>
@@ -128,7 +128,7 @@
 						<h3 class="footer-title">Quick Links</h3>
 						<ul>
 							<li><a href="<?= $base_url ?>index.php"><span>Home</span></a></li>
-							<li><a href="<?= $base_url ?>about-us.php"><span>About Dr. DCR</span></a></li>
+							<li><a href="<?= $base_url ?>about-us.php"><span>About Us</span></a></li>
 							<!-- <li><a href="<?//= $base_url ?>services.php"><span>Services</span></a></li> -->
                             <li><a href="<?= $base_url ?>press-releases.php"><span>Press Releases</span></a></li>
                             <li><a href="<?= $base_url ?>testimonial.php"><span>Testimonials</span></a></li>
