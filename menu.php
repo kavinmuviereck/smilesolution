@@ -1,6 +1,5 @@
 <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KMWDKRR"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
 <!-- End Google Tag Manager (noscript) -->
 
 <?php $pageName = basename($_SERVER['PHP_SELF']); ?>
@@ -22,7 +21,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="container-fluid clearfix">
 					<!-- website logo -->
 					<div class="menu-logo logo-dark">
-						<a href="<?= $base_url ?>index.php"><img src="<?= $base_url ?>images/header_img/smile-solutions.png" alt="DrDCR Logo"></a>
+						<a href="<?= $base_url ?>index.php"><img src="<?= $base_url ?>images/header_img/smile-solutions.png" alt="Smilesolution Logo"></a>
 					</div>
 					<!-- nav toggle button -->
 					<button class="navbar-toggler collapsed menuicon justify-content-end" type="button" data-bs-toggle="collapse" data-bs-target="#menuDropdown" aria-controls="menuDropdown" aria-expanded="false" aria-label="Toggle navigation" onclick="mobileMenu()">
@@ -49,7 +48,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="menu-links navbar-collapse collapse justify-content-end " id="menuDropdown">
 					
 						<div class="menu-logo">
-							<a href="<?= $base_url ?>index.php"><img src="<?= $base_url ?>new-images/dcrlogo.png" alt="DrDCR Logo"></a>
+							<a href="<?= $base_url ?>index.php"><img src="<?= $base_url ?>images/header_img/smile-solutions.png" alt="Smilesolution Logo"></a>
 						</div>
 						<ul class="nav navbar-nav">	
 

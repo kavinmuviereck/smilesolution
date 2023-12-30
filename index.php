@@ -187,20 +187,88 @@
 		}
 
 		/* Add this style to your CSS file or within a <style> tag in your HTML */
-		@keyframes fadeIn {
+		@keyframes zoomIn {
 			from {
-				opacity: 0;
-				transform: translateY(-20px);
+				transform: scale(0);
 			}
 
 			to {
-				opacity: 1;
-				transform: translateY(0);
+				transform: scale(1);
 			}
 		}
 
 		.img-animation {
-			animation: fadeIn 1s ease-in-out;
+			animation: zoomIn 1s ease-in-out;
+		}
+
+		.parallax0 {
+			/* The image used */
+			background-image: url("images/index/pa6.jpg");
+
+			/* Set a specific height */
+			min-height: 400px;
+
+			/* Create the parallax scrolling effect */
+			background-attachment: fixed;
+			background-position: center;
+			background-repeat: no-repeat;
+			/* background-size: cover; */
+		}
+
+		.parallax1 {
+			/* The image used */
+			background-image: url("images/index/pa7.png");
+
+			/* Set a specific height */
+			min-height: 400px;
+
+			/* Create the parallax scrolling effect */
+			background-attachment: fixed;
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+
+		.parallax2 {
+			/* The image used */
+			background-image: url("images/index/pa4.jpeg");
+
+			/* Set a specific height */
+			min-height: 400px;
+
+			/* Create the parallax scrolling effect */
+			background-attachment: fixed;
+			background-position: center;
+			background-repeat: no-repeat;
+			/* background-size: cover; */
+		}
+
+		.parallax3 {
+			/* The image used */
+			background-image: url("images/index/pa2.jpeg");
+
+			/* Set a specific height */
+			min-height: 400px;
+
+			/* Create the parallax scrolling effect */
+			background-attachment: fixed;
+			background-position: center;
+			background-repeat: no-repeat;
+			/* background-size: cover; */
+		}
+
+		.parallax4 {
+			/* The image used */
+			background-image: url("images/index/pa5.jpg");
+
+			/* Set a specific height */
+			min-height: 400px;
+
+			/* Create the parallax scrolling effect */
+			background-attachment: fixed;
+			background-position: center;
+			background-repeat: no-repeat;
+			/* background-size: cover; */
 		}
 	</style>
 </head>
@@ -227,7 +295,7 @@
 			<!-- The slideshow -->
 			<div class="carousel-inner">
 				<div class="carousel-item active">
-					<div class="container inner-content">
+					<div class="container-fluid inner-content">
 						<div class="row align-items-center">
 							<div class="col-lg-7 col-md-6 col-sm-7">
 								<!-- <h6 class="title-ext text-primary">We Provide All Health Care Solution</h6> -->
@@ -236,7 +304,7 @@
 							</div>
 							<div class="col-lg-5 col-md-6 col-sm-5">
 								<div class="banner-img">
-									<img src="images/index/Srikanth.jpg" alt="DrDCR – Best Heart Rhythm Specialist in Chennai">
+									<img src="images/index/Srikanth1.png" alt="DrDCR – Best Heart Rhythm Specialist in Chennai">
 								</div>
 							</div>
 						</div>
@@ -244,7 +312,7 @@
 					<!-- <img src="new-images/dban.jpg" alt="Los Angeles" style="width: 100%; height: 500px;"> -->
 				</div>
 				<div class="carousel-item">
-					<div class="container inner-content">
+					<div class="container-fluid inner-content">
 						<div class="row align-items-center">
 							<div class="col-lg-7 col-md-6 col-sm-7">
 								<!-- <h6 class="title-ext text-primary">We Provide All Health Care Solution</h6> -->
@@ -253,13 +321,14 @@
 							</div>
 							<div class="col-lg-5 col-md-6 col-sm-5">
 								<div class="banner-img">
-									<img src="images/index/poornima.jpg" alt="DrDCR – Best Cardiac Electrophysiologist in Chennai">
+									<img src="images/index/poornima1.png" alt="DrDCR – Best Cardiac Electrophysiologist in Chennai">
 								</div>
 							</div>
 						</div>
 					</div>
 					<!-- <img src="new-images/dban.jpg" alt="Chicago" style="width: 100%; height: 500px;"> -->
 				</div>
+
 			</div>
 
 			<!-- Left and right controls -->
@@ -278,14 +347,14 @@
 
 
 
-	<div class="container">
-		<div class="row ">
+	<div class="container-fluid">
+		<div class=" ">
 			<div class="col-md-12">
 				<div class="thsn-team-details-wrap">
 					<div class="row main-row-padding">
 						<div class="col-lg-5">
 							<div class="">
-								<img width="770" height="770" src="images/index/smile-hospital.jpg" class="attachment-thsn-img-770x770 size-thsn-img-770x770 wp-post-image img-animation" alt="Dr Deep Chand Raja" srcset="images/index/smile-hospital.jpg?resize=150%2C150&amp;ssl=1 150w, images/index/smile-hospital.jpg?resize=770%2C770&amp;ssl=1 770w, images/index/smile-hospital.jpg?resize=300%2C300&amp;ssl=1 300w, images/index/smile-hospital.jpg?zoom=2&amp;resize=770%2C770&amp;ssl=1 1540w" sizes="(max-width: 770px) 100vw, 770px">
+								<img width="770" height="770" src="images/index/sm1.jpg" class="attachment-thsn-img-770x770 size-thsn-img-770x770 wp-post-image img-animation" alt="Dr Deep Chand Raja" srcset="images/index/sm1.jpg?resize=150%2C150&amp;ssl=1 150w, images/index/sm1.jpg?resize=770%2C770&amp;ssl=1 770w, images/index/sm1.jpg?resize=300%2C300&amp;ssl=1 300w, images/index/sm1.jpg?zoom=2&amp;resize=770%2C770&amp;ssl=1 1540w" sizes="(max-width: 770px) 100vw, 770px">
 							</div>
 						</div>
 						<div class="col-lg-7 ">
@@ -307,9 +376,9 @@
 			</div><!-- .row -->
 		</div>
 
-
+		<div class="parallax1"></div>
 		<!-- service -->
-		<section class="section-area section-sp1 service-wraper service-wraper-index">
+		<section class="section-area section-sp1 service-wraper service-wraper-index" style="background-color: #f1f1f1;">
 			<div class="row align-items-center">
 				<div class="col-xl-7 col-lg-7 mb-30">
 					<div class="heading-bx">
@@ -320,8 +389,8 @@
 					<a href="services.php" class="btn btn-secondary btn-lg shadow">Dentistry Services</a>
 				</div>
 
-				<div class="col-xl-5 col-lg-4 col-md-12   mb-15  text-center order-first order-lg-last">
-					<img src="images/index/smile-dental.jpg" alt="DrDCR – Best Cardiologist in Chennai" class="shadows-box img-animation ">
+				<div class="col-xl-5 col-lg-4 col-md-12   mb-15  text-center order-first order-lg-last paroller">
+					<img src="images/index/sm3.jpg" alt="DrDCR – Best Cardiologist in Chennai" class="shadows-box img-animation ">
 				</div>
 			</div>
 
@@ -331,12 +400,12 @@
 		</section>
 
 
-
-		<section class="row section-style-one" id="features">
-			<div class="container">
+		<!-- <div class="parallax1"></div> -->
+		<section class=" section-style-one p-4" id="features" style="background-color: #fff;">
+			<div class="">
 				<div class="row section-header wow fadeInUp" style="margin-bottom: 0px;">
-					<h2 style="font-family: 'Link Sans', 'Arial Black', Arial, sans-serif;">Best Dental Clinic in Chrompet Chennai</h2>
-					<p>
+					<h3 style="font-family: 'Link Sans', 'Arial Black', Arial, sans-serif;">Best Dental Clinic in Chrompet Chennai</h3>
+					<p class="">
 						Welcome to Smile Solutions Family Dentistry, your go-to destination for top-notch dental care. Our clinic in Chrompet, Chennai, offers a wide range of dental services, from basic diagnosis to full mouth rehabilitation and dental implants. We take pride in our expert and dedicated team of dentists who work together to deliver high-quality treatment with a friendly approach. Whether you're from India or visiting from abroad, we are committed to providing personalized and exceptional dental care. Step into our clinic and experience a comfortable and serene environment with the latest technology. Your smile is our priority</p>
 				</div>
 				<div class="row free-mini-website-row" style="display: flex; margin: 70px 0px;">
@@ -358,8 +427,8 @@
 				<a href="/about-us" class="btn create-btn2">About Us</a>
 			</div> -->
 		</section>
-
-		<div class="container mt-5">
+		<!-- <div class="parallax2"></div>  -->
+		<div class="container-fluidmt-5 p-4" style="background-color: #f1f1f1;">
 			<h3>Services</h3>
 			<h6 class="mt-5">CHILDREN DENTISTRY IN CHROMPET</h6>
 			<div class="row">
@@ -462,11 +531,11 @@
 				</div>
 			</div>
 		</div>
+		<!-- <div class="parallax3"></div> -->
+		<section class="py-5" style="background-color: #fff;">
 
-		<section class="py-5">
-
-			<div class="container" data-aos="fade-up">
-				<h2 class="text-center mb-4 service-head" style="font-weight:900 !important;">5 Star Patient Reviews</h2>
+			<div class="container-fluid" data-aos="fade-up">
+				<h3 class="text-center mb-4 service-head" style="font-weight:900 !important;">5 Star Patient Reviews</h3>
 				<p>In healthcare, 5-star patient reviews are a valuable form of feedback and endorsement. They serve as testimonials that can help prospective patients make informed decisions about where to seek medical treatment or care. These reviews often highlight exceptional medical expertise, compassionate care, prompt service, and positive outcomes.</p>
 				<div class="row position-relative aos-init aos-animate d-flex justify-content-center">
 
@@ -535,11 +604,11 @@
 				</div>
 			</div>
 		</section>
-
-		<div class="container">
+		<!-- <div class="parallax4"></div> -->
+		<div class="container-fluid p-4" style="background-color: #f1f1f1;">
 			<div class="row">
 				<div class="col-12">
-					<h2 style="font-size: 40px;" class="">Visiting Hospital with affiliations</h2>
+					<h3 class="">Visiting Hospital with affiliations</h3>
 					<ul class="list-check-squer mb-0">
 						<li class="qualification-font"> Dr. M. Srikanth is a Dentist, Prosthodontist, and Cosmetic/Aesthetic Dentist in Chrompet,Chennai and has an experience of 23 years in these fields.</li>
 						<li class="qualification-font">Dr. Poornima Srikanth is a Cosmetic/Aesthetic Dentist,Dental Surgeon and Oral Pathologist in Chrompet, Chennai and has an experience of 18 years in these fields.</li>
@@ -591,7 +660,7 @@
 					</div>
 					<div class="row">
 						<div class="col-lg-6 col-sm-6 mb-30 mb-sm-20">
-							<div class="feature-container feature-bx1 feature1">
+							<div class="feature-container-fluidfeature-bx1 feature1">
 								<div class="icon-md">
 									<span class="icon-cell">
 										<svg enable-background="new 0 0 512 512" height="85" viewBox="0 0 512 512" width="85" xmlns="http://www.w3.org/2000/svg">
@@ -609,7 +678,7 @@
 							</div>
 						</div>
 						<div class="col-lg-6 col-sm-6 mb-30 mb-sm-20">
-							<div class="feature-container feature-bx1 feature2">
+							<div class="feature-container-fluidfeature-bx1 feature2">
 								<div class="icon-md">
 									<span class="icon-cell">
 										<svg enable-background="new 0 0 512 512" height="85" viewBox="0 0 512 512" width="85" xmlns="http://www.w3.org/2000/svg">
@@ -625,7 +694,7 @@
 							</div>
 						</div>
 						<div class="col-lg-6 col-sm-6 mb-30 mb-sm-20">
-							<div class="feature-container feature-bx1 feature3">
+							<div class="feature-container-fluidfeature-bx1 feature3">
 								<div class="icon-md">
 									<span class="icon-cell">
 										<svg enable-background="new 0 0 512 512" height="85" viewBox="0 0 512 512" width="85" xmlns="http://www.w3.org/2000/svg">
@@ -641,7 +710,7 @@
 							</div>
 						</div>
 						<div class="col-lg-6 col-sm-6 mb-30 mb-sm-20">
-							<div class="feature-container feature-bx1 feature4">
+							<div class="feature-container-fluidfeature-bx1 feature4">
 								<div class="icon-md">
 									<span class="icon-cell">
 										<svg enable-background="new 0 0 512 512" height="85" viewBox="0 0 512 512" width="85" xmlns="http://www.w3.org/2000/svg">
