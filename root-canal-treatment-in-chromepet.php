@@ -220,7 +220,7 @@
 
 		</section>
 
-		
+
 		<div class="container">
 			<div class="accordion" id="accordionPanelsStayOpenExamplrootone">
 
@@ -228,7 +228,7 @@
 				<div class="accordion-item">
 					<h2 class="accordion-header" id="panelsStayOpen-headingrootone">
 						<button class="accordion-button collapsed card-color text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapserootone" aria-expanded="false" aria-controls="panelsStayOpen-collapserootone">
-						ComPediatric Dental Procedures
+							ComPediatric Dental Procedures
 						</button>
 					</h2>
 					<div id="panelsStayOpen-collapserootone" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingone">
@@ -253,20 +253,20 @@
 
 					<h2 class="accordion-header" id="panelsStayOpen-headingroottwo">
 						<button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseroottwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseroottwo">
-						Post-Treatment Care for Root Canal Treatment
+							Post-Treatment Care for Root Canal Treatment
 
 						</button>
 					</h2>
 					<div id="panelsStayOpen-collapseroottwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
 						<div class="accordion-body">
 							<ul class=" mb-0">
-							    <li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>After root canal treatment, it is important to maintain good oral hygiene.This includes brushing twice daily and flossing at least once a day</li>
-							    <li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>To help protect the tooth, it is important to wear a night guard or bite guard to prevent grinding or clenching.</li>
-							    <li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>Avoid chewing on hard foods and objects such as ice or hard candy.</li>
-							    <li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>Avoid smoking and drinking alcohol, as this may slow down the healing process.</li>
-							    <li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>It is important to visit your dentist for regular checkups and cleanings.</li>
-							    <li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>If you experience any pain or discomfort after the procedure, contact your dentist immediately.</li>
-								
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>After root canal treatment, it is important to maintain good oral hygiene.This includes brushing twice daily and flossing at least once a day</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>To help protect the tooth, it is important to wear a night guard or bite guard to prevent grinding or clenching.</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>Avoid chewing on hard foods and objects such as ice or hard candy.</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>Avoid smoking and drinking alcohol, as this may slow down the healing process.</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>It is important to visit your dentist for regular checkups and cleanings.</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>If you experience any pain or discomfort after the procedure, contact your dentist immediately.</li>
+
 							</ul>
 						</div>
 					</div>
@@ -275,13 +275,13 @@
 		</div>
 
 		<div class="container">
-		<div class="row">
-			<div class="col-12">
-			    <h3 class="mb-3 pt-20" style="font-size: 26px;">Price of Root Canal Treatment in Chrompet, Chennai</h3>
-				<p>The cost of root canal treatment in Chrompet, Chennai can vary depending on the type of treatment needed.</p>
+			<div class="row">
+				<div class="col-12">
+					<h3 class="mb-3 pt-20" style="font-size: 26px;">Price of Root Canal Treatment in Chrompet, Chennai</h3>
+					<p>The cost of root canal treatment in Chrompet, Chennai can vary depending on the type of treatment needed.</p>
+				</div>
 			</div>
 		</div>
-	</div>
 
 		<!-- About us -->
 

@@ -316,3 +316,10 @@ width: 100%;
 }
   
 
+.scrool::-webkit-scrollbar{
+  width: 10px;
+}
+
+.scrool::-webkit-scrollbar-thumb{
+  background-color: #05933F;
+}

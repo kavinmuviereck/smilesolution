@@ -63,16 +63,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										<ul>
 											
 											<li <?php //echo($pageName=="team.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>team.php"><span>Our Team</span></a></li>
-											<li <?php// echo($pageName=="faq.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>faq.php"><span>FAQ's</span></a></li>
+											<li </?php// echo($pageName=="faq.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>faq.php"><span>FAQ's</span></a></li>
 											<li <?php //echo($pageName=="booking.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>booking.php"><span>Booking</span></a></li>
-											<li <?php// echo($pageName=="error-404.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>error-404.php"><span>Error 404</span></a></li>
+											<li </?php// echo($pageName=="error-404.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>error-404.php"><span>Error 404</span></a></li>
 											<li <?php //echo($pageName=="login.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>login.php"><span>Login / Register</span></a></li>
 										</ul>
 									</li>
 								</ul>
 							</li> -->
 
-							<!-- <li <?php// echo($pageName=="services.php")?" class='active'" :""; ?>>
+							<!-- <li </?php// echo($pageName=="services.php")?" class='active'" :""; ?>>
 								<a href="<?//= $base_url ?>services.php">Services</a>
 								<ul class="sub-menu">
 									<li class="add-menu-left">
@@ -88,8 +88,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<a href="#" class="header-text">Services<i class="fas fa-plus"></i></a>
 								<ul class="sub-menu" style="width: max-content;">
 									<li class="add-menu-left">
-										<!-- <ul style="overflow-y: auto;max-height: 300px;"> -->
-										<ul>
+										<ul class="scrool" style="overflow-y: auto;max-height: 300px;">
+										<!-- <ul> -->
 											<li <?php echo($pageName=="children-dentistry-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>children-dentistry-in-chromepet.php"><span >Children Dentistry</span> </a></li>
 											<li <?php echo($pageName=="root-canal-treatment-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>root-canal-treatment-in-chromepet.php"><span>Root Canal Treatment</span> </a></li>
 											<li <?php echo($pageName=="orthodontics-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>orthodontics-in-chromepet.php"><span>Orthodontics</span> </a></li>
@@ -98,8 +98,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											<li <?php echo($pageName=="dental-bridges-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>dental-bridges-in-chromepet.php"><span>Dental Bridges</span> </a></li>
 											<li <?php echo($pageName=="dentures-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>dentures-in-chromepet.php"><span>Dentures</span> </a></li>
 											<li <?php echo($pageName=="teeth-whitening-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>teeth-whitening-in-chromepet.php"><span>Teeth Whitening</span> </a></li>
-											<li <?php echo($pageName=="ventricular-tachycardia-treatment.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>ventricular-tachycardia-treatment.php"><span>Ventricular Tachycardia Treatment</span> </a></li>
-											<li <?php echo($pageName=="sudden-cardiac-arrest.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>sudden-cardiac-arrest.php"><span>Sudden Cardiac Arrest</span> </a></li>
+											<li <?php echo($pageName=="smile-makeover-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>smile-makeover-in-chromepet.php"><span>Smile Makeover</span> </a></li>
+											<li <?php echo($pageName=="sedation-dentistry-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>sedation-dentistry-in-chromepet.php"><span>Sedation Dentistry</span> </a></li>
+											<li <?php echo($pageName=="oral-maxillofacial-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>oral-maxillofacial-in-chromepet.php"><span>Oral Maxillofacial</span> </a></li>
+											<li <?php echo($pageName=="dental-veneers-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>dental-veneers-in-chromepet.php"><span>Dental Veneers</span> </a></li>
+											<li <?php echo($pageName=="dental-crowns-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>dental-crowns-in-chromepet.php"><span>Dental Crowns</span> </a></li>
+											<li <?php echo($pageName=="preventive-dentistry-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>preventive-dentistry-in-chromepet.php"><span>Preventive Dentistry</span> </a></li>
+											<li <?php echo($pageName=="sedation-dentistry-in-chromepet.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>sedation-dentistry-in-chromepet.php"><span>Sudden Cardiac Arrest</span> </a></li>
 										</ul>
 									</li>
 								</ul>
