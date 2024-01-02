@@ -4,26 +4,46 @@
 
 <head>
 	<title>Dental Bridges Treatment in Chrompet | Get the Perfect Smile!</title>
-	<meta name="description" content="Experience cutting-edge care from DrDCR, your Leadless Pacemaker Specialist in Chennai. Take a step towards healthier heart. Schedule your consultation today!">
-	<meta name="keywords" content="Leadless pacemaker implantation, miniaturized pacemaker, cardiac device, cardiac arrhythmia, permanent pacemaker, transcatheter implantation, heart failure, atrial fibrillation, ventricular tachycardia, cardiac resynchronization therapy, single-chamber pacemaker, MRI-compatible pacemaker">
+	<meta name="description" content="Dental bridges are a permanent solution to replace missing teeth. We offer customized bridges to help restore your smile and give you back your confidence.">
+	<meta name="keywords" content="Dental bridge in Chrompet, false tooth treatment in Chrompet, bridge replacement in Chrompet, bridge restoration in Chrompet, replacement tooth in Chrompet, dental treatment in Chrompet, dental implant in Chrompet, false tooth replacement in Chrompet, tooth replacement in Chrompet">
 
 	<!-- OGTC -->
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="Leadless Pacemaker Specialist in Chennai - DrDCR">
-	<meta property="og:description" content="Experience cutting-edge care from DrDCR, your Leadless Pacemaker Specialist in Chennai. Take a step towards healthier heart. Schedule your consultation today!">
-	<meta property="og:url" content="https://www.drdcr.com/leadless-pacemaker-implantation.php">
-	<meta property="og:image" content="https://www.drdcr.com/new-images/electrophysiologystudies.jpg">
+	<meta name="author" content="Muviereck">
+	<meta property="og:title" content="Dental Bridges: Get a Strong, Natural-Looking Smile!">
+	<meta property="og:description" content="Dental bridges fill gaps from missing teeth, restoring your smile and bite">
+	<meta property="og:url" content="https://smilesolutions.muviereck.com/dental-bridges-in-chromepet">
+	<meta property="og:site_name" content="Smile Solutions Family Dentistry">
+	<meta property="og:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
-	<meta property="og:site_name" content="DrDCR">
+	<meta property="og:locale" content="en_IN">
+	<meta property="og:type" content="website">
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Leadless Pacemaker Specialist in Chennai - DrDCR">
-	<meta property="twitter:description" content="Experience cutting-edge care from DrDCR, your Leadless Pacemaker Specialist in Chennai. Take a step towards healthier heart. Schedule your consultation today!">
-	<meta property="twitter:image:src" content="https://www.drdcr.com/new-images/electrophysiologystudies.jpg">
-	<meta property="twitter:image:width" content="1200">
-	<meta property="twitter:image:height" content="630">
+	<meta name="twitter:title" content="Dental Bridges: Get a Strong, Natural-Looking Smile!">
+	<meta name="twitter:description" content="Dental bridges fill gaps from missing teeth, restoring your smile and bite">
+	<meta name="twitter:site" content="@Smilesolutions">
+	<meta name="twitter:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
+	<meta name="twitter:image:alt" content="Dental Bridges in Chrompet">
+	<meta name="twitter:creator" content="@smilesolutions">
 
-	<link rel="canonical" href="https://www.drdcr.com/leadless-pacemaker-implantation.php">
+	<link rel="canonical" href="https://smilesolutions.muviereck.com/dental-bridges-in-chromepet" />
+	<script>
+		(function(w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-N2ZQPNL');
+	</script>
+
 	<?php include "header.php"; ?>
 </head>
 
@@ -73,7 +93,7 @@
 
 					<div class="col-lg-7 mb-10">
 						<div class="heading-bx">
-						    <h3 class="mb-3 pt-20" style="font-size: 26px;">What are Dental Bridges?</h3>
+							<h3 class="mb-3 pt-20" style="font-size: 26px;">What are Dental Bridges?</h3>
 							<p class="text-justify">Dental bridges are artificial teeth that are used to fill in the gaps left by missing teeth. The bridge is made up of two crowns that go over the existing teeth, and one or more false teeth in between them. The false teeth are held in place by the crowns, which are attached to the existing teeth with a special cement. Bridges can be made from a variety of materials, including gold,porcelain, and alloys.</p>
 						</div>
 					</div>
@@ -84,7 +104,7 @@
 
 					<div class="col-lg-7 mb-10">
 						<div class="heading-bx">
-						    <h3 class="mb-3 pt-20" style="font-size: 26px;">When Dental Bridges needed?</h3>
+							<h3 class="mb-3 pt-20" style="font-size: 26px;">When Dental Bridges needed?</h3>
 							<p class="text-justify">Dental bridges are typically recommended when there are one or more missing teeth and the remaining teeth are strong and healthy. Bridges are used to fill in the gaps and help restore the patient's bite, smile, and speech. Bridges can also help maintain the shape of the face and the proper alignment of the teeth.</p>
 						</div>
 					</div>
@@ -107,7 +127,7 @@
 
 					<div class="col-lg-7 mb-10">
 						<div class="heading-bx">
-						    <h3 class="mb-3 pt-20" style="font-size: 26px;">What type of material is used for dental bridges?</h3>
+							<h3 class="mb-3 pt-20" style="font-size: 26px;">What type of material is used for dental bridges?</h3>
 							<p class="text-justify">Dental bridges typically consist of two or more crowns for the teeth on either side of the gap, with a false tooth or teeth in between. The false tooth or teeth are known as pontics, and can be made from a variety of materials such as porcelain, gold, alloys, or a combination of these materials.</p>
 						</div>
 					</div>
@@ -117,7 +137,7 @@
 
 					<div class="col-lg-7 mb-10">
 						<div class="heading-bx">
-						    <h3 class="mb-3 pt-20" style="font-size: 26px;">What type of care is required after the bridge is fitted?</h3>
+							<h3 class="mb-3 pt-20" style="font-size: 26px;">What type of care is required after the bridge is fitted?</h3>
 							<p class="text-justify">After a bridge is fitted, it is important to practice good oral hygiene habits,such as brushing twice a day, flossing regularly, and visiting your dentist every six months for check-ups and cleanings. You should also avoid eating foods that are too hard, sticky, or crunchy, as these could damage the bridge or cause discomfort.</p>
 						</div>
 					</div>
@@ -140,7 +160,7 @@
 
 					<div class="col-lg-7 mb-10">
 						<div class="heading-bx">
-						    <h3 class="mb-3 pt-20" style="font-size: 26px;">Dental Bridges Cost in Chrompet Chennai</h3>
+							<h3 class="mb-3 pt-20" style="font-size: 26px;">Dental Bridges Cost in Chrompet Chennai</h3>
 							<p class="text-justify">The cost of dental bridges in Chrompet, Chennai can vary depending on the type of bridge and the complexity of the procedure. It is important to note that the cost of the procedure can also vary depending on the materials used for the bridge and the expertise of the dentist performing the procedure.</p>
 						</div>
 					</div>
@@ -161,15 +181,23 @@
 				<div class="col-12">
 					<h3 class="mb-3 pt-20" style="font-size: 26px;">What are the types of dental bridges used?</h3>
 					<ul class="list-check-squer mb-0">
-						<li class="qualification-font"><strong>Traditional Bridges</strong><p>Traditional bridges are the most common type of dental bridge. They consist of one or more pontics (artificial teeth) held in place by two abutment teeth with crowns.</p></li>
-						<li class="qualification-font"><strong>Cantilever Bridges</strong><p>Cantilever bridges are similar to traditional bridges, but only one abutment tooth is used to hold the pontic in place.</p></li>
-						<li class="qualification-font"><strong>Maryland Bridges</strong><p>Maryland bridges are also similar to traditional bridges, but instead of using crowns to hold the pontic in place, metal or porcelain wings are bonded to the abutment teeth.</p></li>
-						<li class="qualification-font"><strong>Implant-Supported Bridges</strong><p>Implant-supported bridges are supported by dental implants rather than natural teeth. This type of bridge is more secure and longer-lasting than other types of bridges.</p></li>
+						<li class="qualification-font"><strong>Traditional Bridges</strong>
+							<p>Traditional bridges are the most common type of dental bridge. They consist of one or more pontics (artificial teeth) held in place by two abutment teeth with crowns.</p>
+						</li>
+						<li class="qualification-font"><strong>Cantilever Bridges</strong>
+							<p>Cantilever bridges are similar to traditional bridges, but only one abutment tooth is used to hold the pontic in place.</p>
+						</li>
+						<li class="qualification-font"><strong>Maryland Bridges</strong>
+							<p>Maryland bridges are also similar to traditional bridges, but instead of using crowns to hold the pontic in place, metal or porcelain wings are bonded to the abutment teeth.</p>
+						</li>
+						<li class="qualification-font"><strong>Implant-Supported Bridges</strong>
+							<p>Implant-supported bridges are supported by dental implants rather than natural teeth. This type of bridge is more secure and longer-lasting than other types of bridges.</p>
+						</li>
 					</ul>
 				</div>
 			</div>
 		</div>
-		
+
 
 
 		<div class="container">
@@ -311,7 +339,7 @@
 		</div>
 	</section>
 
-	<script type="application/ld+json">
+	<!-- <script type="application/ld+json">
 		{
 			"@context": "https://schema.org/",
 			"@type": "Product",
@@ -331,9 +359,9 @@
 				"ratingCount": "135"
 			}
 		}
-	</script>
+	</script> -->
 	<?php include "footer.php"; ?>
-	<script type="application/ld+json">
+	<!-- <script type="application/ld+json">
 		{
 			"@context": "https://schema.org",
 			"@type": "FAQPage",
@@ -416,7 +444,7 @@
 				}
 			}]
 		}
-	</script>
+	</script> -->
 </body>
 
 </html>

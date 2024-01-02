@@ -4,26 +4,48 @@
 
 <head>
 	<title>Dentures in Chrompet | Get Quality Dental Care Services</title>
-	<meta name="description" content="Discover advanced EPS & RFA treatment by DrDCR, Chennai's specialist. Elevate your well-being - schedule a consultation for personalized care today!">
-	<meta name="keywords" content="Electrophysiology Study, Radio Frequency Ablation, Cardiac Arrhythmia, Catheter Ablation, Atrial Fibrillation, Ventricular Tachycardia, Supraventricular Tachycardia, Atrioventricular Nodal Reentrant Tachycardia, Atrial Flutter, Pulmonary Vein Isolation, Maze Procedure">
+	<meta name="description" content="Get quality dentures from our experienced dentists. Our clinic in Chrompet offers personalized treatments to help you get a perfect fitting denture." />
+	<meta name="keywords" content="Dentures in Chrompet, Teeth Replacement in Chrompet, Removable Teeth Prosthesis in Chrompet, Artificial Teeth in Chrompet, Acrylic Teeth in Chrompet, Denture Adhesives in Chrompet, Denture Cleaners in Chrompet, Dental Care in Chrompet" />
 
 	<!-- OGTC -->
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="Expert EPS & RFA Treatment in Chennai - DrDCR">
-	<meta property="og:description" content="Discover advanced EPS & RFA treatment by DrDCR, Chennai's specialist. Elevate your well-being - schedule a consultation for personalized care today!">
-	<meta property="og:url" content="https://www.drdcr.com/eps-and-rfa.php">
-	<meta property="og:image" content="https://www.drdcr.com/new-images/leadlesspacemakerimplant.jpg">
+	<meta name="author" content="Muviereck" />
+	<meta property="og:title" content="Look & Feel Great with New Custom-Fit Dentures!">
+	<meta property="og:description" content="Custom-made dentures: perfect fit, natural look and long-lasting comfort">
+	<meta property="og:url" content="https://smilesolutions.muviereck.com/dentures-in-chromepet">
+	<meta property="og:site_name" content="Smile Solutions Family Dentistry">
+	<meta property="og:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
-	<meta property="og:site_name" content="DrDCR">
+	<meta property="og:locale" content="en_IN">
+	<meta property="og:type" content="website">
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Expert EPS & RFA Treatment in Chennai - DrDCR">
-	<meta property="twitter:description" content="Discover advanced EPS & RFA treatment by DrDCR, Chennai's specialist. Elevate your well-being - schedule a consultation for personalized care today!">
-	<meta property="twitter:image:src" content="https://www.drdcr.com/new-images/leadlesspacemakerimplant.jpg">
-	<meta property="twitter:image:width" content="1200">
-	<meta property="twitter:image:height" content="630">
+	<meta name="twitter:title" content="Look & Feel Great with New Custom-Fit Dentures!">
+	<meta name="twitter:description" content="Custom-made dentures: perfect fit, natural look and long-lasting comfort">
+	<meta name="twitter:site" content="@Smilesolutions">
+	<meta name="twitter:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
+	<meta name="twitter:image:alt" content="Dentures in Chrompet">
+	<meta name="twitter:creator" content="@smilesolutions">
 
-	<link rel="canonical" href="https://www.drdcr.com/eps-and-rfa.php">
+
+	<link rel="canonical" href="https://smilesolutions.muviereck.com/dentures-in-chromepet" />
+
+	<script>
+		(function(w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-N2ZQPNL');
+	</script>
+
 	<?php include "header.php"; ?>
 </head>
 
@@ -360,7 +382,7 @@
 		</div>
 	</section>
 
-	<script type="application/ld+json">
+	<!-- <script type="application/ld+json">
 		{
 			"@context": "https://schema.org/",
 			"@type": "Product",
@@ -380,7 +402,7 @@
 				"ratingCount": "135"
 			}
 		}
-	</script>
+	</script> -->
 	<?php include "footer.php"; ?>
 </body>
 

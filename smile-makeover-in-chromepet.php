@@ -4,26 +4,46 @@
 
 <head>
 	<title>Smile Makeover - Transform Your Smile with Our Proven Process</title>
-	<meta name="description" content="Discover Chennai's Leading Ventricular Tachycardia Treatment at DrDCR. Our cutting-edge solutions can bring relief. Take action for a healthier heart today!">
-	<meta name="keywords" content="Ventricular Tachycardia Treatment, Catheter Ablation, Cardiac Ablation, Radiofrequency Ablation, Antiarrhythmic Medication, Cardioversion, ICD Therapy, Cardiac Resynchronization Therapy, Coronary Artery Bypass Grafting, Surgical Ablation, Left Ventricular Assist Device, Defibrillator Implantation">
+	<meta name="description" content="Get the smile you deserve! Transform your smile with the help of our experienced dentists and make your dream smile real. Enjoy a confident and beautiful you!" />
+	<meta name="keywords" content="Smile Makeover in Chrompet, Cosmetic Dentistry in Chrompet, Teeth Whitening in Chrompet, Dental Veneers in Chrompet, Dental Implants in Chrompet, Crowns Treatment in Chrompet, Orthodontics in Chrompet, Smile Design in Chrompet, Dental Bonding in Chrompet, Smile Transformation Treatment in Chrompet" />
 
 	<!-- OGTC -->
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="Ventricular Tachycardia: Treatment to Restore Health">
-	<meta property="og:description" content="Ventricular tachycardia treatment may include meds, ablation, pacemakers, and lifestyle changes to help reduce symptoms and lower the risk of complications">
-	<meta property="og:url" content="https://www.drdcr.com/ventricular-tachycardia-treatment.php">
-	<meta property="og:image" content="https://www.drdcr.com/new-images/3dnavigationsystemsandintracardiacecho.jpg">
+	<meta name="author" content="Muviereck" />
+	<meta property="og:title" content="Smile Makeover: Transform Your Smile & Feel Confident Again">
+	<meta property="og:description" content="Transform your smile with a comprehensive smile makeover">
+	<meta property="og:url" content="https://smilesolutions.muviereck.com/smile-makeover-in-chromepet">
+	<meta property="og:site_name" content="Smile Solutions Family Dentistry">
+	<meta property="og:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
-	<meta property="og:site_name" content="DrDCR">
+	<meta property="og:locale" content="en_IN">
+	<meta property="og:type" content="website">
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Ventricular Tachycardia: Treatment to Restore Health">
-	<meta property="twitter:description" content="Ventricular tachycardia treatment may include meds, ablation, pacemakers, and lifestyle changes to help reduce symptoms and lower the risk of complications">
-	<meta property="twitter:image:src" content="https://www.drdcr.com/new-images/3dnavigationsystemsandintracardiacecho.jpg">
-	<meta property="twitter:image:width" content="1200">
-	<meta property="twitter:image:height" content="630">
+	<meta name="twitter:title" content="Smile Makeover: Transform Your Smile & Feel Confident Again">
+	<meta name="twitter:description" content="Transform your smile with a comprehensive smile makeover">
+	<meta name="twitter:site" content="@Smilesolutions">
+	<meta name="twitter:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
+	<meta name="twitter:image:alt" content="Smile Makeover">
+	<meta name="twitter:creator" content="@smilesolutions">
 
-	<link rel="canonical" href="https://www.drdcr.com/ventricular-tachycardia-treatment.php">
+
+	<link rel="canonical" href="https://smilesolutions.muviereck.com/smile-makeover-in-chromepet" />
+	<script>
+		(function(w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-N2ZQPNL');
+	</script>
 	<?php include "header.php"; ?>
 </head>
 
@@ -130,13 +150,13 @@
 				<div class="accordion-item">
 					<h2 class="accordion-header" id="panelsStayOpen-headingsmileone">
 						<button class="accordion-button collapsed card-color text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapsesmileone" aria-expanded="false" aria-controls="panelsStayOpen-collapsesmileone">
-						Procedure involved in Smile Makeover
+							Procedure involved in Smile Makeover
 						</button>
 					</h2>
 					<div id="panelsStayOpen-collapsesmileone" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingone">
 						<div class="accordion-body">
 							<ul class=" mb-0">
-							    <li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Consultation</strong>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Consultation</strong>
 									<p> The first step in the process of a smile makeover is a consultation with the dentist or cosmetic dentist. During the consultation, the dentist will discuss the patient’s goals and expectations, examine their teeth, and take photos and X-rays of their mouth to assess the current condition of their teeth.</p>
 								</li>
 								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span>Treatment Planning</strong>
@@ -160,7 +180,7 @@
 
 					<h2 class="accordion-header" id="panelsStayOpen-headingsmiletwo">
 						<button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapsesmiletwo" aria-expanded="false" aria-controls="panelsStayOpen-collapsesmiletwo">
-						What are the precautions to be taken?
+							What are the precautions to be taken?
 
 						</button>
 					</h2>
@@ -192,7 +212,7 @@
 
 					<h2 class="accordion-header" id="panelsStayOpen-headingsmilethree">
 						<button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapsesmilethree" aria-expanded="false" aria-controls="panelsStayOpen-collapsesmilethree">
-						Post Treatment Care
+							Post Treatment Care
 
 						</button>
 					</h2>
@@ -352,7 +372,7 @@
 			</div>
 		</div>
 	</section>
-	<script type="application/ld+json">
+	<!-- <script type="application/ld+json">
 		{
 			"@context": "https://schema.org/",
 			"@type": "Product",
@@ -372,10 +392,10 @@
 				"ratingCount": "135"
 			}
 		}
-	</script>
+	</script> -->
 	<?php include "footer.php"; ?>
 
-	<script type="application/ld+json">
+	<!-- <script type="application/ld+json">
 		{
 			"@context": "https://schema.org",
 			"@type": "FAQPage",
@@ -430,7 +450,7 @@
 				}
 			}]
 		}
-	</script>
+	</script> -->
 </body>
 
 </html>

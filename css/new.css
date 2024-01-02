@@ -323,3 +323,9 @@ width: 100%;
 .scrool::-webkit-scrollbar-thumb{
   background-color: #05933F;
 }
+
+@media screen and (max-width: 357.95px){
+.Oral_font_size{
+  font-size: 26px !important;
+}
+}

@@ -4,26 +4,47 @@
 
 <head>
     <title>Dental Veneers in Chrompet | Porcelain Veneers for Your Teeth</title>
-    <meta name="description" content="Discover Life-Saving Sudden Cardiac Arrest Treatment in Chennai at DrDCR. Act now for expert care and a healthier heart. Your future starts here!">
-    <meta name="keywords" content="Sudden Cardiac Arrest (SCA), Heart Attack, Cardiac Arrest, Cardiac Arrest Symptoms, Cardiac Arrest Causes, Cardiac Arrest Risk Factors, Cardiac Arrest Prevention, Cardiopulmonary Resuscitation (CPR), Automated External Defibrillator (AED), Cardiac Arrest Treatment, Cardiac Arrest Statistics">
+    <meta name="description" content="Get the perfect smile with our custom-made dental veneers. Our experienced dentists provide quality care, ensuring your smile looks natural and beautiful." />
+    <meta name="keywords" content="Dental veneers in Chrompet, porcelain veneers in Chrompet, tooth veneers in Chrompet, cosmetic dentistry in Chrompet, dental restoration in Chrompet, teeth whitening in Chrompet, dental bonding in Chrompet, tooth reshaping in Chrompet,dental crowns in Chrompet, dental implants in Chrompet" />
 
     <!-- OGTC -->
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Sudden Cardiac Arrest: A Life-Threatening Emergency">
-    <meta property="og:description" content="Sudden Cardiac Arrest is a life-threatening medical emergency where the heart suddenly stops beating, resulting in death if not treated immediately">
-    <meta property="og:url" content="https://www.drdcr.com/sudden-cardiac-arrest.php">
-    <meta property="og:image" content="https://www.drdcr.com/new-images/cardiopulmonaryresuscitation.png">
+    <meta name="author" content="Muviereck" />
+    <meta property="og:title" content="Dental Veneers: Get the Perfect Smile with Quality Cosmetic Dentistry">
+    <meta property="og:description" content="Dental veneers for a brighter, healthier smile - perfect for fixing chips, gaps, and discoloration">
+    <meta property="og:url" content="https://smilesolutions.muviereck.com/dental-veneers-in-chromepet">
+    <meta property="og:site_name" content="Smile Solutions Family Dentistry">
+    <meta property="og:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
-    <meta property="og:site_name" content="DrDCR">
+    <meta property="og:locale" content="en_IN">
+    <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Sudden Cardiac Arrest: A Life-Threatening Emergency">
-    <meta property="twitter:description" content="Sudden Cardiac Arrest is a life-threatening medical emergency where the heart suddenly stops beating, resulting in death if not treated immediately">
-    <meta property="twitter:image:src" content="https://www.drdcr.com/new-images/cardiopulmonaryresuscitation.png">
-    <meta property="twitter:image:width" content="1200">
-    <meta property="twitter:image:height" content="630">
+    <meta name="twitter:title" content="Dental Veneers: Get the Perfect Smile with Quality Cosmetic Dentistry">
+    <meta name="twitter:description" content="Dental veneers for a brighter, healthier smile - perfect for fixing chips, gaps, and discoloration">
+    <meta name="twitter:site" content="@Smilesolutions">
+    <meta name="twitter:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
+    <meta name="twitter:image:alt" content="Dental Veneers">
+    <meta name="twitter:creator" content="@smilesolutions">
 
-    <link rel="canonical" href="https://www.drdcr.com/sudden-cardiac-arrest.php">
+
+    <link rel="canonical" href="https://smilesolutions.muviereck.com/dental-veneers-in-chromepet" />
+
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-N2ZQPNL');
+    </script>
     <?php include "header.php"; ?>
 </head>
 
@@ -213,7 +234,7 @@
 
                     <h2 class="accordion-header" id="panelsStayOpen-headingveneerthree">
                         <button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseveneerthree" aria-expanded="false" aria-controls="panelsStayOpen-collapseveneerthree">
-                        How to take care of once a veneer is placed?
+                            How to take care of once a veneer is placed?
 
                         </button>
                     </h2>
@@ -237,7 +258,7 @@
 
                     <h2 class="accordion-header" id="panelsStayOpen-headingveneerfour">
                         <button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseveneerfour" aria-expanded="false" aria-controls="panelsStayOpen-collapseveneerfour">
-                        Is the Purpose of attaching Veneer Painful?
+                            Is the Purpose of attaching Veneer Painful?
 
                         </button>
                     </h2>
@@ -379,7 +400,7 @@
             </div>
         </div>
     </section>
-    <script type="application/ld+json">
+    <!-- <script type="application/ld+json">
         {
             "@context": "https://schema.org/",
             "@type": "Product",
@@ -399,10 +420,10 @@
                 "ratingCount": "135"
             }
         }
-    </script>
+    </script> -->
 
     <?php include "footer.php"; ?>
-    <script type="application/ld+json">
+    <!-- <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "FAQPage",
@@ -580,7 +601,7 @@
                 }
             }]
         }
-    </script>
+    </script> -->
 </body>
 
 </html>

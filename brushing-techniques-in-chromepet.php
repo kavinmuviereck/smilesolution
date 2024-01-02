@@ -4,26 +4,46 @@
 
 <head>
 	<title>Brushing Techniques: How to Brush Teeth for Optimal Health</title>
-	<meta name="description" content="Experience advanced cardiac resynchronization therapy in Chennai with DrDCR. Optimize heart function for a more vibrant life. Schedule a consultation now.">
-	<meta name="keywords" content="Cardiac Resynchronization Therapy (CRT), Heart Pacemaker, Congestive Heart Failure, Cardiology, Ventricular Dysynchrony, Left Ventricular Pacing, Dyssynchrony, Biventricular Pacing, Cardiac Resynchronization Device, Sudden Cardiac Death, Prolonged Life Expectancy, Improved Exercise Capacity">
+	<meta name="description" content="Regular brushing with a soft-bristled toothbrush helps maintain healthy teeth and gums.Use gentle, circular motions and brush all surfaces of each tooth.">
+	<meta name="keywords" content="Brushing techniques, brushing teeth, brushing techniques for teeth, tooth brushing tips,proper brushing techniques, brushing techniques for kids, brushing techniques for adults, brushing for better health, brushing for healthy teeth and gums, brushing for strong teeth and gums.">
 
 	<!-- OGTC -->
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="Top Cardiac Resynchronization Therapy in Chennai - DrDCR">
-	<meta property="og:description" content="Experience advanced cardiac resynchronization therapy in Chennai with DrDCR. Optimize heart function for a more vibrant life. Schedule a consultation now.">
-	<meta property="og:url" content="https://www.drdcr.com/cardiac-resynchronization-therapy.php">
-	<meta property="og:image" content="https://www.drdcr.com/new-images/cardiacresynchronization1.jpg">
+	<meta name="author" content="Muviereck">
+	<meta property="og:title" content="Brushing Teeth: Master the Art of Proper Cleaning">
+	<meta property="og:description" content="Learn proper brushing techniques to maintain good oral health">
+	<meta property="og:url" content="https://smilesolutions.muviereck.com/brushing-techniques-in-chromepet">
+	<meta property="og:site_name" content="Smile Solutions Family Dentistry">
+	<meta property="og:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
-	<meta property="og:site_name" content="DrDCR">
+	<meta property="og:locale" content="en_IN">
+	<meta property="og:type" content="website">
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Top Cardiac Resynchronization Therapy in Chennai - DrDCR">
-	<meta property="twitter:description" content="Experience advanced cardiac resynchronization therapy in Chennai with DrDCR. Optimize heart function for a more vibrant life. Schedule a consultation now.">
-	<meta property="twitter:image:src" content="https://www.drdcr.com/new-images/cardiacresynchronization1.jpg">
-	<meta property="twitter:image:width" content="1200">
-	<meta property="twitter:image:height" content="630">
+	<meta name="twitter:title" content="Brushing Teeth: Master the Art of Proper Cleaning">
+	<meta name="twitter:description" content="Learn proper brushing techniques to maintain good oral health">
+	<meta name="twitter:site" content="@Smilesolutions">
+	<meta name="twitter:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
+	<meta name="twitter:image:alt" content="Brushing Techniques">
+	<meta name="twitter:creator" content="@smilesolutions">
 
-	<link rel="canonical" href="https://www.drdcr.com/cardiac-resynchronization-therapy.php">
+	<link rel="canonical" href="https://smilesolutions.muviereck.com/brushing-techniques-in-chromepet" />
+
+	<script>
+		(function(w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-N2ZQPNL');
+	</script>
 	<?php include "header.php"; ?>
 </head>
 
@@ -223,14 +243,14 @@
 
 					<h2 class="accordion-header" id="panelsStayOpen-headingBrushthree">
 						<button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseBrushthree" aria-expanded="false" aria-controls="panelsStayOpen-collapseBrushthree">
-						How frequently should we brush our teeth?
+							How frequently should we brush our teeth?
 
 						</button>
 					</h2>
 					<div id="panelsStayOpen-collapseBrushthree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingthree">
 						<div class="accordion-body">
 							<ul class=" mb-0">
-							<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>It is recommended that you brush your teeth at least twice a day, for two minutes each time. It is also important to floss every day.</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>It is recommended that you brush your teeth at least twice a day, for two minutes each time. It is also important to floss every day.</li>
 							</ul>
 						</div>
 					</div>
@@ -240,14 +260,14 @@
 
 					<h2 class="accordion-header" id="panelsStayOpen-headingBrushfour">
 						<button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseBrushfour" aria-expanded="false" aria-controls="panelsStayOpen-collapseBrushfour">
-						How long does it take to brush one's teeth properly?
+							How long does it take to brush one's teeth properly?
 
 						</button>
 					</h2>
 					<div id="panelsStayOpen-collapseBrushfour" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingfour">
 						<div class="accordion-body">
 							<ul class=" mb-0">
-							<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>The American Dental Association recommends brushing teeth for two minutes twice a day. While this is the general recommendation, individuals may need to adjust the duration of their brushing according to personal preference or dental health needs.</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>The American Dental Association recommends brushing teeth for two minutes twice a day. While this is the general recommendation, individuals may need to adjust the duration of their brushing according to personal preference or dental health needs.</li>
 							</ul>
 						</div>
 					</div>
@@ -258,32 +278,32 @@
 
 					<h2 class="accordion-header" id="panelsStayOpen-headingBrushfive">
 						<button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseBrushfive" aria-expanded="false" aria-controls="panelsStayOpen-collapseBrushfive">
-						Is it important to floss the teeth?
+							Is it important to floss the teeth?
 
 						</button>
 					</h2>
 					<div id="panelsStayOpen-collapseBrushfive" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingfive">
 						<div class="accordion-body">
 							<ul class=" mb-0">
-							<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>Yes, regular flossing is very important for good oral health. Flossing helps remove plaque buildup and food particles from between the teeth and along the gum line, reducing the risk of gum disease and tooth decay.</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>Yes, regular flossing is very important for good oral health. Flossing helps remove plaque buildup and food particles from between the teeth and along the gum line, reducing the risk of gum disease and tooth decay.</li>
 							</ul>
 						</div>
 					</div>
 				</div>
 
-				
+
 				<div class="accordion-item">
 
 					<h2 class="accordion-header" id="panelsStayOpen-headingBrushsix">
 						<button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseBrushsix" aria-expanded="false" aria-controls="panelsStayOpen-collapseBrushsix">
-						When should a brush be changed?
+							When should a brush be changed?
 
 						</button>
 					</h2>
 					<div id="panelsStayOpen-collapseBrushsix" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingsix">
 						<div class="accordion-body">
 							<ul class=" mb-0">
-							<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>Typically, a brush should be changed when it begins to look worn or frayed, or every three to four months, whichever comes first.</li>
+								<li class="qualification-font"><span style="font-size: 25px;"><strong>• </span></strong>Typically, a brush should be changed when it begins to look worn or frayed, or every three to four months, whichever comes first.</li>
 							</ul>
 						</div>
 					</div>
@@ -736,7 +756,7 @@
 		</div>
 	</section>
 
-	<script type="application/ld+json">
+	<!-- <script type="application/ld+json">
 		{
 			"@context": "https://schema.org/",
 			"@type": "Product",
@@ -756,9 +776,9 @@
 				"ratingCount": "135"
 			}
 		}
-	</script>
+	</script> -->
 	<?php include "footer.php" ?>
-	<script type="application/ld+json">
+	<!-- <script type="application/ld+json">
 		{
 			"@context": "https://schema.org",
 			"@type": "FAQPage",
@@ -820,7 +840,7 @@
 				}
 			}]
 		}
-	</script>
+	</script> -->
 </body>
 
 </html>

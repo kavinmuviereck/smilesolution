@@ -4,26 +4,46 @@
 
 <head>
     <title>Oral & Maxillofacial Surgery in Chrompet | Safe & Effective</title>
-    <meta name="description" content="Discover Life-Saving Sudden Cardiac Arrest Treatment in Chennai at DrDCR. Act now for expert care and a healthier heart. Your future starts here!">
-    <meta name="keywords" content="Sudden Cardiac Arrest (SCA), Heart Attack, Cardiac Arrest, Cardiac Arrest Symptoms, Cardiac Arrest Causes, Cardiac Arrest Risk Factors, Cardiac Arrest Prevention, Cardiopulmonary Resuscitation (CPR), Automated External Defibrillator (AED), Cardiac Arrest Treatment, Cardiac Arrest Statistics">
+    <meta name="description" content="Our Oral and Maxillofacial Clinic in Chrompet offers expert diagnosis and treatment for oral and facial problems including jaw, teeth, and tissue disorders." />
+    <meta name="keywords" content="Oral and maxillofacial surgery in Chrompet, facial reconstruction in Chrompet, jaw correction in Chrompet, wisdom teeth removal in Chrompet, dental implants in Chrompet, orthognathic surgery in Chrompet, facial trauma in Chrompet, TMJ disorder in Chrompet, facial cosmetic surgery in Chrompet." />
 
     <!-- OGTC -->
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Sudden Cardiac Arrest: A Life-Threatening Emergency">
-    <meta property="og:description" content="Sudden Cardiac Arrest is a life-threatening medical emergency where the heart suddenly stops beating, resulting in death if not treated immediately">
-    <meta property="og:url" content="https://www.drdcr.com/sudden-cardiac-arrest.php">
-    <meta property="og:image" content="https://www.drdcr.com/new-images/cardiopulmonaryresuscitation.png">
+    <meta name="author" content="Muviereck" />
+    <meta property="og:title" content="Oral & Maxillofacial Surgery: Expert Care for Your Face & Mouth">
+    <meta property="og:description" content="Oral & Maxillofacial surgery treats diseases, injuries and defects in the head, neck, face and jaw">
+    <meta property="og:url" content="https://smilesolutions.muviereck.com/oral-maxillofacial-in-chromepet">
+    <meta property="og:site_name" content="Smile Solutions Family Dentistry">
+    <meta property="og:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
-    <meta property="og:site_name" content="DrDCR">
+    <meta property="og:locale" content="en_IN">
+    <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Sudden Cardiac Arrest: A Life-Threatening Emergency">
-    <meta property="twitter:description" content="Sudden Cardiac Arrest is a life-threatening medical emergency where the heart suddenly stops beating, resulting in death if not treated immediately">
-    <meta property="twitter:image:src" content="https://www.drdcr.com/new-images/cardiopulmonaryresuscitation.png">
-    <meta property="twitter:image:width" content="1200">
-    <meta property="twitter:image:height" content="630">
+    <meta name="twitter:title" content="Oral & Maxillofacial Surgery: Expert Care for Your Face & Mouth">
+    <meta name="twitter:description" content="Oral & Maxillofacial surgery treats diseases, injuries and defects in the head, neck, face and jaw">
+    <meta name="twitter:site" content="@Smilesolutions">
+    <meta name="twitter:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
+    <meta name="twitter:image:alt" content="Oral & Maxillofacial">
+    <meta name="twitter:creator" content="@smilesolutions">
 
-    <link rel="canonical" href="https://www.drdcr.com/sudden-cardiac-arrest.php">
+
+    <link rel="canonical" href="https://smilesolutions.muviereck.com/oral-maxillofacial-in-chromepet" />
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-N2ZQPNL');
+    </script>
     <?php include "header.php"; ?>
 </head>
 
@@ -37,7 +57,7 @@
             <div class="page-banner" style="background-image:url(images/banner/img1.jpg);">
                 <div class="container">
                     <div class="page-banner-entry text-center">
-                        <h1>Oral And Maxillofacial Surgery In Chrompet</h1>
+                        <h1 class="Oral_font_size">Oral And Maxillofacial Surgery In Chrompet</h1>
                         <!-- Breadcrumb row -->
                         <nav aria-label="breadcrumb" class="breadcrumb-row">
                             <ul class="breadcrumb">
@@ -114,7 +134,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="panelsStayOpen-headingoralone">
                         <button class="accordion-button collapsed card-color text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseoralone" aria-expanded="false" aria-controls="panelsStayOpen-collapseoralone">
-                        How Long can Veneers Last?
+                            How Long can Veneers Last?
                         </button>
                     </h2>
                     <div id="panelsStayOpen-collapseoralone" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingone">
@@ -144,7 +164,7 @@
 
                     <h2 class="accordion-header" id="panelsStayOpen-headingoraltwo">
                         <button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseoraltwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseoraltwo">
-                        What are the Consequences of not getting a Root Canal Treatment?
+                            What are the Consequences of not getting a Root Canal Treatment?
 
                         </button>
                     </h2>
@@ -305,7 +325,7 @@
             </div>
         </div>
     </section>
-    <script type="application/ld+json">
+    <!-- <script type="application/ld+json">
         {
             "@context": "https://schema.org/",
             "@type": "Product",
@@ -325,10 +345,10 @@
                 "ratingCount": "135"
             }
         }
-    </script>
+    </script> -->
 
     <?php include "footer.php"; ?>
-    <script type="application/ld+json">
+    <!-- <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "FAQPage",
@@ -506,7 +526,7 @@
                 }
             }]
         }
-    </script>
+    </script> -->
 </body>
 
 </html>
