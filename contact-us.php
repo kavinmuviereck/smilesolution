@@ -105,14 +105,14 @@
 									<h4 class="title mb-30">Contact Us For Any Informations</h4>
 									<div class="icon-box">
 										<h6 class="title"><i class="ti-map-alt"></i>Location</h6>		
-										<p>No.199, Luz Church Road Mylapore, Chennai Tamilnadu, India.</p>
-										<p>Plot no 1, Nolambur Phase 1, VGN Nagar Phase 1, Nolambur, Ambattur Industrial Estate, Chennai, Tamil Nadu 600037</p>
+										<p>No 44, Near Deepam Hospital,Ramachandra Street Nehru Nagar, Chrompet,Chennai, Tamil Nadu 600044.</p>
+										<p>3/4, 200 Feet Radial Rd, Vinayaganagar,MCN Nagar Extension, Thoraipakkam,Chennai, Tamil Nadu 600097.</p>
 									</div>
 									<div class="icon-box">
 										<h6 class="title"><i class="ti-id-badge"></i>Email &amp; Phone</h6>		
-										<a href="mailto:deepchandh@gmail.com" class="text-white contact-email">deepchandh@gmail.com</a>
-										<a href="tel:9043632236"><p class="text-white mb-0">9043632236</p></a>
-										<a href="tel:8608601590"><p class="text-white">8608601590</p></a>
+										<a href="mailto:smilesolutions18@gmail.com" class="text-white contact-email">smilesolutions18@gmail.com</a>
+										<a href="tel:044-43575349"><p class="text-white mb-0">044-43575349</p></a>
+										<a href="tel:9384877610"><p class="text-white">+91- 9384877610</p></a>
 									</div>
 									<!-- <div class="icon-box">
 										<h6 class="title"><i class="ti-world"></i>Follow Us</h6>
@@ -141,8 +141,8 @@
 							</div>
 							<div class="icon-content">
 								<h5 class="ttr-title">Contact Number</h5>
-								<a href="tel:9043632236"><p>9043632236</p></a>
-								<a href="tel:8608601590"><p>8608601590</p></a>
+								<a href="tel:044-43575349"><p>044-43575349</p></a>
+								<a href="tel:9384877610"><p>+91- 9384877610</p></a>
 								
 							</div>
 						</div>
@@ -154,8 +154,8 @@
 							</div>
 							<div class="icon-content">
 								<h5 class="ttr-title">Email Address</h5>
-								<a href="mailto:deepchandh@gmail.com">
-								  <p class="email-font-contact">deepchandh@gmail.com</p>
+								<a href="mailto:smilesolutions18@gmail.com">
+								  <p class="email-font-contact">smilesolutions18@gmail.com</p>
 								</a>
 							</div>
 						</div>
@@ -166,8 +166,8 @@
 								<img src="images/icon/icon2.png" alt="">
 							</div>
 							<div class="icon-content">
-								<h5 class="ttr-title">Kauvery Hospital</h5>
-								<p>No.199, Luz Church Road Mylapore, Chennai Tamilnadu, India.</p>
+								<h5 class="ttr-title">Chrompet</h5>
+								<p>No 44, Near Deepam Hospital,Ramachandra Street Nehru Nagar, Chrompet,Chennai, Tamil Nadu 600044.</p>
 							</div>
 						</div>
 					</div>
@@ -178,8 +178,8 @@
 								<img src="images/icon/icon2.png" alt="">
 							</div>
 							<div class="icon-content">
-								<h5 class="ttr-title">Raja Superspeciality Clinic</h5>
-								<p>Plot no 1, Nolambur Phase 1, VGN Nagar Phase 1, Nolambur, Ambattur Industrial Estate, Chennai, Tamil Nadu 600037</p>
+								<h5 class="ttr-title">Thoraipakkam</h5>
+								<p>3/4, 200 Feet Radial Rd, Vinayaganagar,MCN Nagar Extension, Thoraipakkam,Chennai, Tamil Nadu 600097.</p>
 							</div>
 						</div>
 					</div>
@@ -196,13 +196,13 @@
 			<div class="container-fluid">
 				<div class="row mb-3">
 					<div class="col-md-6">
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.9557806059443!2d80.2572727!3d13.0384867!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526634fdeda0b9%3A0x2614563a50841ac9!2s199%2C%20Luz%20Church%20Rd%2C%20Kapali%20Thottam%2C%20Mylapore%2C%20Chennai%2C%20Tamil%20Nadu%20600004!5e0!3m2!1sen!2sin!4v1684923685373!5m2!1sen!2sin" width="100%" height="250" style="border:0;" allowfullscreen="" ></iframe>
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.465430408972!2d80.13862881491875!3d12.942042190875307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525e558c69bca5%3A0x28f4df4cb953ffb8!2sSmile+Solutions!5e0!3m2!1sen!2sin!4v1537943305285" width="100%" height="250" style="border:0;" allowfullscreen="" ></iframe>
 					</div>
 
 					
 
 					<div class="col-md-6" >
-					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15545.375210882336!2d80.1649309!3d13.077384!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5263d56ebb627f%3A0xcc2d9d07e282c30d!2sRaja%20Superspeciality%20Clinic!5e0!3m2!1sen!2sin!4v1684924137575!5m2!1sen!2sin" width="100%" height="250" style="border:0;" allowfullscreen="" ></iframe>					
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.348618007746!2d80.23307331491884!3d12.949529990870367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525d012bf8f42f%3A0x9407ca58fa77ced0!2sSmile+Solutions+Family+Dentistry!5e0!3m2!1sen!2sin!4v1537943197961" width="100%" height="250" style="border:0" allowfullscreen=""></iframe>					
 					</div>
 				</div>
 			</div>

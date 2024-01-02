@@ -304,7 +304,7 @@
 							</div>
 							<div class="col-lg-5 col-md-6 col-sm-5">
 								<div class="banner-img">
-									<img src="images/index/Srikanth1.png" alt="DrDCR – Best Heart Rhythm Specialist in Chennai">
+									<img src="images/index/nbf.png" alt="DrDCR – Best Heart Rhythm Specialist in Chennai">
 								</div>
 							</div>
 						</div>
@@ -321,25 +321,43 @@
 							</div>
 							<div class="col-lg-5 col-md-6 col-sm-5">
 								<div class="banner-img">
-									<img src="images/index/poornima1.png" alt="DrDCR – Best Cardiac Electrophysiologist in Chennai">
+									<img src="images/index/nbt.jpg" alt="DrDCR – Best Cardiac Electrophysiologist in Chennai">
 								</div>
 							</div>
 						</div>
 					</div>
 					<!-- <img src="new-images/dban.jpg" alt="Chicago" style="width: 100%; height: 500px;"> -->
 				</div>
+				<div class="carousel-item">
+					<div class="container-fluid inner-content">
+						<div class="row align-items-center">
+							<div class="col-lg-7 col-md-6 col-sm-7">
+								<!-- <h6 class="title-ext text-primary">We Provide All Health Care Solution</h6> -->
+								<h2 style="font-size: 40px;" class="banner-content mb-3">Children Dentistry In Chrompet</h2>
+								<a href="about-us.php" class="btn common-btn btn-lg shadow">Read More</a>
+							</div>
+							<div class="col-lg-5 col-md-6 col-sm-5">
+								<div class="banner-img">
+									<img src="images/index/nbfo.jpg" width="67%" alt="DrDCR – Best Cardiac Electrophysiologist in Chennai">
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- <img src="new-images/dban.jpg" alt="Chicago" style="width: 100%; height: 500px;"> -->
+				</div>
+				
 
 			</div>
 
 			<!-- Left and right controls -->
 			<a class="carousel-control-prev" href="#demo" data-slide="prev">
-				<i class="fa fa-chevron-left" aria-hidden="true" style="color: #154D38;"></i>
+				<i class="fa fa-chevron-left p-2 border-2 rounded-circle" aria-hidden="true" style="color: #154D38;"></i>
 				<!-- <span class="carousel-control-prev-icon"></span> -->
 			</a>
 
 			<a class="carousel-control-next" href="#demo" data-slide="next">
 				<!-- <span class="carousel-control-next-icon"></span> -->
-				<i class="fa fa-chevron-right" aria-hidden="true" style="color: #154D38;"></i>
+				<i class="fa fa-chevron-right p-2 border-2 rounded-circle" aria-hidden="true" style="color: #154D38;"></i>
 			</a>
 		</div>
 
@@ -359,34 +377,35 @@
 						</div>
 						<div class="col-lg-7 ">
 							<div class="">
-								<h3 class="mb-3" style="font-size: 26px;">Best Dental Clinic in Chrompet Chennai</h3>
-								<h6 class="">Smile Solutions Family Dentistry </h6>
+								<h3 class="mb-3" style="font-size: 26px;" data-aos="fade-up">Best Dental Clinic in Chrompet Chennai</h3>
+								<h6 class="" data-aos="fade-up" data-aos-delay="100">Smile Solutions Family Dentistry </h6>
 							</div>
 							<div class=" text-justify">
-								<p>Smile Solutions Family Dentistry, a renowned dental clinic in Chrompet Chennai, provides exceptional and comprehensive dental care.Our highly skilled and experienced dentists are committed to ensuring your comfort and satisfaction.</p>
-								<ul>
+								<p data-aos="fade-up" data-aos-delay="150">Smile Solutions Family Dentistry, a renowned dental clinic in Chrompet Chennai, provides exceptional and comprehensive dental care.Our highly skilled and experienced dentists are committed to ensuring your comfort and satisfaction.</p>
+								<ul data-aos="fade-up" data-aos-delay="200">
 									<li><a href="tel:9043632236" class="text-dark">Phone: 8637632673</a></li>
 									<li><a href="mailto:deepchandh@gmail.com" class="text-dark">Email: smilesolutions18@gmail.com</a></li>
 								</ul>
-								<a href="about-us.php" class="btn common-btn shadow">Read More</a>
+								<a href="about-us.php" class="btn common-btn shadow" data-aos="fade-up" data-aos-delay="250">Read More</a>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div><!-- .row -->
+		
 		</div>
 
 		<div class="parallax1"></div>
 		<!-- service -->
-		<section class="section-area section-sp1 service-wraper service-wraper-index" style="background-color: #f1f1f1;">
+		<section class="section-area section-sp1 service-wraper service-wraper-index" style="background-color: #f7f7ff;">
 			<div class="row align-items-center">
 				<div class="col-xl-7 col-lg-7 mb-30">
 					<div class="heading-bx">
 						<h6 class="title-ext text-secondary mt-5">Services</h6>
-						<h2 class="title for-service-text-size" style="color:#343a40 !important;">Our Services</h2>
-						<p style="color:#343a40 !important; font-size: 16px;">Smile Solutions Family Dentistry offers a complete range of dental care services and treatments. Whether you require a thorough dental cleaning or a more intricate cosmetic procedure for your teeth or gums, we have the ideal dental treatment tailored to your needs. Below is a summary of the services provided by our dependable and highly skilled dentist in Chrompet, Chennai.</p>
+						<h2 class="title for-service-text-size" style="color:#343a40 !important;" >Our Services</h2>
+						<p style="color:#343a40 !important; font-size: 16px;" >Smile Solutions Family Dentistry offers a complete range of dental care services and treatments. Whether you require a thorough dental cleaning or a more intricate cosmetic procedure for your teeth or gums, we have the ideal dental treatment tailored to your needs. Below is a summary of the services provided by our dependable and highly skilled dentist in Chrompet, Chennai.</p>
 					</div>
-					<a href="services.php" class="btn btn-secondary btn-lg shadow">Dentistry Services</a>
+					<a href="services.php" class="btn btn-secondary btn-lg shadow" >Dentistry Services</a>
 				</div>
 
 				<div class="col-xl-5 col-lg-4 col-md-12   mb-15  text-center order-first order-lg-last paroller">
@@ -428,7 +447,7 @@
 			</div> -->
 		</section>
 		<!-- <div class="parallax2"></div>  -->
-		<div class="container-fluidmt-5 p-4" style="background-color: #f1f1f1;">
+		<div class="container-fluidmt-5 p-4" style="background-color: #f7f7ff;">
 			<h3>Services</h3>
 			<h6 class="mt-5">CHILDREN DENTISTRY IN CHROMPET</h6>
 			<div class="row">
@@ -536,7 +555,7 @@
 
 			<div class="container-fluid" data-aos="fade-up">
 				<h3 class="text-center mb-4 service-head" style="font-weight:900 !important;">5 Star Patient Reviews</h3>
-				<p>In healthcare, 5-star patient reviews are a valuable form of feedback and endorsement. They serve as testimonials that can help prospective patients make informed decisions about where to seek medical treatment or care. These reviews often highlight exceptional medical expertise, compassionate care, prompt service, and positive outcomes.</p>
+				<p class="p-2">In healthcare, 5-star patient reviews are a valuable form of feedback and endorsement. They serve as testimonials that can help prospective patients make informed decisions about where to seek medical treatment or care. These reviews often highlight exceptional medical expertise, compassionate care, prompt service, and positive outcomes.</p>
 				<div class="row position-relative aos-init aos-animate d-flex justify-content-center">
 
 					<div class="col-lg-4 col-md-6 pb-4">
@@ -605,11 +624,11 @@
 			</div>
 		</section>
 		<!-- <div class="parallax4"></div> -->
-		<div class="container-fluid p-4" style="background-color: #f1f1f1;">
+		<div class="container-fluid p-4" style="background-color: #f7f7ff;">
 			<div class="row">
 				<div class="col-12">
-					<h3 class="">Visiting Hospital with affiliations</h3>
-					<ul class="list-check-squer mb-0">
+					<h3 class="" data-aos="fade-up" >Visiting Hospital with affiliations</h3>
+					<ul class="list-check-squer mb-0" data-aos="fade-up" data-aos-delay="100">
 						<li class="qualification-font"> Dr. M. Srikanth is a Dentist, Prosthodontist, and Cosmetic/Aesthetic Dentist in Chrompet,Chennai and has an experience of 23 years in these fields.</li>
 						<li class="qualification-font">Dr. Poornima Srikanth is a Cosmetic/Aesthetic Dentist,Dental Surgeon and Oral Pathologist in Chrompet, Chennai and has an experience of 18 years in these fields.</li>
 					</ul>

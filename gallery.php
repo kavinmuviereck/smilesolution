@@ -64,14 +64,14 @@
 					<div class="col-md-6 mb-30 text-center">
 						<a href="gallery-section.php?file=image">
 							<div>
-								<img src="new-images/dcr-images-folder.jpg" alt="">
+								<img src="images/index/nbt.jpg" alt="">
 							</div>
 							<div>
 								<h3 class="title">Images</h3>
 							</div>
 						</a>
 					</div>
-
+<!-- 
 					<div class="col-md-6 mb-30 text-center">
 						<a href="gallery-section.php?file=video">
 							<div>
@@ -81,16 +81,12 @@
 								<h3 class="title">Videos</h3>
 							</div>
 						</a>
-					</div>
+					</div> -->
 
 				</div>
 
 			</div>
-			<!-- <img class="pt-img1 animate-wave" src="images/shap/wave-orange.png" alt="">
-			<img class="pt-img2 animate2" src="images/shap/circle-small-blue.png" alt="">
-			<img class="pt-img3 animate-rotate" src="images/shap/line-circle-blue.png" alt="">
-			<img class="pt-img4 animate-wave" src="images/shap/square-dots-orange.png" alt="">
-			<img class="pt-img5 animate2" src="images/shap/square-blue.png" alt=""> -->
+		
 		</section>
 	
 	</div>

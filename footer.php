@@ -94,8 +94,8 @@
 								<div class="icon"><i class="fas fa-phone-alt"></i></div>
 								<div class="contact-number">
 									<span>Contact Us</span>
-                                    <a href="tel:8637632673"><h4 class="number">8637632673</h4></a>
-									<a href="tel:8637632673"><h4 class="number">8637632673</h4></a>
+                                    <a href="tel:8637632673"><h4 class="number">+91-8637632673</h4></a>
+									<a href="tel:044-43575349"><h4 class="number">044-43575349</h4></a>
 
 									<!-- <h4 class="number">+01 123 456 7890</h4>
 									<h4 class="number">+01 123 456 7890</h4> -->
@@ -109,17 +109,22 @@
 					<div class="widget footer_widget">
 						<h3 class="footer-title">Specialities of Dr. M. Srikanth </h3>
 						<ul>
-                            <li ><a href="<?= $base_url ?>cardiac-arrhythmia.php"><span>Cardiac Arrhythmias</span> </a></li>
-						    <li><a href="<?= $base_url ?>pacemaker-implantation.php"><span>Pacemaker Implantation</span> </a></li>
-						    <li><a href="<?= $base_url ?>HIS-bundle-pacing-and-conduction-system-pacing.php"><span>HIS Bundle Pacing & Conduction System Pacing</span> </a></li>
-						    <li><a href="<?= $base_url ?>ICD-implantation.php"><span>Defibrillators (ICD) Implantation</span> </a></li>
-						    <li><a href="<?= $base_url ?>cardiac-resynchronization-therapy.php"><span>Cardiac Resynchronization Therapy (CRT)</span> </a></li>
-						    <li><a href="<?= $base_url ?>leadless-pacemaker-implantation.php"><span>Leadless Pacemaker Implantation</span> </a></li>
-						    <li><a href="<?= $base_url ?>eps-and-rfa.php"><span>Electrophysiology Study (EPS) & Radiofrequency Ablation (RFA)</span> </a></li>
-						    <li><a href="<?= $base_url ?>atrial-fibrillation-management.php"><span>Atrial Fibrillation Management</span> </a></li>
-						    <li><a href="<?= $base_url ?>ventricular-tachycardia-treatment.php"><span>Ventricular Tachycardia Treatment</span> </a></li>
-						    <li><a href="<?= $base_url ?>sudden-cardiac-arrest.php"><span>Sudden Cardiac Arrest</span> </a></li>
+                            <li ><a href="<?= $base_url ?>children-dentistry-in-chromepet.php"><span>Children Dentistry</span> </a></li>
+						    <li><a href="<?= $base_url ?>root-canal-treatment-in-chromepet.php"><span>Root Canal Treatment</span> </a></li>
+						    <li><a href="<?= $base_url ?>orthodontics-in-chromepet.php"><span>Orthodontics</span> </a></li>
+						    <li><a href="<?= $base_url ?>implant-dentistry-in-chromepet.php"><span>Implant Dentistry</span> </a></li>
+						    <li><a href="<?= $base_url ?>brushing-techniques-in-chromepet.php"><span>Brushing techniques</span> </a></li>
+						    <li><a href="<?= $base_url ?>dental-bridges-in-chromepet.php"><span>Dental Bridges</span> </a></li>
+						    <li><a href="<?= $base_url ?>dentures-in-chromepet.php"><span>Dentures</span> </a></li>
+						    <li><a href="<?= $base_url ?>teeth-whitening-in-chromepet.php"><span>Teeth Whitening</span> </a></li>
+						    <li><a href="<?= $base_url ?>smile-makeover-in-chromepet.php"><span>Smile Makeover</span> </a></li>
+						    <li><a href="<?= $base_url ?>sedation-dentistry-in-chromepet.php"><span>Sedation Dentistry</span> </a></li>
+						    <li><a href="<?= $base_url ?>oral-maxillofacial-in-chromepet.php"><span>Oral Maxillofacial</span> </a></li>
+						    <li><a href="<?= $base_url ?>dental-veneers-in-chromepet.php"><span>Dental Veneers</span> </a></li>
+						    <li><a href="<?= $base_url ?>dental-crowns-in-chromepet.php"><span>Dental Crowns</span> </a></li>
+						    <li><a href="<?= $base_url ?>preventive-dentistry-in-chromepet.php"><span>Preventive Dentistry</span> </a></li>
 						</ul>
+
 					</div>
 				</div>
 
@@ -130,7 +135,7 @@
 							<li><a href="<?= $base_url ?>index.php"><span>Home</span></a></li>
 							<li><a href="<?= $base_url ?>about-us.php"><span>About Us</span></a></li>
 							<!-- <li><a href="<?//= $base_url ?>services.php"><span>Services</span></a></li> -->
-                            <li><a href="<?= $base_url ?>press-releases.php"><span>Press Releases</span></a></li>
+                            <!-- <li><a href="<?//= $base_url ?>press-releases.php"><span>Press Releases</span></a></li> -->
                             <li><a href="<?= $base_url ?>testimonial.php"><span>Testimonials</span></a></li>
                             <li><a href="<?= $base_url ?>gallery.php"><span>Gallery</span></a></li>
 							<li><a href="<?= $base_url ?>blogs.php"><span>Blogs</span></a></li>

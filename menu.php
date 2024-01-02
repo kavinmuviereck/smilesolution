@@ -115,7 +115,7 @@
 									<li <?php //echo($pageName=="blog-details.php")?" class='active'" :""; ?>><a href="blog-details.php"><span>Blog Details</span></a></li>
 								</ul>
 							</li> -->
-							<li <?php echo($pageName=="press-releases.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>press-releases.php" class="header-text">Press Releases</a></li>
+							<!-- <li <?//php echo($pageName=="press-releases.php")?" class='active'" :""; ?>><a href="<?//= $base_url ?>press-releases.php" class="header-text">Press Releases</a></li> -->
 							<li <?php echo($pageName=="testimonial.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>testimonial.php" class="header-text">Testimonials</a></li>
 							<li <?php echo($pageName=="gallery.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>gallery.php" class="header-text">Smile Gallery</a></li>
 							<li <?php echo($pageName=="blogs.php")?" class='active'" :""; ?>><a href="<?= $base_url ?>blogs.php" class="header-text">Blogs</a></li>

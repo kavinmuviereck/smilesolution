@@ -14318,7 +14318,7 @@
                    content: none; } }
            .menu-links .nav > li .mega-menu li:hover > a,
            .menu-links .nav > li .sub-menu li:hover > a {
-             color: #154D38; }
+             color: #154D38 !important; }
          .menu-links .nav > li .mega-menu li > .sub-menu,
          .menu-links .nav > li .sub-menu li > .sub-menu {
            left: 220px;

@@ -118,7 +118,7 @@
 			<div class="container speciality-container">
 				<div class="row align-items-center">
 					<div class="col-lg-6 mb-30">
-						<div class="about-thumb-area">
+						<div class="paroller">
 							<!-- <img src="new-images/aboutus.png" alt="" style="box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;"> -->
 							<img src="images/index/Srikanth.jpg" alt="" class="shadows-box">
 
@@ -127,7 +127,7 @@
 					<div class="col-lg-6 mb-30">
 						<div class="heading-bx">
 							<h6 class="title-ext text-secondary">Dr. M. Srikanth</h6>
-							<h2 class="title">BDS, MDS - ProsthodonticsDentist Prosthodontist, Cosmetic/Aesthetic,Implantologist</h2>
+							<h2 class="title">BDS, MDS - ProsthodonticsDentist </h2>
 							<p class="text-justify"> Dr. M. Srikanth is a Dentist, Prosthodontist, and Cosmetic/Aesthetic Dentist in Chrompet,Chennai and has an experience of 23 years in these fields.  Dr. M.Srikanth practices at Smile Solutions Family Dentistry in Chromepet, Chennai and Smile Solutions Family Dentistry in Thoraipakkam, Chennai. He is a member of Indian Dental Association, Indian Prosthodontic Society, Indian Academy of Laser Dentistry and Academy of Oral Implantology (AOI).</p>
 						</div>
 						
