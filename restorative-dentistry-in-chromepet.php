@@ -3,15 +3,15 @@
 <html lang="en">
 
 <head>
-    <title>Preventive Dentistry in Chrompet | Get Quality Oral Care</title>
-    <meta name="description" content="Preventive dentistry at our clinic helps keep your teeth healthy and strong. We offer professional cleanings, fluoride treatments & sealants for optimal oral health" />
-    <meta name="keywords" content="Preventive Dentistry in Chrompet, Dental Health in Chrompet, Oral Hygiene in Chrompet, Tooth Decay Prevention in Chrompet, Cavity Prevention in Chrompet, Dental Checkups in Chrompet, Dental Sealants in Chrompet, Dental Education in Chrompet" />
+    <title>Restorative Dentistry in Chrompet: Quality Care for Your Teeth</title>
+    <meta name="description" content="Our Restorative dentistry provides quality dental services to help restore your smile. We offer a wide range of treatments including fillings, crowns, and more." />
+    <meta name="keywords" content="Restorative dentistry in Chrompet, dental restoration in Chrompet, dental fillings in Chrompet, root canal in Chrompet, teeth whitening in Chrompet, dental implants in Chrompet, dental cavities in Chrompet, tooth decay in Chrompet" />
 
     <!-- OGTC -->
     <meta name="author" content="Muviereck" />
-    <meta property="og:title" content="Preserve Your Teeth: Get Preventive Dentistry Today!">
-    <meta property="og:description" content="Professional dental care to help maintain healthy teeth and prevent future problems">
-    <meta property="og:url" content="https://smilesolutions.muviereck.com/preventive-dentistry-in-chromepet">
+    <meta property="og:title" content="Restore Your Smile: Get Professional Restorative Dentistry">
+    <meta property="og:description" content="Restorative dentistry to repair and restore smiles. Improve oral health & aesthetics!">
+    <meta property="og:url" content="https://smilesolutions.muviereck.com/restorative-dentistry-in-chromepet">
     <meta property="og:site_name" content="Smile Solutions Family Dentistry">
     <meta property="og:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
     <meta property="og:image:width" content="1200">
@@ -19,15 +19,15 @@
     <meta property="og:locale" content="en_IN">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Preserve Your Teeth: Get Preventive Dentistry Today!">
-    <meta name="twitter:description" content="Professional dental care to help maintain healthy teeth and prevent future problems">
+    <meta name="twitter:title" content="Restore Your Smile: Get Professional Restorative Dentistry">
+    <meta name="twitter:description" content="Restorative dentistry to repair and restore smiles. Improve oral health & aesthetics!">
     <meta name="twitter:site" content="@Smilesolutions">
     <meta name="twitter:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
-    <meta name="twitter:image:alt" content="Preventive Dentistry">
+    <meta name="twitter:image:alt" content="Restorative dentistry">
     <meta name="twitter:creator" content="@smilesolutions">
 
 
-    <link rel="canonical" href="https://smilesolutions.muviereck.com/preventive-dentistry-in-chromepet" />
+    <link rel="canonical" href="https://smilesolutions.muviereck.com/restorative-dentistry-in-chromepet" />
 
     <script>
         (function(w, d, s, l, i) {
@@ -60,7 +60,7 @@
             <div class="page-banner" style="background-image:url(images/banner/img1.jpg);">
                 <div class="container">
                     <div class="page-banner-entry text-center">
-                        <h1>Preventive Dentistry In Chrompet</h1>
+                        <h1>Restorative Dentistry In Chrompet</h1>
                         <!-- Breadcrumb row -->
                         <nav aria-label="breadcrumb" class="breadcrumb-row">
                             <ul class="breadcrumb">
@@ -68,7 +68,7 @@
                                             <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
                                             <polyline points="9 22 9 12 15 12 15 22"></polyline>
                                         </svg> Home</a></li>
-                                <li class="breadcrumb-item active" aria-current="page">Preventive Dentistry</li>
+                                <li class="breadcrumb-item active" aria-current="page">Restorative Dentistry</li>
                             </ul>
                         </nav>
                     </div>
@@ -89,14 +89,14 @@
 
                     <div class="col-lg-5 mb-10 text-center text-lg-left">
                         <div class="paroller">
-                            <img src="images/services/what-is-preventive-treatment-in-dentistry.jpg" alt="Sudden Cardiac Arrest (SCA)" class="shadows-box">
+                            <img src="images/services/what-is-restorative-treatment-in-dentistry.jpg" alt="Sudden Cardiac Arrest (SCA)" class="shadows-box">
                         </div>
                     </div>
 
                     <div class="col-lg-7 mb-10">
                         <div class="heading-bx">
-                            <h3 class="mb-3 pt-20" style="font-size: 26px;">What is Preventive Treatment in Dentistry?</h3>
-                            <p class="text-justify">Preventive treatment in dentistry is the practice of taking steps to prevent the development of dental diseases, such as tooth decay, gum disease, and other dental problems. This includes regular brushing and flossing, as well as other measures, such as professional dental cleanings, sealants, fluoride treatments, and proper nutrition.</p>
+                            <h3 class="mb-3 pt-20" style="font-size: 26px;">What is Restorative Treatment in Dentistry?</h3>
+                            <p class="text-justify">Restorative dentistry is a branch of dentistry that focuses on restoring damaged teeth back to their normal, functioning state. Treatments may include filling cavities,replacing missing teeth with implants or bridges, and repairing cracked or fractured teeth. It can also include cosmetic procedures, such as whitening, veneers, or reshaping.</p>
                         </div>
                     </div>
 
@@ -106,14 +106,14 @@
 
                     <div class="col-lg-7 mb-10">
                         <div class="heading-bx">
-                            <h3 class="mb-3 pt-20" style="font-size: 26px;">Who is Preventive Dentistry for?</h3>
-                            <p class="text-justify">Preventive dentistry is for everyone who wants to maintain healthy teeth and gums.It is especially important for children and seniors, who are at greater risk of developing dental problems due to age. Preventive dentistry includes regular cleanings, regular checkups, regular fluoride treatments, and sealants. It also includes good oral hygiene habits such as brushing and flossing.</p>
+                            <h3 class="mb-3 pt-20" style="font-size: 26px;">Who is Restorative Dentistry for?</h3>
+                            <p class="text-justify">Restorative dentistry is for anyone who is seeking to restore their oral health and/or cosmetic appearance.This includes anyone who has suffered decay, damage, or trauma to their teeth, as well as anyone looking to improve the overall look of their smile.Restorative dentistry can include a variety of treatments, including fillings,crowns,bridges, implants, and more.</p>
                         </div>
                     </div>
 
                     <div class="col-lg-5 mb-10 text-center text-lg-right order-first order-lg-last">
                         <div class="paroller">
-                            <img src="images/services/who-is-preventive-dentistry-for.jpg" alt="Cardiopulmonary Resuscitation (CPR)" class="shadows-box">
+                            <img src="images/services/who-is-restorative-dentistry-for.jpg" alt="Cardiopulmonary Resuscitation (CPR)" class="shadows-box">
                         </div>
                     </div>
 
@@ -123,14 +123,14 @@
 
                     <div class="col-lg-5 mb-10 text-center text-lg-left">
                         <div class="paroller">
-                            <img src="images/services/why-is-preventive-dentistry-so-important.jpg" alt="Sudden Cardiac Arrest (SCA)" class="shadows-box">
+                            <img src="images/services/why-is-restorative-dentistry-so-important.jpg" alt="Sudden Cardiac Arrest (SCA)" class="shadows-box">
                         </div>
                     </div>
 
                     <div class="col-lg-7 mb-10">
                         <div class="heading-bx">
-                            <h3 class="mb-3 pt-20" style="font-size: 26px;">Why is Preventive Dentistry so important?</h3>
-                            <p class="text-justify">Preventive dentistry is important because it helps to prevent the development of dental problems such as cavities, periodontal disease, and enamel wear. Good preventive dental habits, such as regular brushing and flossing, can help reduce the risk of developing these conditions. Additionally, preventive dentistry also helps to detect any issues early on, which can help reduce treatment costs and reduce the risk of long-term damage to the teeth.</p>
+                            <h3 class="mb-3 pt-20" style="font-size: 26px;">Why is Restorative Dentistry so important?</h3>
+                            <p class="text-justify">Restorative dentistry is important because it helps maintain the health,function, and aesthetics of your mouth. It can repair damaged teeth, replace missing teeth,and restore the structure of your mouth.Restorative dentistry can also help protect your overall health by preventing tooth decay, gum disease, and other dental issues.Additionally, it can help you maintain a beautiful, confident smile.</p>
                         </div>
                     </div>
 
@@ -141,14 +141,14 @@
 
                     <div class="col-lg-7 mb-10">
                         <div class="heading-bx">
-                            <h3 class="mb-3 pt-20" style="font-size: 26px;">What does Preventive Dentistry involve?</h3>
-                            <p class="text-justify">Preventive dentistry involves a variety of practices and techniques aimed at preventing the development of dental problems and maintaining your oral health. These practices include brushing and flossing your teeth at least twice a day, regular dental checkups and cleanings, using fluoride treatments to strengthen teeth, using sealants to protect teeth from decay, and avoiding sugary snacks and drinks.</p>
+                            <h3 class="mb-3 pt-20" style="font-size: 26px;">What does Restorative Dentistry involve?</h3>
+                            <p class="text-justify">Restorative dentistry is a branch of dentistry that focuses on the restoration of teeth,gums, and other parts of the mouth that have been damaged or lost due to decay,disease,injury, or other causes. It involves a variety of treatments such as fillings,crowns,bridges, implants, root canals, and dentures. The goal of restorative dentistry is to restore the health and function of the teeth and mouth, as well as improve the appearance of the smile.</p>
                         </div>
                     </div>
 
                     <div class="col-lg-5 mb-10 text-center text-lg-right order-first order-lg-last">
                         <div class="paroller">
-                            <img src="images/services/what-does-preventive-dentistry-involve.jpg.png" alt="Cardiopulmonary Resuscitation (CPR)" class="shadows-box">
+                            <img src="images/services/what-does-restorative-dentistry-involve_.jpg" alt="Cardiopulmonary Resuscitation (CPR)" class="shadows-box">
                         </div>
                     </div>
 

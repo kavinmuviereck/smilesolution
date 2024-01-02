@@ -4,26 +4,46 @@
 
 <head>
 	<title>Child Dentistry in Chrompet | Get Quality Dental Care for Kids</title>
-	<meta name="description" content="Discover advanced cardiac arrhythmia treatment by DrDCR in Chennai. Regain a steady heartbeat. Experience expert care that transforms lives.">
-	<meta name="keywords" content="Cardiac arrhythmia, heart rhythm disorder, cardiac rhythm disturbance, irregular heartbeat, atrial fibrillation, ventricular tachycardia, bradycardia, heart block, atrial flutter, palpitations, electrocardiogram, echocardiogram, pacemaker, ablation, defibrillator">
+	<meta name="description" content="Smile Solutions provides the best in child dentistry in Chrompet. We offer comprehensive treatments to ensure your child&#39;s dental health and hygiene.">
+	<meta name="keywords" content="Child dentistry in Chrompet, pediatric dentistry in Chrompet, dental care for kids in Chrompet, baby teeth care in Chrompet, Kids oral health in Chrompet, children's dental health in Chrompet, pediatric dentist in Chrompet, children's dental health in Chrompet">
 
 	<!-- OGTC -->
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="Best Cardiac Arrhythmia Specialist in Chennai - DrDCR">
-	<meta property="og:description" content="Discover advanced cardiac arrhythmia treatment by DrDCR in Chennai. Regain a steady heartbeat. Experience expert care that transforms lives.">
-	<meta property="og:url" content="https://www.drdcr.com/cardiac-arrhythmia.php">
-	<meta property="og:image" content="https://www.drdcr.com/new-images/cardiacarrythmiapage1.jpg">
+	<meta name="author" content="Muviereck">
+	<meta property="og:title" content="Kids' Smiles: Caring for Little Ones' Dental Health">
+	<meta property="og:description" content="Pediatric dentistry providing preventative and restorative care for children of all ages">
+	<meta property="og:url" content="https://smilesolutions.muviereck.com/children-dentistry-in-chromepet">
+	<meta property="og:site_name" content="Smile Solutions Family Dentistry">
+	<meta property="og:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
-	<meta property="og:site_name" content="DrDCR">
+	<meta property="og:locale" content="en_IN">
+	<meta property="og:type" content="website">
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Best Cardiac Arrhythmia Specialist in Chennai - DrDCR">
-	<meta property="twitter:description" content="Discover advanced cardiac arrhythmia treatment by DrDCR in Chennai. Regain a steady heartbeat. Experience expert care that transforms lives.">
-	<meta property="twitter:image:src" content="https://www.drdcr.com/new-images/cardiacarrythmiapage1.jpg">
-	<meta property="twitter:image:width" content="1200">
-	<meta property="twitter:image:height" content="630">
+	<meta name="twitter:title" content="Kids' Smiles: Caring for Little Ones' Dental Health">
+	<meta name="twitter:description" content="Pediatric dentistry providing preventative and restorative care for children of all ages">
+	<meta name="twitter:site" content="@Smilesolutions">
+	<meta name="twitter:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
+	<meta name="twitter:image:alt" content="Smile Solutions - Best Dental Clinic in Chrompet">
+	<meta name="twitter:creator" content="@smilesolutions">
 
-	<link rel="canonical" href="https://www.drdcr.com/cardiac-arrhythmia.php">
+	<link rel="canonical" href="https://smilesolutions.muviereck.com/children-dentistry-in-chromepet" />
+
+	<script>
+		(function(w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-N2ZQPNL');
+	</script>
 	<?php include "header.php"; ?>
 </head>
 
@@ -189,7 +209,7 @@
 
 					<h2 class="accordion-header" id="panelsStayOpen-headingchildtwo">
 						<button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
-						Pediatric Dental Procedures
+							Pediatric Dental Procedures
 
 						</button>
 					</h2>
@@ -678,7 +698,7 @@
 		</div>
 	</section>
 
-	<script type="application/ld+json">
+	<!-- <script type="application/ld+json">
 		{
 			"@context": "https://schema.org/",
 			"@type": "Product",
@@ -698,10 +718,10 @@
 				"ratingCount": "135"
 			}
 		}
-	</script>
+	</script> -->
 
 	<?php include "footer.php"; ?>
-	<script type="application/ld+json">
+	<!-- <script type="application/ld+json">
 		{
 			"@context": "https://schema.org",
 			"@type": "FAQPage",
@@ -810,7 +830,7 @@
 				}
 			}]
 		}
-	</script>
+	</script> -->
 </body>
 
 </html>

@@ -4,26 +4,45 @@
 
 <head>
     <title>Dental Crowns in Chrompet - Affordable & Quality Treatment</title>
-    <meta name="description" content="Discover Life-Saving Sudden Cardiac Arrest Treatment in Chennai at DrDCR. Act now for expert care and a healthier heart. Your future starts here!">
-    <meta name="keywords" content="Sudden Cardiac Arrest (SCA), Heart Attack, Cardiac Arrest, Cardiac Arrest Symptoms, Cardiac Arrest Causes, Cardiac Arrest Risk Factors, Cardiac Arrest Prevention, Cardiopulmonary Resuscitation (CPR), Automated External Defibrillator (AED), Cardiac Arrest Treatment, Cardiac Arrest Statistics">
+    <meta name="description" content="Get the best quality dental crowns for your teeth from our experienced dentists in Chrompet. Enjoy a lasting and natural-looking smile with custom-made crowns.">
+    <meta name="keywords" content="Dental Crowns in Chrompet, dental restoration in Chrompet, tooth-shaped caps in Chrompet, porcelain crowns in Chrompet, zirconia crowns in Chrompet, ceramic crowns in Chrompet, bridges in Chrompet, dental bridges in Chrompet, dental implants in Chrompet">
 
     <!-- OGTC -->
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Sudden Cardiac Arrest: A Life-Threatening Emergency">
-    <meta property="og:description" content="Sudden Cardiac Arrest is a life-threatening medical emergency where the heart suddenly stops beating, resulting in death if not treated immediately">
-    <meta property="og:url" content="https://www.drdcr.com/sudden-cardiac-arrest.php">
-    <meta property="og:image" content="https://www.drdcr.com/new-images/cardiopulmonaryresuscitation.png">
+    <meta name="author" content="Muviereck">
+    <meta property="og:title" content="Dental Crowns: Reinforce & Restore Teeth for a Healthy Smile">
+    <meta property="og:description" content="Dental crowns restore and protect damaged teeth, restoring natural tooth structure and appearance">
+    <meta property="og:url" content="https://smilesolutions.muviereck.com/dental-crowns-in-chromepet">
+    <meta property="og:site_name" content="Smile Solutions Family Dentistry">
+    <meta property="og:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
-    <meta property="og:site_name" content="DrDCR">
+    <meta property="og:locale" content="en_IN">
+    <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Sudden Cardiac Arrest: A Life-Threatening Emergency">
-    <meta property="twitter:description" content="Sudden Cardiac Arrest is a life-threatening medical emergency where the heart suddenly stops beating, resulting in death if not treated immediately">
-    <meta property="twitter:image:src" content="https://www.drdcr.com/new-images/cardiopulmonaryresuscitation.png">
-    <meta property="twitter:image:width" content="1200">
-    <meta property="twitter:image:height" content="630">
+    <meta name="twitter:title" content="Dental Crowns: Reinforce & Restore Teeth for a Healthy Smile">
+    <meta name="twitter:description" content="Dental crowns restore and protect damaged teeth, restoring natural tooth structure and appearance">
+    <meta name="twitter:site" content="@Smilesolutions">
+    <meta name="twitter:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
+    <meta name="twitter:image:alt" content="Dental Crowns">
+    <meta name="twitter:creator" content="@smilesolutions">
+    <link rel="canonical" href="https://smilesolutions.muviereck.com/dental-crowns-in-chromepet" />
 
-    <link rel="canonical" href="https://www.drdcr.com/sudden-cardiac-arrest.php">
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-N2ZQPNL');
+    </script>
     <?php include "header.php"; ?>
 </head>
 
@@ -115,7 +134,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h3 class="mb-3 pt-20" style="font-size: 26px;">What are various types of Dental Crowns?</h3>
+                    <h3 class="mb-3" style="font-size: 26px;">What are various types of Dental Crowns?</h3>
                     <ul class="list-check-squer mb-0">
                         <li class="qualification-font"><strong>Porcelain-fused-to-metal (PFM)</strong>
                             <p>This type of crown is made of two materials metal fused with porcelain. It is strong and has a natural-looking appearance.</p>
@@ -139,12 +158,12 @@
 
         <div class="container">
             <div class="accordion" id="accordionPanelsStayOpenExamplcrownsone">
-            <h3 class="mb-3 pt-20 text-center" style="font-size: 26px;">Do’s and Don’ts with Dental Crowns</h3>  
+                <h3 class="mb-3 pt-20 text-center" style="font-size: 26px;">Do’s and Don’ts with Dental Crowns</h3>
 
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="panelsStayOpen-headingcrownsone">
                         <button class="accordion-button collapsed card-color text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapsecrownsone" aria-expanded="false" aria-controls="panelsStayOpen-collapsecrownsone">
-                        DO's
+                            DO's
                         </button>
                     </h2>
                     <div id="panelsStayOpen-collapsecrownsone" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingone">
@@ -166,7 +185,7 @@
 
                     <h2 class="accordion-header" id="panelsStayOpen-headingcrownsthree">
                         <button class="accordion-button collapsed text-white" style="background-color:#1f2278 !important; z-index: 0;" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapsecrownsthree" aria-expanded="false" aria-controls="panelsStayOpen-collapsecrownsthree">
-                        DON'T
+                            DON'T
                         </button>
                     </h2>
                     <div id="panelsStayOpen-collapsecrownsthree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingthree">
@@ -187,13 +206,13 @@
         </div>
 
         <div class="container">
-			<div class="row">
-				<div class="col-12">
-					<h3 class="mb-3 pt-20" style="font-size: 26px;">How much do I have to Pay for Dental Bridges and Crowns?</h3>
-					<p>The cost of dental bridges and crowns can vary greatly depending on the type of bridge or crown being used, the materials used, and the location of the dental Clinic.</p>
-				</div>
-			</div>
-		</div>
+            <div class="row">
+                <div class="col-12">
+                    <h3 class="mb-3 pt-20" style="font-size: 26px;">How much do I have to Pay for Dental Bridges and Crowns?</h3>
+                    <p>The cost of dental bridges and crowns can vary greatly depending on the type of bridge or crown being used, the materials used, and the location of the dental Clinic.</p>
+                </div>
+            </div>
+        </div>
 
 
     </div>
@@ -320,7 +339,7 @@
             </div>
         </div>
     </section>
-    <script type="application/ld+json">
+    <!-- <script type="application/ld+json">
         {
             "@context": "https://schema.org/",
             "@type": "Product",
@@ -340,10 +359,10 @@
                 "ratingCount": "135"
             }
         }
-    </script>
+    </script> -->
 
     <?php include "footer.php"; ?>
-    <script type="application/ld+json">
+    <!-- <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "FAQPage",
@@ -521,7 +540,7 @@
                 }
             }]
         }
-    </script>
+    </script> -->
 </body>
 
 </html>

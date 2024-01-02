@@ -4,26 +4,46 @@
 
 <head>
 	<title>Implant Dentistry in Chrompet | Get Expert Care Services</title>
-	<meta name="description" content="Discover expert ICD implantation in Chennai by DrDCR. Safeguard your heart's rhythm with advanced care. Take a step towards a healthier future today.">
-	<meta name="keywords" content="ICD implantation, cardiac device, arrhythmia, pacemaker, defibrillator, heart rhythm, ventricular tachycardia, ventricular fibrillation, electrical stimulation, electrophysiology, cardiac ablation, transvenous lead, implantable cardioverter-defibrillator, cardiac resynchronization therapy">
+	<meta name="description" content="Rejuvenate your smile with Implant Dentistry at our Chrompet clinic. Our expert team provides safe, reliable, and painless treatments to restore your oral health." />
+    <meta name="keywords" content="Implant dentistry in Chrompet, dental implants in Chrompet, tooth replacement in Chrompet, dental restoration in Chrompet, dental crowns in Chrompet, dental bridges in Chrompet, dental implant surgery in Chrompet." />
 	
 	<!-- OGTC -->
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="Mastering Heart Health | DrDCR - Top ICD Implant Doctor Chennai">
-	<meta property="og:description" content="Discover expert ICD implantation in Chennai by DrDCR. Safeguard your heart's rhythm with advanced care. Take a step towards a healthier future today.">
-	<meta property="og:url" content="https://www.drdcr.com/ICD-implantation.php">
-	<meta property="og:image" content="https://www.drdcr.com/new-images/icdimplantation2.jpg">
-	<meta property="og:image:width" content="1200">
-	<meta property="og:image:height" content="630">
-	<meta property="og:site_name" content="DrDCR">
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Mastering Heart Health | DrDCR - Top ICD Implant Doctor Chennai">
-	<meta property="twitter:description" content="Discover expert ICD implantation in Chennai by DrDCR. Safeguard your heart's rhythm with advanced care. Take a step towards a healthier future today.">
-	<meta property="twitter:image:src" content="https://www.drdcr.com/new-images/icdimplantation2.jpg">
-	<meta property="twitter:image:width" content="1200">
-	<meta property="twitter:image:height" content="630">
-	
-	<link rel="canonical" href="https://www.drdcr.com/ICD-implantation.php">
+	<meta name="author" content="Muviereck" />
+    <meta property="og:title" content="Smile Again: Transform Your Life with Implant Dentistry">
+    <meta property="og:description" content="Implant dentistry offers a permanent solution to missing teeth, restoring your smile and confidence">
+    <meta property="og:url" content="https://smilesolutions.muviereck.com/implant-dentistry-in-chromepet">
+    <meta property="og:site_name" content="Smile Solutions Family Dentistry">
+    <meta property="og:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:locale" content="en_IN">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Smile Again: Transform Your Life with Implant Dentistry">
+    <meta name="twitter:description" content="Implant dentistry offers a permanent solution to missing teeth, restoring your smile and confidence">
+    <meta name="twitter:site" content="@Smilesolutions">
+    <meta name="twitter:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
+    <meta name="twitter:image:alt" content="Implant Dentistry in Chrompet">
+    <meta name="twitter:creator" content="@smilesolutions">
+
+    <link rel="canonical" href="https://smilesolutions.muviereck.com/implant-dentistry-in-chromepet" />
+
+	<script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-N2ZQPNL');
+    </script>
 	<?php include "header.php"; ?>
 </head>
 
@@ -580,7 +600,7 @@
 			</div>
         </section>
 
-	<script type="application/ld+json">
+	<!-- <script type="application/ld+json">
 		{
 		"@context": "https://schema.org/", 
 		"@type": "Product", 
@@ -600,9 +620,9 @@
 			"ratingCount": "135"
 		}
 		}
-	</script>
+	</script> -->
 <?php include "footer.php" ; ?>	
-  <script type="application/ld+json">
+  <!-- <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -683,6 +703,6 @@ ICDs are often suggested for people at high risk of sudden cardiac arrest or who
     }
   }]
 }
-</script>
+</script> -->
 </body>
 </html>

@@ -4,26 +4,47 @@
 
 <head>
 	<title>Sedation Dentistry in Chrompet: Get Relaxed Dental Care</title>
-	<meta name="description" content="Discover Life-Saving Sudden Cardiac Arrest Treatment in Chennai at DrDCR. Act now for expert care and a healthier heart. Your future starts here!">
-	<meta name="keywords" content="Sudden Cardiac Arrest (SCA), Heart Attack, Cardiac Arrest, Cardiac Arrest Symptoms, Cardiac Arrest Causes, Cardiac Arrest Risk Factors, Cardiac Arrest Prevention, Cardiopulmonary Resuscitation (CPR), Automated External Defibrillator (AED), Cardiac Arrest Treatment, Cardiac Arrest Statistics">
+	<meta name="description" content="Sedation dentistry in Chrompet: Get calm, comfortable and pain-free dental care with our experienced team. Enjoy a stress-free experience with sedation dentistry." />
+	<meta name="keywords" content="Sedation Dentistry in Chrompet, Sleep Dentistry in Chrompet, Dental Anxiety in Chrompet, Dental Sedation in Chrompet, Conscious Sedation in Chrompet, Nitrous Oxide in Chrompet, Oral Conscious Sedation in Chrompet, IV Sedation in Chrompet,Deep Sedation in Chrompet, Relaxing Dentistry in Chrompet" />
 
 	<!-- OGTC -->
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="Sudden Cardiac Arrest: A Life-Threatening Emergency">
-	<meta property="og:description" content="Sudden Cardiac Arrest is a life-threatening medical emergency where the heart suddenly stops beating, resulting in death if not treated immediately">
-	<meta property="og:url" content="https://www.drdcr.com/sudden-cardiac-arrest.php">
-	<meta property="og:image" content="https://www.drdcr.com/new-images/cardiopulmonaryresuscitation.png">
+	<meta name="author" content="Muviereck" />
+	<meta property="og:title" content="Relax & Rejuvenate: Experience Sedation Dentistry Today!">
+	<meta property="og:description" content="Sedation dentistry offers safe, comfortable dental care with minimal stress">
+	<meta property="og:url" content="https://smilesolutions.muviereck.com/sedation-dentistry-in-chromepet">
+	<meta property="og:site_name" content="Smile Solutions Family Dentistry">
+	<meta property="og:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
-	<meta property="og:site_name" content="DrDCR">
+	<meta property="og:locale" content="en_IN">
+	<meta property="og:type" content="website">
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Sudden Cardiac Arrest: A Life-Threatening Emergency">
-	<meta property="twitter:description" content="Sudden Cardiac Arrest is a life-threatening medical emergency where the heart suddenly stops beating, resulting in death if not treated immediately">
-	<meta property="twitter:image:src" content="https://www.drdcr.com/new-images/cardiopulmonaryresuscitation.png">
-	<meta property="twitter:image:width" content="1200">
-	<meta property="twitter:image:height" content="630">
+	<meta name="twitter:title" content="Relax & Rejuvenate: Experience Sedation Dentistry Today!">
+	<meta name="twitter:description" content="Sedation dentistry offers safe, comfortable dental care with minimal stress">
+	<meta name="twitter:site" content="@Smilesolutions">
+	<meta name="twitter:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
+	<meta name="twitter:image:alt" content="Sedation Dentistry">
+	<meta name="twitter:creator" content="@smilesolutions">
 
-	<link rel="canonical" href="https://www.drdcr.com/sudden-cardiac-arrest.php">
+
+	<link rel="canonical" href="https://smilesolutions.muviereck.com/sedation-dentistry-in-chromepet" />
+
+	<script>
+		(function(w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-N2ZQPNL');
+	</script>
 	<?php include "header.php"; ?>
 </head>
 
@@ -184,10 +205,18 @@
 				<div class="col-12">
 					<h3 class="mb-3 pt-20" style="font-size: 26px;">What are the different types of dental sedation?</h3>
 					<ul class="list-check-squer mb-0">
-						<li class="qualification-font"><strong>Inhaled Sedation</strong><p>This type of sedation is administered through a face mask and involves the use of nitrous oxide, also known as laughing gas.</p></li>
-						<li class="qualification-font"><strong>Oral Sedation</strong><p>Oral sedation involves taking a pill or liquid prior to the appointment. This type of sedation is usually mild and provides a relaxed feeling.</p></li>
-						<li class="qualification-font"><strong>Intravenous Sedation</strong><p>Intravenous sedation, also known as IV sedation, is administered directly into the bloodstream and is more powerful than oral sedation.</p></li>
-						<li class="qualification-font"><strong>General Anesthesia</strong><p>General anesthesia is a deep sedation that is administered through an IV. This type of sedation is used for more extensive and invasive procedures.</p></li>
+						<li class="qualification-font"><strong>Inhaled Sedation</strong>
+							<p>This type of sedation is administered through a face mask and involves the use of nitrous oxide, also known as laughing gas.</p>
+						</li>
+						<li class="qualification-font"><strong>Oral Sedation</strong>
+							<p>Oral sedation involves taking a pill or liquid prior to the appointment. This type of sedation is usually mild and provides a relaxed feeling.</p>
+						</li>
+						<li class="qualification-font"><strong>Intravenous Sedation</strong>
+							<p>Intravenous sedation, also known as IV sedation, is administered directly into the bloodstream and is more powerful than oral sedation.</p>
+						</li>
+						<li class="qualification-font"><strong>General Anesthesia</strong>
+							<p>General anesthesia is a deep sedation that is administered through an IV. This type of sedation is used for more extensive and invasive procedures.</p>
+						</li>
 					</ul>
 				</div>
 			</div>
@@ -200,7 +229,9 @@
 				<div class="col-12">
 					<h3 class="mb-3 pt-20" style="font-size: 26px;">How long does the effect of oral sedation last?</h3>
 					<ul class="list-check-squer mb-0">
-						<li class="qualification-font"><p>The effects of oral sedation typically last for four to six hours.</p></li>
+						<li class="qualification-font">
+							<p>The effects of oral sedation typically last for four to six hours.</p>
+						</li>
 					</ul>
 				</div>
 			</div>
@@ -340,7 +371,7 @@
 			</div>
 		</div>
 	</section>
-	<script type="application/ld+json">
+	<!-- <script type="application/ld+json">
 		{
 			"@context": "https://schema.org/",
 			"@type": "Product",
@@ -360,10 +391,10 @@
 				"ratingCount": "135"
 			}
 		}
-	</script>
+	</script> -->
 
 	<?php include "footer.php"; ?>
-	<script type="application/ld+json">
+	<!-- <script type="application/ld+json">
 		{
 			"@context": "https://schema.org",
 			"@type": "FAQPage",
@@ -541,7 +572,7 @@
 				}
 			}]
 		}
-	</script>
+	</script> -->
 </body>
 
 </html>

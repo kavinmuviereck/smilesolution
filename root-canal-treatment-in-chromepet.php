@@ -10,33 +10,50 @@
 
 	<title>Root Canal Treatment in Chrompet: Painless, Safe &amp; Affordable</title>
 
-	<meta name="description" content="Meet DrDCR: Your Go-To Pacemaker Specialist in Chennai. Ready to improve your heart's rhythm? Book your consultation now!">
-
-	<meta name="keywords" content="Pacemaker Specialist in Chennai, Pacemaker Treatment in Chennai, Best Pacemaker Surgeon in Chennai, Cardiologist Pacemaker Specialist in Chennai, Pacemaker Specialist near me, Pacemaker Specialist Cardiologist in Chennai, Pacemaker heart Specialist in Chennai, Pacemaker Implantation Specialist in Chennai">
+	<meta name="description" content="Root Canal Treatment in Chrompet: Our experienced and professional dentists provide comprehensive root canal treatment for pain relief and to save your teeth." />
+    <meta name="keywords" content="Root canal treatment in Chrompet, root canal therapy in Chrompet, endodontic treatment in Chrompet, endodontic therapy in Chrompet, endodontist in Chrompet, root canal treatment procedure in Chrompet." />
 
 
 
 	<!-- OGTC -->
 
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="Meet DrDCR - Your Trusted Pacemaker Specialist in Chennai">
-	<meta property="og:description" content="Trust DrDCR for Top Pacemaker Care in Chennai">
-	<meta property="og:url" content="https://www.drdcr.com/pacemaker-implantation.php">
-	<meta property="og:image" content="https://www.drdcr.com/new-images/PacemakerImplantationpage1.jpg">
-	<meta property="og:image:width" content="1200">
-	<meta property="og:image:height" content="630">
-	<meta property="og:site_name" content="DrDCR">
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Pacemaker Specialist in Chennai - DrDCR">
-	<meta property="twitter:description" content="Your Heart's Best Friend in Chennai - DrDCR, the Pacemaker Specialist. Click to schedule a consultation for a healthier life">
-	<meta property="twitter:image:src" content="https://www.drdcr.com/new-images/PacemakerImplantationpage1.jpg">
-	<meta property="twitter:image:width" content="1200">
-	<meta property="twitter:image:height" content="630">
-	<link rel="canonical" href="https://www.drdcr.com/pacemaker-implantation.php">
+	<meta name="author" content="Muviereck" />
+    <meta property="og:title" content="Root Canal: Get Relief from Painful Tooth Infection">
+    <meta property="og:description" content="Root canal treatment repairs and saves a damaged, decayed or infected tooth">
+    <meta property="og:url" content="https://smilesolutions.muviereck.com/root-canal-treatment-in-chromepet">
+    <meta property="og:site_name" content="Smile Solutions Family Dentistry">
+    <meta property="og:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:locale" content="en_IN">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Root Canal: Get Relief from Painful Tooth Infection">
+    <meta name="twitter:description" content="Root canal treatment repairs and saves a damaged, decayed or infected tooth">
+    <meta name="twitter:site" content="@Smilesolutions">
+    <meta name="twitter:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
+    <meta name="twitter:image:alt" content="Root Canal Treatment Chrompet">
+    <meta name="twitter:creator" content="@smilesolutions">
 
 
+    <link rel="canonical" href="https://smilesolutions.muviereck.com/root-canal-treatment-in-chromepet" />
 
-	<link rel="canonical" href="https://www.drdcr.com/pacemaker-implantation.php">
+	<script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-N2ZQPNL');
+    </script>
 
 	<?php include "header.php"; ?>
 
@@ -1168,7 +1185,7 @@
 
 
 
-	<script type="application/ld+json">
+	<!-- <script type="application/ld+json">
 		{
 
 			"@context": "https://schema.org/",
@@ -1206,10 +1223,10 @@
 			}
 
 		}
-	</script>
+	</script> -->
 
 	<?php include "footer.php"; ?>
-	<script type="application/ld+json">
+	<!-- <script type="application/ld+json">
 		{
 			"@context": "https://schema.org",
 			"@type": "FAQPage",
@@ -1285,7 +1302,7 @@
 				}
 			}]
 		}
-	</script>
+	</script> -->
 </body>
 
 </html>
