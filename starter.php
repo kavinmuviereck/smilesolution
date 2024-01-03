@@ -77,8 +77,8 @@ if (isset($_POST['send_contacts'])) {
     $mail->isSMTP();                            // Set mailer to use SMTP 
     $mail->Host = 'smtp.gmail.com';           // Specify main and backup SMTP servers 
     $mail->SMTPAuth = true;                     // Enable SMTP authentication 
-    $mail->Username = 'ajay@muvierecktech.com';       // SMTP username 
-    $mail->Password = 'akykealyyeznpxte';         // SMTP password 
+    $mail->Username = 'prasanth@muvierecktech.com';       // SMTP username 
+    $mail->Password = 'tprplvbvizpceqyt';         // SMTP password 
 
     // $mail->Password = 'Virat@0806';         // SMTP password 
     $mail->SMTPSecure = 'tls';                  // Enable TLS encryption, `ssl` also accepted 
@@ -86,10 +86,10 @@ if (isset($_POST['send_contacts'])) {
 
   
     // Sender info 
-    $mail->setFrom('ajay@muvierecktech.com', 'Doctordcr');
+    $mail->setFrom('prasanth@muvierecktech.com', 'Smilesolution');
 
     // Add a recipient 
-    $mail->addAddress('ajay@muvierecktech.com');
+    $mail->addAddress('prasanth@muvierecktech.com');
 
 
 
@@ -113,7 +113,7 @@ if (isset($_POST['send_contacts'])) {
         $save['name']    = $_POST['name'];
         $save['email']    = $_POST['email'];
         $save['phone']   = $_POST['mobile'];
-        $save['subject']   = $_POST['subject'];
+        // $save['subject']   = $_POST['subject'];
         $save['message']  = $_POST['message'];
 
         $set = $db->insertAry("contact", $save);
@@ -185,8 +185,8 @@ if (isset($_POST['contacts_send'])) {
     $mail->isSMTP();                            // Set mailer to use SMTP 
     $mail->Host = 'smtp.gmail.com';           // Specify main and backup SMTP servers 
     $mail->SMTPAuth = true;                     // Enable SMTP authentication 
-    $mail->Username = 'ajay@muvierecktech.com';       // SMTP username 
-    $mail->Password = 'akykealyyeznpxte';         // SMTP password 
+    $mail->Username = 'prasanth@muvierecktech.com';       // SMTP username 
+    $mail->Password = 'tprplvbvizpceqyt';         // SMTP password 
 
     // $mail->Password = 'Virat@0806';         // SMTP password 
     $mail->SMTPSecure = 'tls';                  // Enable TLS encryption, `ssl` also accepted 
@@ -194,10 +194,10 @@ if (isset($_POST['contacts_send'])) {
 
   
     // Sender info 
-    $mail->setFrom('ajay@muvierecktech.com', 'Doctordcr');
+    $mail->setFrom('prasanth@muvierecktech.com', 'Smilesolution');
 
     // Add a recipient 
-    $mail->addAddress('ajay@muvierecktech.com');
+    $mail->addAddress('prasanth@muvierecktech.com');
 
 
 

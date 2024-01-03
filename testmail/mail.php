@@ -10,9 +10,9 @@ $SMTPSecure = "ssl";
 
 $Port = 25;
 
-$Username = "vinoth@muvierecktech.com";
+$Username = "prasanth@muvierecktech.com";
 
-$Password = "Vinothmovie4512";
+$Password = "tprplvbvizpceqyt";
 
 $From = "vinoth";
 

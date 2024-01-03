@@ -48,20 +48,50 @@ function mysql_escape_mimic($inp) {
 }
 
 
+// if(isset($_POST)){
+//         foreach($_POST as $pstkey => $pstvalue){
+//           if($pstkey!="description" && $pstkey!="full_descp"){	
+//             if($pstkey!="description" && $pstkey!="full_descp"){
+//             foreach($_POST[$pstkey] as $pstkey1 => $pstvalue1){
+//               $_POST[$pstkey][$pstkey1] = mysql_escape_mimic(xss_clean($_POST[$pstkey][$pstkey1]));
+//             }
+//           }
+//           else{
+//             $_POST[$pstkey] = mysql_escape_mimic(xss_clean($_POST[$pstkey]));
+//           }
+//         }
+//       }
+//       }
+
+
 if(isset($_POST)){
-        foreach($_POST as $pstkey => $pstvalue){
-          if($pstkey!="description" && $pstkey!="full_descp"){	
-            if($pstkey!="description" && $pstkey!="full_descp"){
-            foreach($_POST[$pstkey] as $pstkey1 => $pstvalue1){
-              $_POST[$pstkey][$pstkey1] = mysql_escape_mimic(xss_clean($_POST[$pstkey][$pstkey1]));
-            }
-          }
-          else{
-            $_POST[$pstkey] = mysql_escape_mimic(xss_clean($_POST[$pstkey]));
-          }
-        }
+
+  foreach($_POST as $pstkey => $pstvalue){
+
+    if($_POST[$pstkey]=="description"){	
+
+    if(is_array($_POST[$pstkey])){
+
+      foreach($_POST[$pstkey] as $pstkey1 => $pstvalue1){
+
+        $_POST[$pstkey][$pstkey1] = mysql_escape_mimic(xss_clean($_POST[$pstkey][$pstkey1]));
+
       }
-      }
+
+    }
+
+    else{
+
+      $_POST[$pstkey] = mysql_escape_mimic(xss_clean($_POST[$pstkey]));
+
+    }
+
+  }
+
+}
+
+}
+
 
 
 

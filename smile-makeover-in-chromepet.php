@@ -117,24 +117,6 @@
 
 				</div>
 
-
-				<!-- <div class="row align-items-center">
-
-					<div class="col-lg-5 mb-10 text-center text-lg-left">
-						<div class="paroller">
-							<img src="new-images/about-us-2.jpg" alt="">
-						</div>
-					</div>
-					
-					<div class="col-lg-7 mb-10">
-						<div class="heading-bx">
-							<p class="text-justify">Dr. DCR is devoted to listening, explaining and working closely with each of his patients. He carefully vets the severity of the condition, the underlying cause, and the patient's overall health to reduce any risk of complication. It's important to work with a cardiac surgeon near me who can determine the best management strategy for your individual situation.Please refer to links below to learn more about the strategies employed by Dr. DCR to manage his patients with AF. Schedule an appointment with the top-tier heart specialist doctor in Chennai and stay on top of your heart.</p>
-						</div>
-					</div>
-
-				</div> -->
-
-
 			</div>
 			<!-- <img class="pt-img1 animate-wave" src="images/shap/wave-orange.png" alt="">
 			<img class="pt-img2 animate2" src="images/shap/circle-small-blue.png" alt="">
@@ -253,74 +235,6 @@
 	</div>
 
 
-	<!-- <section>
-		<div class="mb-5">
-			<h3 class="text-center">Cases performed By DR DCR</h3>
-		</div>
-		</?php $details = $db->getRows("SELECT * FROM cases_performed WHERE type='Ventricular-Tachycardia-Treatment' ORDER BY id DESC "); ?>
-		<div class="container">
-			</?php if (count($details) > 0) {
-				foreach ($details as $client_data) {
-					$convertedImgPath = str_replace('../', '', $client_data['image']);
-			?>
-					<div class="row p-5 mb-5" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
-						<div class="col-md-4">
-							<div style="width: 250px; height: 250px;">
-								<img src="</?= $convertedImgPath ?>" style="width: 100%; height: 100%;" alt="" class="shadows-box">
-
-							</div>
-						</div>
-						<div class="col-md-8">
-							<h4></?= ($client_data["tittle"]) ?></h4>
-							<p></?= ($client_data["content"]) ?></p>
-						</div>
-					</div>
-
-				</?php }
-			} else { ?>
-				<div>
-					<h3 class="text-center">NO Data To Show</h3>
-				</div>
-			</?php } ?>
-			<br>
-		</div>
-	</section>
-	<br>
-
-
-	<section>
-		<div class="container">
-			<div class="mb-5">
-				<h3 class="">Ventricular Tachycardia Treatment Gallery</h3>
-			</div>
-
-			<div class="row">
-
-				<div class="col-md-6 mb-30 text-center">
-					<a href="speciality-gallery-images.php?type=Ventricular-Tachycardia-Treatment">
-						<div>
-							<img src="new-images/dcr-images-folder.jpg" alt="">
-						</div>
-						<div>
-							<h3 class="title mt-3">Images</h3>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-6 mb-30 text-center">
-					<a href="speciality-gallery-videos.php?type=Ventricular-Tachycardia-Treatment">
-						<div>
-							<img src="new-images/dcr-videos-folder.jpg" alt="">
-						</div>
-						<div>
-							<h3 class="title mt-3">Videos</h3>
-						</div>
-					</a>
-				</div>
-
-			</div>
-		</div>
-	</section> -->
-
 	<br><br><br>
 	<section class="">
 		<div class="container-fluid mt-100">
@@ -372,85 +286,8 @@
 			</div>
 		</div>
 	</section>
-	<!-- <script type="application/ld+json">
-		{
-			"@context": "https://schema.org/",
-			"@type": "Product",
-			"name": "Ventricular Tachycardia Treatment",
-			"image": "https://www.drdcr.com/new-images/3dnavigationsystemsandintracardiacecho.jpg",
-			"description": "Ventricular tachycardia treatment may include meds, ablation, pacemakers, and lifestyle changes to help reduce symptoms and lower the risk of complications.",
-			"brand": {
-				"@type": "Brand",
-				"name": "DrDCR"
-			},
-			"sku": "0009",
-			"aggregateRating": {
-				"@type": "AggregateRating",
-				"ratingValue": "5",
-				"bestRating": "5",
-				"worstRating": "5",
-				"ratingCount": "135"
-			}
-		}
-	</script> -->
 	<?php include "footer.php"; ?>
 
-	<!-- <script type="application/ld+json">
-		{
-			"@context": "https://schema.org",
-			"@type": "FAQPage",
-			"mainEntity": [{
-				"@type": "Question",
-				"name": "What is the best treatment for ventricular tachycardia?",
-				"acceptedAnswer": {
-					"@type": "Answer",
-					"text": "Treatment options for ventricular tachycardia include cardioversion, antiarrhythmic medications, or implantable cardioverter-defibrillators (ICDs) tailored to the patient's specific needs and underlying causes."
-				}
-			}, {
-				"@type": "Question",
-				"name": "What is the first-line treatment for ventricular tachycardia?",
-				"acceptedAnswer": {
-					"@type": "Answer",
-					"text": "The first-line treatment for ventricular tachycardia often involves rapid cardioversion using medications like lidocaine or amiodarone. However, individual patient factors and the type of VT play a role in the treatment choice."
-				}
-			}, {
-				"@type": "Question",
-				"name": "What is the emergency treatment for ventricular tachycardia?",
-				"acceptedAnswer": {
-					"@type": "Answer",
-					"text": "Emergency treatment for ventricular tachycardia involves immediate cardioversion, which delivers an electric shock to the heart to restore normal rhythm. This is crucial in life-threatening cases to prevent cardiac arrest and should be administered by healthcare professionals."
-				}
-			}, {
-				"@type": "Question",
-				"name": "Can ventricular tachycardia be cured?",
-				"acceptedAnswer": {
-					"@type": "Answer",
-					"text": "Ventricular tachycardia can sometimes be cured with catheter ablation, which targets the abnormal heart tissue causing the arrhythmia. However, the success rate varies depending on the underlying cause and individual factors. Long-term management is often necessary."
-				}
-			}, {
-				"@type": "Question",
-				"name": "Can you live a normal life with ventricular tachycardia?",
-				"acceptedAnswer": {
-					"@type": "Answer",
-					"text": "People with ventricular tachycardia can lead normal lives with proper treatment and monitoring. Lifestyle changes, medications, and, in some cases, medical devices like implantable defibrillators can help manage the condition and reduce the risk of life-threatening events. Regular medical follow-up is essential."
-				}
-			}, {
-				"@type": "Question",
-				"name": "What is the survival rate for ventricular tachycardia?",
-				"acceptedAnswer": {
-					"@type": "Answer",
-					"text": "The survival rate for ventricular tachycardia varies widely based on factors such as prompt treatment and underlying causes. Immediate intervention can improve survival, but it can be life-threatening without treatment."
-				}
-			}, {
-				"@type": "Question",
-				"name": "What is the average age for ventricular tachycardia?",
-				"acceptedAnswer": {
-					"@type": "Answer",
-					"text": "Ventricular tachycardia can occur at any age, but it's more common in older adults with underlying heart conditions. It can also affect younger individuals, especially if they have congenital heart issues or other risk factors. Age varies widely among those diagnosed with VT."
-				}
-			}]
-		}
-	</script> -->
 </body>
 
 </html>

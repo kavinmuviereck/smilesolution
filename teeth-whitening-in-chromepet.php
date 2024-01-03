@@ -173,68 +173,6 @@
 
 	</div>
 
-	<!-- <section>
-		<div class="mb-5">
-			<h3 class="text-center">Cases performed By DR DCR</h3>
-		</div>
-		</?php $details= $db->getRows("SELECT * FROM cases_performed WHERE type='Atrial-Fibrillation-Management' ORDER BY id DESC "); ?>
-	<div class="container">
-	 </?php if (count($details)>0){
-			     foreach($details as $client_data) {
-            $convertedImgPath = str_replace('../', '', $client_data['image']);
-            ?>
-		<div class="row p-5 mb-5" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
-			<div class="col-md-4">
-				<div>
-				<img src="</?= $convertedImgPath ?>" style="width: 100%; height: 100%;" alt="" class="shadows-box">
-
-				</div>
-			</div>
-			<div class="col-md-8">
-				<h4></?= ($client_data["tittle"]) ?></h4>
-				<p></?= ($client_data["content"]) ?></p>			
-		</div>
-		</div>
-
-		</?php }} else{?>
-			<div><h3 class="text-center">NO Data To Show</h3></div>
-			</?php }?>
-			<br>
-	</div>
-	</section>
-
-<section>
-	<div class="container">
-		<div class="mb-5">
-			<h3 class="">Atrial Fibrillation Management Gallery</h3>
-		</div>
-
-		<div class="row">
-				
-			<div class="col-md-6 mb-30 text-center">
-				<a href="speciality-gallery-images.php?type=Atrial-Fibrillation-Management">
-					<div>
-						<img src="new-images/dcr-images-folder.jpg" alt="">
-					</div>
-					<div>
-						<h3 class="title mt-3">Images</h3>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6 mb-30 text-center">
-				<a href="speciality-gallery-videos.php?type=Atrial-Fibrillation-Management">
-					<div>
-						<img src="new-images/dcr-videos-folder.jpg" alt="">
-					</div>
-					<div>
-						<h3 class="title mt-3">Videos</h3>
-					</div>
-				</a>
-			</div>
-
-		</div>
-	</div>
-</section> -->
 
 	<br><br><br>
 	<section class="">
@@ -288,27 +226,6 @@
 		</div>
 	</section>
 
-	<script type="application/ld+json">
-		{
-			"@context": "https://schema.org/",
-			"@type": "Product",
-			"name": "Atrial Fibrillation Management",
-			"image": "https://www.drdcr.com/new-images/3dnavigationelectrophysiologysystem.jpg",
-			"description": "Atrial fibrillation management helps individuals control their symptoms and reduce the risk of stroke, using lifestyle changes, medications, and other therapies.",
-			"brand": {
-				"@type": "Brand",
-				"name": "DrDCR"
-			},
-			"sku": "0008",
-			"aggregateRating": {
-				"@type": "AggregateRating",
-				"ratingValue": "5",
-				"bestRating": "5",
-				"worstRating": "5",
-				"ratingCount": "135"
-			}
-		}
-	</script>
 
 	<?php include "footer.php"; ?>
 </body>
