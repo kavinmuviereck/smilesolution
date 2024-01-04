@@ -265,25 +265,6 @@
 		});
 	</script>
 
-	<script type="application/ld+json">
-		{
-			"@context": "https://schema.org/",
-			"@type": "Person",
-			"name": "Dr. Deep Chandh Raja (DCR)",
-			"url": "https://www.smilesolutions.com/about-us.php",
-			"image": "https://www.smilesolutions.com/images/about/2aboutus2.png",
-			"sameAs": [
-				"https://www.facebook.com/profile.php?id=100089147133660&mibextid=ZbWKwL",
-				"https://twitter.com/Dr_DCR_EP",
-				"https://www.instagram.com/dr_dcr/"
-			],
-			"jobTitle": "Cardiac Electrophysiology",
-			"worksFor": {
-				"@type": "Organization",
-				"name": "Raja Super Speciality Clinic"
-			}
-		}
-	</script>
 	<?php include "footer.php"; ?>
 </body>
 

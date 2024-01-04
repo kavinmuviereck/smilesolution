@@ -3,27 +3,32 @@
 <html lang="en">
 
 <head>
-	<title>Best Heart Specialist in Chennai - DrDCR</title>
-	<meta name="description" content="Meet DrDCR - Your Trusted Heart Specialist in Chennai. Elevate your heart health today. Schedule an appointment for expert care and a healthier tomorrow.">
-	<meta name="keywords" content="Heart Specialist in Chennai, Best Cardiologist in Chennai, Top Heart Care Clinic in Chennai, Affordable Cardiac Care in Chennai, Experienced Cardiac Surgeon in Chennai, Best Cardiac Treatment in Chennai, Excellent Heart Care Hospital in Chennai, Best Cardiologist for Heart Diseases in Chennai">
-	
-	<!-- OGTC -->
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="Best Heart Specialist in Chennai - DrDCR">
-	<meta property="og:description" content="Meet DrDCR - Your Trusted Heart Specialist in Chennai. Elevate your heart health today. Schedule an appointment for expert care and a healthier tomorrow.">
-	<meta property="og:url" content="https://www.drdcr.com/contact-us.php">
-	<meta property="og:image" content="https://www.drdcr.com/new-images/doctor4.png">
-	<meta property="og:image:width" content="1200">
-	<meta property="og:image:height" content="630">
-	<meta property="og:site_name" content="DrDCR">
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Best Heart Specialist in Chennai - DrDCR">
-	<meta property="twitter:description" content="Meet DrDCR - Your Trusted Heart Specialist in Chennai. Elevate your heart health today. Schedule an appointment for expert care and a healthier tomorrow.">
-	<meta property="twitter:image:src" content="https://www.drdcr.com/new-images/doctor4.png">
-	<meta property="twitter:image:width" content="1200">
-	<meta property="twitter:image:height" content="630">
+<title>Contact Us</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-	<link rel="canonical" href="https://www.drdcr.com/contact-us.php">
+<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+<meta name="description" content="Dental bridges are a permanent solution to replace missing teeth. We offer customized
+bridges to help restore your smile and give you back your confidence.">
+<meta name="keywords" content="Dental bridge in Chrompet, false tooth treatment in Chrompet, bridge replacement in Chrompet, bridge restoration in Chrompet, replacement tooth in Chrompet, dental treatment in Chrompet, dental implant in Chrompet, false tooth replacement in Chrompet, tooth replacement in Chrompet">
+<meta name="author" content="Muviereck">
+<meta property="og:title" content="Dental Bridges: Get a Strong, Natural-Looking Smile!">
+<meta property="og:description" content="Dental bridges fill gaps from missing teeth, restoring your smile and bite">
+<meta property="og:url" content="https://smilesolutions.muviereck.com/dental-bridges-in-chromepet">
+<meta property="og:site_name" content="Smile Solutions Family Dentistry">
+<meta property="og:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="en_IN">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Dental Bridges: Get a Strong, Natural-Looking Smile!">
+<meta name="twitter:description" content="Dental bridges fill gaps from missing teeth, restoring your smile and bite">
+<meta name="twitter:site" content="@Smilesolutions">
+<meta name="twitter:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
+<meta name="twitter:image:alt" content="Dental Bridges in Chrompet">
+<meta name="twitter:creator" content="@smilesolutions">
+
+<link rel="canonical" href="https://smilesolutions.muviereck.com/contact-us" />
 	<?php include "header.php"; ?>
 </head>
 
@@ -75,22 +80,12 @@
 									<div class="form-group col-md-12">
 										<input name="email" type="email" required class="form-control" placeholder="Email"  pattern="^[a-zA-Z][a-zA-Z0-9]+@([-a-zA-Z0-9]+\.)[a-zA-Z]{2,5}$">
 									</div>
-									
-									<!-- <div class="form-group col-md-6">
-										
-										<input name="subject" type="text" required class="form-control" placeholder="Subject*" pattern="^[a-zA-Z][ a-zA-Z0-9]+$">
-
-									</div> -->
+		
 									<div class="form-group col-md-12">
 										<!-- <input name="message" required class="form-control" placeholder="Type Message" pattern="^[a-zA-Z][ a-zA-Z0-9]+$"></input> -->
 										<textarea name="message" required class="form-control" placeholder="Type Message*"  id="myTextarea"></textarea>
 									</div>
-									<!-- <div class="form-group col-md-12">
-										<div class="input-group">
-											<div class="g-recaptcha" data-sitekey="6Lf2gYwUAAAAAJLxwnZTvpJqbYFWqVyzE-8BWhVe" data-callback="verifyRecaptchaCallback" data-expired-callback="expiredRecaptchaCallback"></div>
-											<input class="form-control d-none" style="display:none;" data-recaptcha="true" required data-error="Please complete the Captcha">
-										</div>
-									</div> --> 
+									
 									
 									<div class="col-lg-12">
 									<br><br>
@@ -114,14 +109,7 @@
 										<a href="tel:044-43575349"><p class="text-white mb-0">044-43575349</p></a>
 										<a href="tel:9384877610"><p class="text-white">+91- 9384877610</p></a>
 									</div>
-									<!-- <div class="icon-box">
-										<h6 class="title"><i class="ti-world"></i>Follow Us</h6>
-										<ul class="social-media">
-											<li><a target="_blank" href="https://twitter.com/"><i class="fab fa-twitter"></i></a></li>
-											<li><a target="_blank" href="https://www.linkedin.com/"><i class="fab fa-linkedin"></i></a></li>
-											<li><a target="_blank" href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a></li>
-										</ul>
-									</div> -->
+								
 								</div>
 							</div>
 						</div>
@@ -223,62 +211,7 @@
 
 </script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "MedicalClinic",
-  "name": "DrDCR",
-  "image": "https://www.drdcr.com/new-images/doctor3.pngnew-images/doctor3.png",
-  "@id": "",
-  "url": "https://www.drdcr.com/",
-  "telephone": [
-    "8608601590",
-    "9043632236"
-  ],
-  "priceRange": "Get Quote",
-  "address": [{
-    "@type": "PostalAddress",
-    "streetAddress": "No.199, Luz Church Road Mylapore,",
-    "addressLocality": "Chennai",
-    "postalCode": "600004",
-    "addressCountry": "IN"
-  },{
-    "@type": "PostalAddress",
-    "streetAddress": "Plot no 1, Nolambur Phase 1, VGN Nagar Phase 1, Nolambur, Ambattur Industrial Estate,",
-    "addressLocality": "Chennai",
-    "postalCode": "600037",
-    "addressCountry": "IN"
-  }],
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 13.0384867,
-    "longitude": 80.2572727
-  },
-  "openingHoursSpecification": [{
-    "@type": "OpeningHoursSpecification",
-    "dayOfWeek": [
-      "Monday",
-      "Tuesday",
-      "Wednesday",
-      "Thursday",
-      "Friday",
-      "Saturday"
-    ],
-    "opens": "00:00",
-    "closes": "24:00"
-  },{
-    "@type": "OpeningHoursSpecification",
-    "dayOfWeek": "Saturday",
-    "opens": "07:00",
-    "closes": "08:30"
-  }],
-  "sameAs": [
-    "https://twitter.com/Dr_DCR_EP",
-    "https://www.facebook.com/profile.php?id=100089147133660&mibextid=ZbWKwL",
-    "https://www.instagram.com/dr_dcr/"
-  ] 
-}
-</script>
+
 
 <?php include "footer.php" ?>
 </body>

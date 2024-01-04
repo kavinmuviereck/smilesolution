@@ -3,28 +3,30 @@
 <html lang="en">
 
 <head>
+<title>Dental Testimonials: What Our Patients Have to Say</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+<meta name="description" content="Read real-life stories from patients who have had successful dental procedures from us.Get informed on the options available for you and make an informed decision.">
+<meta name="keywords" content="Dental Testimonial, Dental Reviews, Dental clinic in Chrompet, Dental Clinic in Chromepet, Dental Care in Chrompet, Dental Hospital in Chrompet, Dentist in Chrompet, Dentistry in Chrompet, Dental Services in Chrompet">
+<meta name="author" content="Muviereck">
+<meta property="og:title" content="Smiling Customers: Read Our Dental Clinic Testiminials!">
+<meta property="og:description" content="Increase your dental practice's trustworthiness with our patient testimonials">
+<meta property="og:url" content="https://smilesolutions.muviereck.com/testimonial">
+<meta property="og:site_name" content="Smile Solutions Family Dentistry">
+<meta property="og:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="en_IN">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Smiling Customers: Read Our Dental Clinic Testiminials!">
+<meta name="twitter:description" content="Increase your dental practice's trustworthiness with our patient testimonials">
+<meta name="twitter:site" content="@Smilesolutions">
+<meta name="twitter:image" content="https://smilesolutions.muviereck.com/new-images/banners/index1.jpg">
+<meta name="twitter:image:alt" content="Testimonials">
+<meta name="twitter:creator" content="@smilesolutions">
 
-	<title>Heartfelt Success Stories | DrDCR - Top Cardiologist in Chennai</title>
-	<meta name="description" content="Explore inspiring testimonials of DrDCR, the top cardiologist in Chennai. Discover how lives have been transformed. Trust your heart health journey to the best.">
-	<meta name="keywords" content="Cardiology Testimonials, Cardiac Care, Heart Health, Cardiologist Reviews, Patient Experiences, Cardiac Treatment, Cardiac Disease, Cardiac Specialist, Cardiac Surgery, Cardiac Diagnosis, Cardiac Care Services, Cardiac Solutions, Cardiac Physicians, Cardiac Monitoring, Cardiac Rehabilitation">
-	
-	<!-- OGTC -->
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="Heartfelt Success Stories | DrDCR - Top Cardiologist in Chennai">
-	<meta property="og:description" content="Explore inspiring testimonials of DrDCR, the top cardiologist in Chennai. Discover how lives have been transformed. Trust your heart health journey to the best.">
-	<meta property="og:url" content="https://www.drdcr.com/testimonial.php">
-	<meta property="og:image" content="https://www.drdcr.com/new-images/doctor4.png">
-	<meta property="og:image:width" content="1200">
-	<meta property="og:image:height" content="630">
-	<meta property="og:site_name" content="DrDCR">
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Heartfelt Success Stories | DrDCR - Top Cardiologist in Chennai">
-	<meta property="twitter:description" content="Explore inspiring testimonials of DrDCR, the top cardiologist in Chennai. Discover how lives have been transformed. Trust your heart health journey to the best.">
-	<meta property="twitter:image:src" content="https://www.drdcr.com/new-images/doctor4.png">
-	<meta property="twitter:image:width" content="1200">
-	<meta property="twitter:image:height" content="630">
-
-	<link rel="canonical" href="https://www.drdcr.com/testimonial.php">
+<link rel="canonical" href="https://smilesolutions.muviereck.com/testimonial" />
 	<?php include "header.php"; ?>
 
 <style>
@@ -292,29 +294,7 @@ padding:8px !important;
 				</div>
 
     		<?php } ?>
-		
-		
 	</div>
-
-	<!-- <a class="left carousel-control" href="#testimonial-slider" data-slide="prev">
-              <span class="left-arrow"><img src="/assets/left-arrow.png" alt=""></span>
-              <span class="sr-only">Previous</span>
-            </a>
-            <a class="right carousel-control" href="#testimonial-slider" data-slide="next">
-              <span class="right-arrow"><img src="/assets/right-arrow.png" alt=""></span>
-              <span class="sr-only">Next</span>
-            </a>  -->
-
-	           <!-- Left and right controls -->
-			
-
-	 <!-- <div class="owl-controls clickable" style="margin-left:500px;">
-		<div class="owl-buttons" style="align-items:center;">
-			<div class="owl-prev" ></div>
-			<div class="owl-next" style="margin-left:500px;"></div>
-		</div>
-	</div> -->
-
 
 </div>
 </div>
