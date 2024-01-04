@@ -123,7 +123,8 @@
 						    <li><a href="<?= $base_url ?>dental-veneers-in-chromepet.php"><span>Dental Veneers</span> </a></li>
 						    <li><a href="<?= $base_url ?>dental-crowns-in-chromepet.php"><span>Dental Crowns</span> </a></li>
 						    <li><a href="<?= $base_url ?>preventive-dentistry-in-chromepet.php"><span>Preventive Dentistry</span> </a></li>
-						</ul>
+						    <li><a href="<?= $base_url ?>restorative-dentistry-in-chromepet.php"><span>Restorative Dentistry</span> </a></li>
+                        </ul>
 
 					</div>
 				</div>
